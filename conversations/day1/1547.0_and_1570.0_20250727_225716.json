@@ -1,0 +1,405 @@
+{
+  "speaker1": 1547.0,
+  "speaker2": 1570.0,
+  "original_conversation": "Speaker 1: Hi there, Karen. Lovely weather we're having today, isn't it?\nSpeaker 2: Indeed, it is, Susan. The crisp autumn air always makes me feel refreshed.\nSpeaker 1: Me too. It's one of the things I love about living in New England.\nSpeaker 2: Absolutely. The changing of the seasons is simply beautiful. How's your garden holding up?\nSpeaker 1: Quite well! My hydrangeas have bloomed beautifully this year. How about your roses?\nSpeaker 2: They're thriving! I've been applying a new fertilizer, seems to be working wonders. Speaking of growth and development, how's work going in the lab?\nSpeaker 1: It's fascinating as always. We're currently studying the effects of climate change on various plant species.\nSpeaker 2: That sounds incredibly interesting. I bet you discover new things every day.\nSpeaker 1: We sure do! And how about you? How are your students progressing with their English skills?\nSpeaker 2: It's a rewarding journey. Their progress is steady and they're so eager to learn.\nSpeaker 1: That must feel so fulfilling. You're shaping their futures in such a profound way.\nSpeaker 2: It really does. But then again, your work is also crucial. Understanding our environment is more important than ever.\nSpeaker 1: True. It's essential to comprehend how our actions impact the world around us. Do your students ever discuss environmental topics?\nSpeaker 2: Yes, often. In fact, we've recently been using news articles about environmental issues to improve their reading and comprehension.\nSpeaker 1: That's a great approach, integrating current affairs into learning. It makes the process more engaging, doesn't it?\nSpeaker 2: Exactly, Susan. It's not just about language; it's also about understanding the world we live in.\nSpeaker 1: I couldn't agree more. Education, in any field, is about fostering curiosity and critical thinking. \nSpeaker 2: Absolutely. And at the end of the day, we're all learners, aren't we? Both in our backyards and in our professions.\nSpeaker 1: Indeed we are, Karen. It's the joy of discovery that keeps us going, isn't it?",
+  "cleaned_conversation": "Speaker 1: hi there, karen. lovely weather we're having today, isn't it?\nSpeaker 2: indeed, it is, susan. the crisp autumn air always makes me feel refreshed.\nSpeaker 1: me too. it's one of the things i love about living in new england.\nSpeaker 2: absolutely. the changing of the seasons is simply beautiful. how's your garden holding up?\nSpeaker 1: quite well! my hydrangeas have bloomed beautifully this year. how about your roses?\nSpeaker 2: they're thriving! i've been applying a new fertilizer, seems to be working wonders. speaking of growth and development, how's work going in the lab?\nSpeaker 1: it's fascinating as always. we're currently studying the effects of climate change on various plant species.\nSpeaker 2: that sounds incredibly interesting. i bet you discover new things every day.\nSpeaker 1: we sure do! and how about you? how are your students progressing with their english skills?\nSpeaker 2: it's a rewarding journey. their progress is steady and they're so eager to learn.\nSpeaker 1: that must feel so fulfilling. you're shaping their futures in such a profound way.\nSpeaker 2: it really does. but then again, your work is also crucial. understanding our environment is more important than ever.\nSpeaker 1: true. it's essential to comprehend how our actions impact the world around us. do your students ever discuss environmental topics?\nSpeaker 2: yes, often. in fact, we've recently been using news articles about environmental issues to improve their reading and comprehension.\nSpeaker 1: that's a great approach, integrating current affairs into learning. it makes the process more engaging, doesn't it?\nSpeaker 2: exactly, susan. it's not just about language; it's also about understanding the world we live in.\nSpeaker 1: i couldn't agree more. education, in any field, is about fostering curiosity and critical thinking.\nSpeaker 2: absolutely. and at the end of the day, we're all learners, aren't we? both in our backyards and in our professions.\nSpeaker 1: indeed we are, karen. it's the joy of discovery that keeps us going, isn't it?",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AY1",
+        "DH EH1 R",
+        "K EH1 R AH0 N",
+        "L AH1 V L IY0",
+        "W EH1 DH ER0",
+        "W ER1",
+        "HH AE1 V IH0 NG",
+        "T AH0 D EY1",
+        "[UNK]",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "IH1 T",
+        "IH1 Z",
+        "S UW1 Z AH0 N",
+        "DH AH0",
+        "K R IH1 S P",
+        "AO1 T AH0 M",
+        "EH1 R",
+        "AO1 L W EY2 Z",
+        "M EY1 K S",
+        "M IY1",
+        "F IY1 L",
+        "R IY0 F R EH1 SH T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "M IY1",
+        "T UW1",
+        "IH1 T S",
+        "W AH1 N",
+        "AH1 V",
+        "DH AH0",
+        "TH IH1 NG Z",
+        "AY1",
+        "L AH1 V",
+        "AH0 B AW1 T",
+        "L IH1 V IH0 NG",
+        "IH0 N",
+        "N UW1",
+        "IH1 NG G L AH0 N D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "DH AH0",
+        "CH EY1 N JH IH0 NG",
+        "AH1 V",
+        "DH AH0",
+        "S IY1 Z AH0 N Z",
+        "IH1 Z",
+        "S IH1 M P L IY0",
+        "B Y UW1 T AH0 F AH0 L",
+        "[UNK]",
+        "Y AO1 R",
+        "G AA1 R D AH0 N",
+        "HH OW1 L D IH0 NG",
+        "AH1 P"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K W AY1 T",
+        "W EH1 L",
+        "M AY1",
+        "[UNK]",
+        "HH AE1 V",
+        "B L UW1 M D",
+        "B Y UW1 T AH0 F L IY0",
+        "DH IH1 S",
+        "Y IH1 R",
+        "HH AW1",
+        "AH0 B AW1 T",
+        "Y AO1 R",
+        "R OW1 Z IH0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "TH R AY1 V IH0 NG",
+        "[UNK]",
+        "B IH1 N",
+        "AH0 P L AY1 IH0 NG",
+        "AH0",
+        "N UW1",
+        "F ER1 T AH0 L AY2 Z ER0",
+        "S IY1 M Z",
+        "T UW1",
+        "B IY1",
+        "W ER1 K IH0 NG",
+        "W AH1 N D ER0 Z",
+        "S P IY1 K IH0 NG",
+        "AH1 V",
+        "G R OW1 TH",
+        "AH0 N D",
+        "D IH0 V EH1 L AH0 P M AH0 N T",
+        "[UNK]",
+        "W ER1 K",
+        "G OW1 IH0 NG",
+        "IH0 N",
+        "DH AH0",
+        "L AE1 B"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 T S",
+        "F AE1 S AH0 N EY2 T IH0 NG",
+        "AE1 Z",
+        "AO1 L W EY2 Z",
+        "W ER1",
+        "K ER1 AH0 N T L IY0",
+        "S T AH1 D IY0 IH0 NG",
+        "DH AH0",
+        "IH0 F EH1 K T S",
+        "AH1 V",
+        "K L AY1 M AH0 T",
+        "CH EY1 N JH",
+        "AA1 N",
+        "V EH1 R IY0 AH0 S",
+        "P L AE1 N T",
+        "S P IY1 SH IY0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "DH AE1 T",
+        "S AW1 N D Z",
+        "IH2 N K R EH1 D AH0 B L IY0",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "AY1",
+        "B EH1 T",
+        "Y UW1",
+        "D IH0 S K AH1 V ER0",
+        "N UW1",
+        "TH IH1 NG Z",
+        "EH1 V ER0 IY0",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W IY1",
+        "SH UH1 R",
+        "D UW1",
+        "AH0 N D",
+        "HH AW1",
+        "AH0 B AW1 T",
+        "Y UW1",
+        "HH AW1",
+        "AA1 R",
+        "Y AO1 R",
+        "S T UW1 D AH0 N T S",
+        "P R AH0 G R EH1 S IH0 NG",
+        "W IH1 DH",
+        "DH EH1 R",
+        "IH1 NG G L IH0 SH",
+        "S K IH1 L Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 T S",
+        "AH0",
+        "R IH0 W AO1 R D IH0 NG",
+        "JH ER1 N IY0",
+        "DH EH1 R",
+        "P R AA1 G R EH2 S",
+        "IH1 Z",
+        "S T EH1 D IY0",
+        "AH0 N D",
+        "[UNK]",
+        "S OW1",
+        "IY1 G ER0",
+        "T UW1",
+        "L ER1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "DH AE1 T",
+        "M AH1 S T",
+        "F IY1 L",
+        "S OW1",
+        "F UH0 L F IH1 L IH0 NG",
+        "[UNK]",
+        "SH EY1 P IH0 NG",
+        "DH EH1 R",
+        "F Y UW1 CH ER0 Z",
+        "IH0 N",
+        "S AH1 CH",
+        "AH0",
+        "P R OW0 F AW1 N D",
+        "W EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 T",
+        "R IH1 L IY0",
+        "D AH1 Z",
+        "B AH1 T",
+        "DH EH1 N",
+        "AH0 G EH1 N",
+        "Y AO1 R",
+        "W ER1 K",
+        "IH1 Z",
+        "AO1 L S OW0",
+        "K R UW1 SH AH0 L",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "AW1 ER0",
+        "IH0 N V AY1 R AH0 N M AH0 N T",
+        "IH1 Z",
+        "M AO1 R",
+        "IH2 M P AO1 R T AH0 N T",
+        "DH AE1 N",
+        "EH1 V ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "IH1 T S",
+        "EH0 S EH1 N SH AH0 L",
+        "T UW1",
+        "K AA2 M P R IY0 HH EH1 N D",
+        "HH AW1",
+        "AW1 ER0",
+        "AE1 K SH AH0 N Z",
+        "IH2 M P AE1 K T",
+        "DH AH0",
+        "W ER1 L D",
+        "ER0 AW1 N D",
+        "AH1 S",
+        "D UW1",
+        "Y AO1 R",
+        "S T UW1 D AH0 N T S",
+        "EH1 V ER0",
+        "D IH0 S K AH1 S",
+        "IH0 N V AY2 R AH0 N M EH1 N T AH0 L",
+        "T AA1 P IH0 K S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "AO1 F T AH0 N",
+        "IH0 N",
+        "F AE1 K T",
+        "[UNK]",
+        "R IY1 S AH0 N T L IY0",
+        "B IH1 N",
+        "Y UW1 Z IH0 NG",
+        "N UW1 Z",
+        "AA1 R T AH0 K AH0 L Z",
+        "AH0 B AW1 T",
+        "IH0 N V AY2 R AH0 N M EH1 N T AH0 L",
+        "IH1 SH UW0 Z",
+        "T UW1",
+        "IH2 M P R UW1 V",
+        "DH EH1 R",
+        "R IY1 D IH0 NG",
+        "AH0 N D",
+        "K AA2 M P R IY0 HH EH1 N SH AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "AH0",
+        "G R EY1 T",
+        "AH0 P R OW1 CH",
+        "IH1 N T AH0 G R EY2 T IH0 NG",
+        "K ER1 AH0 N T",
+        "AH0 F EH1 R Z",
+        "IH1 N T UW0",
+        "L ER1 N IH0 NG",
+        "IH1 T",
+        "M EY1 K S",
+        "DH AH0",
+        "P R AA1 S EH2 S",
+        "M AO1 R",
+        "IH0 N G EY1 JH IH0 NG",
+        "[UNK]",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "S UW1 Z AH0 N",
+        "IH1 T S",
+        "N AA1 T",
+        "JH AH1 S T",
+        "AH0 B AW1 T",
+        "L AE1 NG G W AH0 JH",
+        "IH1 T S",
+        "AO1 L S OW0",
+        "AH0 B AW1 T",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "DH AH0",
+        "W ER1 L D",
+        "W IY1",
+        "L AY1 V",
+        "IH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AY1",
+        "[UNK]",
+        "AH0 G R IY1",
+        "M AO1 R",
+        "EH2 JH AH0 K EY1 SH AH0 N",
+        "IH0 N",
+        "EH1 N IY0",
+        "F IY1 L D",
+        "IH1 Z",
+        "AH0 B AW1 T",
+        "F AA1 S T ER0 IH0 NG",
+        "K Y UH2 R IY0 AA1 S AH0 T IY0",
+        "AH0 N D",
+        "K R IH1 T IH0 K AH0 L",
+        "TH IH1 NG K IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "AH0 N D",
+        "AE1 T",
+        "DH AH0",
+        "EH1 N D",
+        "AH1 V",
+        "DH AH0",
+        "D EY1",
+        "W ER1",
+        "AO1 L",
+        "L ER1 N ER0 Z",
+        "AA1 R AH0 N T",
+        "W IY1",
+        "B OW1 TH",
+        "IH0 N",
+        "AW1 ER0",
+        "B AE1 K Y AA2 R D Z",
+        "AH0 N D",
+        "IH0 N",
+        "AW1 ER0",
+        "P R AH0 F EH1 SH AH0 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "W IY1",
+        "AA1 R",
+        "K EH1 R AH0 N",
+        "IH1 T S",
+        "DH AH0",
+        "JH OY1",
+        "AH1 V",
+        "D IH0 S K AH1 V ER0 IY0",
+        "DH AE1 T",
+        "K IY1 P S",
+        "AH1 S",
+        "G OW1 IH0 NG",
+        "[UNK]",
+        "IH1 T"
+      ]
+    }
+  ]
+}

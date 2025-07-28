@@ -1,0 +1,289 @@
+{
+  "speaker1": 1317.0,
+  "speaker2": 1581.0,
+  "original_conversation": "Speaker 1: Good morning, John. How are you doing today?\nSpeaker 2: Morning, Sarah. I'm doing quite well, thank you. How about you?\nSpeaker 1: I'm good, thank you. Just finished my morning run. \nSpeaker 2: That's nice. Wish I could do that, but I'm not much of a morning person. \nSpeaker 1: Yeah, I can't start the day without it. Any new project you're working on?\nSpeaker 2: Actually, yes, I'm working on a new bridge design, quite challenging but exciting.\nSpeaker 1: That sounds interesting. I always admired the precision and creativity needed in your field.\nSpeaker 2: Thank you, Sarah. It is indeed a demanding profession, but I love it. How about nursing? I believe it's equally challenging.\nSpeaker 1: Oh definitely, every day is a new challenge. But it's rewarding to see patients recover and get back to their normal lives.\nSpeaker 2: I can imagine. It must be a great feeling to make such a direct impact on people's lives.\nSpeaker 1: Yes, it is. It's stressful at times, but it's worth it. Speaking of which, I should head off now. My shift starts in an hour.\nSpeaker 2: Oh, I won't keep you then. Have a good day at work, Sarah. \nSpeaker 1: You too, John. Good luck with your bridge design. I can't wait to hear more about it.\nSpeaker 2: Thank you, Sarah. I'm looking forward to telling you more. Take care.",
+  "cleaned_conversation": "Speaker 1: good morning, john. how are you doing today?\nSpeaker 2: morning, sarah. i'm doing quite well, thank you. how about you?\nSpeaker 1: i'm good, thank you. just finished my morning run.\nSpeaker 2: that's nice. wish i could do that, but i'm not much of a morning person.\nSpeaker 1: yeah, i can't start the day without it. any new project you're working on?\nSpeaker 2: actually, yes, i'm working on a new bridge design, quite challenging but exciting.\nSpeaker 1: that sounds interesting. i always admired the precision and creativity needed in your field.\nSpeaker 2: thank you, sarah. it is indeed a demanding profession, but i love it. how about nursing? i believe it's equally challenging.\nSpeaker 1: definitely, every day is a new challenge. but it's rewarding to see patients recover and get back to their normal lives.\nSpeaker 2: i can imagine. it must be a great feeling to make such a direct impact on people's lives.\nSpeaker 1: yes, it is. it's stressful at times, but it's worth it. speaking of which, i should head off now. my shift starts in an hour.\nSpeaker 2: , i won't keep you then. have a good day at work, sarah.\nSpeaker 1: you too, john. good luck with your bridge design. i can't wait to hear more about it.\nSpeaker 2: thank you, sarah. i'm looking forward to telling you more. take care.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "JH AA1 N",
+        "HH AW1",
+        "AA1 R",
+        "Y UW1",
+        "D UW1 IH0 NG",
+        "T AH0 D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "M AO1 R N IH0 NG",
+        "S EH1 R AH0",
+        "IH1 M",
+        "D UW1 IH0 NG",
+        "K W AY1 T",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "Y UW1",
+        "HH AW1",
+        "AH0 B AW1 T",
+        "Y UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 M",
+        "G UH1 D",
+        "TH AE1 NG K",
+        "Y UW1",
+        "JH AH1 S T",
+        "F IH1 N IH0 SH T",
+        "M AY1",
+        "M AO1 R N IH0 NG",
+        "R AH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "N AY1 S",
+        "W IH1 SH",
+        "AY1",
+        "K UH1 D",
+        "D UW1",
+        "DH AE1 T",
+        "B AH1 T",
+        "IH1 M",
+        "N AA1 T",
+        "M AH1 CH",
+        "AH1 V",
+        "AH0",
+        "M AO1 R N IH0 NG",
+        "P ER1 S AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y AE1",
+        "AY1",
+        "K AE1 N T",
+        "S T AA1 R T",
+        "DH AH0",
+        "D EY1",
+        "W IH0 TH AW1 T",
+        "IH1 T",
+        "EH1 N IY0",
+        "N UW1",
+        "P R AA1 JH EH0 K T",
+        "[UNK]",
+        "W ER1 K IH0 NG",
+        "AA1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE1 K CH UW2 AH0 L IY0",
+        "Y EH1 S",
+        "IH1 M",
+        "W ER1 K IH0 NG",
+        "AA1 N",
+        "AH0",
+        "N UW1",
+        "B R IH1 JH",
+        "D IH0 Z AY1 N",
+        "K W AY1 T",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "B AH1 T",
+        "IH0 K S AY1 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "DH AE1 T",
+        "S AW1 N D Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "AY1",
+        "AO1 L W EY2 Z",
+        "AH0 D M AY1 ER0 D",
+        "DH AH0",
+        "P R IY0 S IH1 ZH AH0 N",
+        "AH0 N D",
+        "K R IY2 EY0 T IH1 V AH0 T IY0",
+        "N IY1 D AH0 D",
+        "IH0 N",
+        "Y AO1 R",
+        "F IY1 L D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K",
+        "Y UW1",
+        "S EH1 R AH0",
+        "IH1 T",
+        "IH1 Z",
+        "IH2 N D IY1 D",
+        "AH0",
+        "D IH0 M AE1 N D IH0 NG",
+        "P R AH0 F EH1 SH AH0 N",
+        "B AH1 T",
+        "AY1",
+        "L AH1 V",
+        "IH1 T",
+        "HH AW1",
+        "AH0 B AW1 T",
+        "N ER1 S IH0 NG",
+        "AY1",
+        "B IH0 L IY1 V",
+        "IH1 T S",
+        "IY1 K W AH0 L IY0",
+        "CH AE1 L AH0 N JH IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "EH1 V ER0 IY0",
+        "D EY1",
+        "IH1 Z",
+        "AH0",
+        "N UW1",
+        "CH AE1 L AH0 N JH",
+        "B AH1 T",
+        "IH1 T S",
+        "R IH0 W AO1 R D IH0 NG",
+        "T UW1",
+        "S IY1",
+        "P EY1 SH AH0 N T S",
+        "R IH0 K AH1 V ER0",
+        "AH0 N D",
+        "G EH1 T",
+        "B AE1 K",
+        "T UW1",
+        "DH EH1 R",
+        "N AO1 R M AH0 L",
+        "L IH1 V Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AY1",
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "IH1 T",
+        "M AH1 S T",
+        "B IY1",
+        "AH0",
+        "G R EY1 T",
+        "F IY1 L IH0 NG",
+        "T UW1",
+        "M EY1 K",
+        "S AH1 CH",
+        "AH0",
+        "D ER0 EH1 K T",
+        "IH2 M P AE1 K T",
+        "AA1 N",
+        "P IY1 P AH0 L Z",
+        "L IH1 V Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "IH1 T",
+        "IH1 Z",
+        "IH1 T S",
+        "S T R EH1 S F AH0 L",
+        "AE1 T",
+        "T AY1 M Z",
+        "B AH1 T",
+        "IH1 T S",
+        "W ER1 TH",
+        "IH1 T",
+        "S P IY1 K IH0 NG",
+        "AH1 V",
+        "W IH1 CH",
+        "AY1",
+        "SH UH1 D",
+        "HH EH1 D",
+        "AO1 F",
+        "N AW1",
+        "M AY1",
+        "SH IH1 F T",
+        "S T AA1 R T S",
+        "IH0 N",
+        "AE1 N",
+        "AW1 ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "AY1",
+        "W OW1 N T",
+        "K IY1 P",
+        "Y UW1",
+        "DH EH1 N",
+        "HH AE1 V",
+        "AH0",
+        "G UH1 D",
+        "D EY1",
+        "AE1 T",
+        "W ER1 K",
+        "S EH1 R AH0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y UW1",
+        "T UW1",
+        "JH AA1 N",
+        "G UH1 D",
+        "L AH1 K",
+        "W IH1 DH",
+        "Y AO1 R",
+        "B R IH1 JH",
+        "D IH0 Z AY1 N",
+        "AY1",
+        "K AE1 N T",
+        "W EY1 T",
+        "T UW1",
+        "HH IY1 R",
+        "M AO1 R",
+        "AH0 B AW1 T",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K",
+        "Y UW1",
+        "S EH1 R AH0",
+        "IH1 M",
+        "L UH1 K IH0 NG",
+        "F AO1 R W ER0 D",
+        "T UW1",
+        "T EH1 L IH0 NG",
+        "Y UW1",
+        "M AO1 R",
+        "T EY1 K",
+        "K EH1 R"
+      ]
+    }
+  ]
+}

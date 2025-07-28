@@ -1,0 +1,375 @@
+{
+  "speaker1": 1203.0,
+  "speaker2": 1295.0,
+  "original_conversation": "Speaker 1: Hey there, neighbor! Beautiful day, isn't it?\nSpeaker 2: It sure is! Nothing like a good New England summer day. \nSpeaker 1: You got that right. Been doing some yard work, trying to take advantage of the weather. How about you?\nSpeaker 2: Just got back from a walk around the neighborhood. I love how peaceful it is here in Boxford.\nSpeaker 1: Haverhill's the same. I've always appreciated the slower pace of life here. By the way, how's work going?\nSpeaker 2: It's been busy, actually. The marketing world never sleeps, you know. And you, still keeping the tech world in check?\nSpeaker 1: Trying to! Being an IT Systems Admin is no cakewalk. Always something new to troubleshoot.\nSpeaker 2: I can imagine. The closest I get to that is figuring out Google Analytics. \nSpeaker 1: Oh, the joys of data analysis. But it's essential, isn't it? \nSpeaker 2: Absolutely. In marketing, understanding data is key to reaching our audience effectively. \nSpeaker 1: True. In my line of work, data helps us optimize systems and solve problems much faster.\nSpeaker 2: Interesting. I guess data is a universal language in the business world.\nSpeaker 1: Seems so. And with the rise of AI and machine learning, it's only going to get more important.\nSpeaker 2: Is that something you deal with in your job?\nSpeaker 1: Increasingly, yes. Automation is a big part of IT now. It's all about making systems more efficient.\nSpeaker 2: That's true for marketing as well. We're always looking for ways to automate processes, especially repetitive ones.\nSpeaker 1: It's an exciting time to be in our fields, isn't it? \nSpeaker 2: It sure is. Always evolving, always something new to learn.\nSpeaker 1: Couldn't agree more. Here's to making the most of it!\nSpeaker 2: Cheers to that, neighbor!",
+  "cleaned_conversation": "Speaker 1: hey there, neighbor! beautiful day, isn't it?\nSpeaker 2: it sure is! nothing a good new england summer day.\nSpeaker 1: you got that right. been doing some yard work, trying to take advantage of the weather. how about you?\nSpeaker 2: just got back from a walk around the neighborhood. i love how peaceful it is here in boxford.\nSpeaker 1: haverhill's the same. i've always appreciated the slower pace of life here. by the way, how's work going?\nSpeaker 2: it's been busy, actually. the marketing world never sleeps, . and you, still keeping the tech world in check?\nSpeaker 1: trying to! being an it systems admin is no cakewalk. always something new to troubleshoot.\nSpeaker 2: i can imagine. the closest i get to that is figuring out google analytics.\nSpeaker 1: , the joys of data analysis. but it's essential, isn't it?\nSpeaker 2: absolutely. in marketing, understanding data is key to reaching our audience effectively.\nSpeaker 1: true. in my line of work, data helps us optimize systems and solve problems much faster.\nSpeaker 2: interesting. i guess data is a universal language in the business world.\nSpeaker 1: seems so. and with the rise of ai and machine learning, it's only going to get more important.\nSpeaker 2: is that something you deal with in your job?\nSpeaker 1: increasingly, yes. automation is a big part of it now. it's all about making systems more efficient.\nSpeaker 2: that's true for marketing as well. we're always looking for ways to automate processes, especially repetitive ones.\nSpeaker 1: it's an exciting time to be in our fields, isn't it?\nSpeaker 2: it sure is. always evolving, always something new to learn.\nSpeaker 1: couldn't agree more. here's to making the most of it!\nSpeaker 2: cheers to that, neighbor!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "DH EH1 R",
+        "N EY1 B ER0",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 T",
+        "SH UH1 R",
+        "IH1 Z",
+        "N AH1 TH IH0 NG",
+        "AH0",
+        "G UH1 D",
+        "N UW1",
+        "IH1 NG G L AH0 N D",
+        "S AH1 M ER0",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y UW1",
+        "G AA1 T",
+        "DH AE1 T",
+        "R AY1 T",
+        "B IH1 N",
+        "D UW1 IH0 NG",
+        "S AH1 M",
+        "Y AA1 R D",
+        "W ER1 K",
+        "T R AY1 IH0 NG",
+        "T UW1",
+        "T EY1 K",
+        "AE0 D V AE1 N T IH0 JH",
+        "AH1 V",
+        "DH AH0",
+        "W EH1 DH ER0",
+        "HH AW1",
+        "AH0 B AW1 T",
+        "Y UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "JH AH1 S T",
+        "G AA1 T",
+        "B AE1 K",
+        "F R AH1 M",
+        "AH0",
+        "W AO1 K",
+        "ER0 AW1 N D",
+        "DH AH0",
+        "N EY1 B ER0 HH UH2 D",
+        "AY1",
+        "L AH1 V",
+        "HH AW1",
+        "P IY1 S F AH0 L",
+        "IH1 T",
+        "IH1 Z",
+        "HH IY1 R",
+        "IH0 N",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "DH AH0",
+        "S EY1 M",
+        "[UNK]",
+        "AO1 L W EY2 Z",
+        "AH0 P R IY1 SH IY0 EY2 T IH0 D",
+        "DH AH0",
+        "S L OW1 ER0",
+        "P EY1 S",
+        "AH1 V",
+        "L AY1 F",
+        "HH IY1 R",
+        "B AY1",
+        "DH AH0",
+        "W EY1",
+        "[UNK]",
+        "W ER1 K",
+        "G OW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 T S",
+        "B IH1 N",
+        "B IH1 Z IY0",
+        "AE1 K CH UW2 AH0 L IY0",
+        "DH AH0",
+        "M AA1 R K AH0 T IH0 NG",
+        "W ER1 L D",
+        "N EH1 V ER0",
+        "S L IY1 P S",
+        "[UNK]",
+        "AH0 N D",
+        "Y UW1",
+        "S T IH1 L",
+        "K IY1 P IH0 NG",
+        "DH AH0",
+        "T EH1 K",
+        "W ER1 L D",
+        "IH0 N",
+        "CH EH1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R AY1 IH0 NG",
+        "T UW1",
+        "B IY1 IH0 NG",
+        "AE1 N",
+        "IH1 T",
+        "S IH1 S T AH0 M Z",
+        "AE1 D M IH0 N",
+        "IH1 Z",
+        "N OW1",
+        "[UNK]",
+        "AO1 L W EY2 Z",
+        "S AH1 M TH IH0 NG",
+        "N UW1",
+        "T UW1",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AY1",
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "DH AH0",
+        "K L OW1 S AH0 S T",
+        "AY1",
+        "G EH1 T",
+        "T UW1",
+        "DH AE1 T",
+        "IH1 Z",
+        "F IH1 G Y ER0 IH0 NG",
+        "AW1 T",
+        "G UW1 G AH0 L",
+        "AE2 N AH0 L IH1 T IH0 K S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "DH AH0",
+        "JH OY1 Z",
+        "AH1 V",
+        "D EY1 T AH0",
+        "AE0 N AE1 L IH0 S IH0 S",
+        "B AH1 T",
+        "IH1 T S",
+        "EH0 S EH1 N SH AH0 L",
+        "[UNK]",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "IH0 N",
+        "M AA1 R K AH0 T IH0 NG",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "D EY1 T AH0",
+        "IH1 Z",
+        "K IY1",
+        "T UW1",
+        "R IY1 CH IH0 NG",
+        "AW1 ER0",
+        "AA1 D IY0 AH0 N S",
+        "IH0 F EH1 K T IH0 V L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "IH0 N",
+        "M AY1",
+        "L AY1 N",
+        "AH1 V",
+        "W ER1 K",
+        "D EY1 T AH0",
+        "HH EH1 L P S",
+        "AH1 S",
+        "AA1 P T IH0 M AY2 Z",
+        "S IH1 S T AH0 M Z",
+        "AH0 N D",
+        "S AA1 L V",
+        "P R AA1 B L AH0 M Z",
+        "M AH1 CH",
+        "F AE1 S T ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "AY1",
+        "G EH1 S",
+        "D EY1 T AH0",
+        "IH1 Z",
+        "AH0",
+        "Y UW2 N AH0 V ER1 S AH0 L",
+        "L AE1 NG G W AH0 JH",
+        "IH0 N",
+        "DH AH0",
+        "B IH1 Z N AH0 S",
+        "W ER1 L D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S IY1 M Z",
+        "S OW1",
+        "AH0 N D",
+        "W IH1 DH",
+        "DH AH0",
+        "R AY1 Z",
+        "AH1 V",
+        "AY1",
+        "AH0 N D",
+        "M AH0 SH IY1 N",
+        "L ER1 N IH0 NG",
+        "IH1 T S",
+        "OW1 N L IY0",
+        "G OW1 IH0 NG",
+        "T UW1",
+        "G EH1 T",
+        "M AO1 R",
+        "IH2 M P AO1 R T AH0 N T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 Z",
+        "DH AE1 T",
+        "S AH1 M TH IH0 NG",
+        "Y UW1",
+        "D IY1 L",
+        "W IH1 DH",
+        "IH0 N",
+        "Y AO1 R",
+        "JH AA1 B"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N K R IY1 S IH0 NG G L IY0",
+        "Y EH1 S",
+        "AO0 T AH0 M EY1 SH AH0 N",
+        "IH1 Z",
+        "AH0",
+        "B IH1 G",
+        "P AA1 R T",
+        "AH1 V",
+        "IH1 T",
+        "N AW1",
+        "IH1 T S",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "M EY1 K IH0 NG",
+        "S IH1 S T AH0 M Z",
+        "M AO1 R",
+        "IH0 F IH1 SH AH0 N T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "T R UW1",
+        "F AO1 R",
+        "M AA1 R K AH0 T IH0 NG",
+        "AE1 Z",
+        "W EH1 L",
+        "W ER1",
+        "AO1 L W EY2 Z",
+        "L UH1 K IH0 NG",
+        "F AO1 R",
+        "W EY1 Z",
+        "T UW1",
+        "AO1 T AH0 M EY2 T",
+        "P R AA1 S EH0 S AH0 Z",
+        "AH0 S P EH1 SH L IY0",
+        "R IH0 P EH1 T IH0 T IH0 V",
+        "W AH1 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 T S",
+        "AE1 N",
+        "IH0 K S AY1 T IH0 NG",
+        "T AY1 M",
+        "T UW1",
+        "B IY1",
+        "IH0 N",
+        "AW1 ER0",
+        "F IY1 L D Z",
+        "[UNK]",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 T",
+        "SH UH1 R",
+        "IH1 Z",
+        "AO1 L W EY2 Z",
+        "IH0 V AA1 L V IH0 NG",
+        "AO1 L W EY2 Z",
+        "S AH1 M TH IH0 NG",
+        "N UW1",
+        "T UW1",
+        "L ER1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "AH0 G R IY1",
+        "M AO1 R",
+        "[UNK]",
+        "T UW1",
+        "M EY1 K IH0 NG",
+        "DH AH0",
+        "M OW1 S T",
+        "AH1 V",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "CH IH1 R Z",
+        "T UW1",
+        "DH AE1 T",
+        "N EY1 B ER0"
+      ]
+    }
+  ]
+}

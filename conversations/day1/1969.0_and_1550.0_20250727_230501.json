@@ -1,0 +1,409 @@
+{
+  "speaker1": 1969.0,
+  "speaker2": 1550.0,
+  "original_conversation": "Speaker 1: Hey there, good morning. How's everything going?\n \nSpeaker 2: Good morning! Everything's just fine, thanks. How are you?\n\nSpeaker 1: I'm doing well, thank you. Caught a beautiful sunrise this morning, you know.\n\nSpeaker 2: That's wonderful. It's amazing how peaceful our neighborhood can be in the morning, isn't it?\n\nSpeaker 1: Absolutely. I always feel lucky to be able to appreciate these little moments. Speaking of which, how's your garden coming along?\n\nSpeaker 2: Oh, it's coming along nicely! The tulips are starting to bloom. I hope the rabbits don't get to them first though.\n\nSpeaker 1: Ah, the eternal struggle of gardeners everywhere. I should get some shots of your garden one of these days, it would make for a good video.\n\nSpeaker 2: That would be lovely! You must have such an eye for detail in your line of work.\n\nSpeaker 1: Well, I try my best. There's so much beauty in everyday life that often goes unnoticed. As a videographer, it's my job to capture it.\n\nSpeaker 2: I completely agree. As an actor, I find that it's the small details that often make the biggest impact.\n\nSpeaker 1: Absolutely, the subtle gestures and expressions can make all the difference. I imagine that's quite challenging.\n\nSpeaker 2: It can be, but it's also very rewarding. There's a real art to bringing a character to life.\n\nSpeaker 1: I can only imagine. It must be exciting to step into someone else's shoes for a while.\n\nSpeaker 2: Definitely, it's like living multiple lives. Anyway, I'd love to see some of your work sometime. \n\nSpeaker 1: I'd be happy to show you. Maybe we could even collaborate on a project one day.\n\nSpeaker 2: That sounds like a great idea. Let's definitely explore that possibility.\n\nSpeaker 1: I'm glad you think so. I'm sure we could create something amazing together.\n\nSpeaker 2: Absolutely, let's do it. I'm excited about the possibilities.\n\nSpeaker 1: Me too. I'm sure we'll make great neighbors and collaborators. \n\nSpeaker 2: Indeed, looking forward to it.",
+  "cleaned_conversation": "Speaker 1: hey there, good morning. how's everything going?\nSpeaker 2: good morning! everything's just fine, thanks. how are you?\nSpeaker 1: i'm doing well, thank you. caught a beautiful sunrise this morning, .\nSpeaker 2: that's wonderful. it's amazing how peaceful our neighborhood can be in the morning, isn't it?\nSpeaker 1: absolutely. i always feel lucky to be able to appreciate these little moments. speaking of which, how's your garden coming along?\nSpeaker 2: , it's coming along nicely! the tulips are starting to bloom. i hope the rabbits don't get to them first though.\nSpeaker 1: , the eternal struggle of gardeners everywhere. i should get some shots of your garden one of these days, it would make for a good video.\nSpeaker 2: that would be lovely! you must have such an eye for detail in your line of work.\nSpeaker 1: well, i try my best. there's so much beauty in everyday life that often goes unnoticed. as a videographer, it's my job to capture it.\nSpeaker 2: i completely agree. as an actor, i find that it's the small details that often make the biggest impact.\nSpeaker 1: absolutely, the subtle gestures and expressions can make all the difference. i imagine that's quite challenging.\nSpeaker 2: it can be, but it's also very rewarding. there's a real art to bringing a character to life.\nSpeaker 1: i can only imagine. it must be exciting to step into someone else's shoes for a while.\nSpeaker 2: definitely, it's living multiple lives. anyway, i'd love to see some of your work sometime.\nSpeaker 1: i'd be happy to show you. maybe we could even collaborate on a project one day.\nSpeaker 2: that sounds a great idea. let's definitely explore that possibility.\nSpeaker 1: i'm glad you think so. i'm sure we could create something amazing together.\nSpeaker 2: absolutely, let's do it. i'm excited about the possibilities.\nSpeaker 1: me too. i'm sure we'll make great neighbors and collaborators.\nSpeaker 2: indeed, looking forward to it.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "DH EH1 R",
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "[UNK]",
+        "EH1 V R IY0 TH IH2 NG",
+        "G OW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "EH1 V R IY0 TH IH2 NG Z",
+        "JH AH1 S T",
+        "F AY1 N",
+        "TH AE1 NG K S",
+        "HH AW1",
+        "AA1 R",
+        "Y UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 M",
+        "D UW1 IH0 NG",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "Y UW1",
+        "K AA1 T",
+        "AH0",
+        "B Y UW1 T AH0 F AH0 L",
+        "S AH1 N R AY2 Z",
+        "DH IH1 S",
+        "M AO1 R N IH0 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "W AH1 N D ER0 F AH0 L",
+        "IH1 T S",
+        "AH0 M EY1 Z IH0 NG",
+        "HH AW1",
+        "P IY1 S F AH0 L",
+        "AW1 ER0",
+        "N EY1 B ER0 HH UH2 D",
+        "K AE1 N",
+        "B IY1",
+        "IH0 N",
+        "DH AH0",
+        "M AO1 R N IH0 NG",
+        "[UNK]",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "AY1",
+        "AO1 L W EY2 Z",
+        "F IY1 L",
+        "L AH1 K IY0",
+        "T UW1",
+        "B IY1",
+        "EY1 B AH0 L",
+        "T UW1",
+        "AH0 P R IY1 SH IY0 EY2 T",
+        "DH IY1 Z",
+        "L IH1 T AH0 L",
+        "M OW1 M AH0 N T S",
+        "S P IY1 K IH0 NG",
+        "AH1 V",
+        "W IH1 CH",
+        "[UNK]",
+        "Y AO1 R",
+        "G AA1 R D AH0 N",
+        "K AH1 M IH0 NG",
+        "AH0 L AO1 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "IH1 T S",
+        "K AH1 M IH0 NG",
+        "AH0 L AO1 NG",
+        "N AY1 S L IY0",
+        "DH AH0",
+        "T UW1 L IH0 P S",
+        "AA1 R",
+        "S T AA1 R T IH0 NG",
+        "T UW1",
+        "B L UW1 M",
+        "AY1",
+        "HH OW1 P",
+        "DH AH0",
+        "R AE1 B AH0 T S",
+        "[UNK]",
+        "G EH1 T",
+        "T UW1",
+        "DH EH1 M",
+        "F ER1 S T",
+        "DH OW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "DH AH0",
+        "IH0 T ER1 N AH0 L",
+        "S T R AH1 G AH0 L",
+        "AH1 V",
+        "G AA1 R D AH0 N ER0 Z",
+        "EH1 V R IY0 W EH2 R",
+        "AY1",
+        "SH UH1 D",
+        "G EH1 T",
+        "S AH1 M",
+        "SH AA1 T S",
+        "AH1 V",
+        "Y AO1 R",
+        "G AA1 R D AH0 N",
+        "W AH1 N",
+        "AH1 V",
+        "DH IY1 Z",
+        "D EY1 Z",
+        "IH1 T",
+        "W UH1 D",
+        "M EY1 K",
+        "F AO1 R",
+        "AH0",
+        "G UH1 D",
+        "V IH1 D IY0 OW0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "DH AE1 T",
+        "W UH1 D",
+        "B IY1",
+        "L AH1 V L IY0",
+        "Y UW1",
+        "M AH1 S T",
+        "HH AE1 V",
+        "S AH1 CH",
+        "AE1 N",
+        "AY1",
+        "F AO1 R",
+        "D IH0 T EY1 L",
+        "IH0 N",
+        "Y AO1 R",
+        "L AY1 N",
+        "AH1 V",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "AY1",
+        "T R AY1",
+        "M AY1",
+        "B EH1 S T",
+        "[UNK]",
+        "S OW1",
+        "M AH1 CH",
+        "B Y UW1 T IY0",
+        "IH0 N",
+        "EH1 V R IY0 D EY1",
+        "L AY1 F",
+        "DH AE1 T",
+        "AO1 F T AH0 N",
+        "G OW1 Z",
+        "AH0 N N OW1 T IH0 S T",
+        "AE1 Z",
+        "AH0",
+        "V IH0 D IY0 AO1 G R AH0 F ER0",
+        "IH1 T S",
+        "M AY1",
+        "JH AA1 B",
+        "T UW1",
+        "K AE1 P CH ER0",
+        "IH1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AY1",
+        "K AH0 M P L IY1 T L IY0",
+        "AH0 G R IY1",
+        "AE1 Z",
+        "AE1 N",
+        "AE1 K T ER0",
+        "AY1",
+        "F AY1 N D",
+        "DH AE1 T",
+        "IH1 T S",
+        "DH AH0",
+        "S M AO1 L",
+        "D IH0 T EY1 L Z",
+        "DH AE1 T",
+        "AO1 F T AH0 N",
+        "M EY1 K",
+        "DH AH0",
+        "B IH1 G AH0 S T",
+        "IH2 M P AE1 K T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "DH AH0",
+        "S AH1 T AH0 L",
+        "JH EH1 S CH ER0 Z",
+        "AH0 N D",
+        "IH0 K S P R EH1 SH AH0 N Z",
+        "K AE1 N",
+        "M EY1 K",
+        "AO1 L",
+        "DH AH0",
+        "D IH1 F ER0 AH0 N S",
+        "AY1",
+        "IH2 M AE1 JH AH0 N",
+        "[UNK]",
+        "K W AY1 T",
+        "CH AE1 L AH0 N JH IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH1 T",
+        "K AE1 N",
+        "B IY1",
+        "B AH1 T",
+        "IH1 T S",
+        "AO1 L S OW0",
+        "V EH1 R IY0",
+        "R IH0 W AO1 R D IH0 NG",
+        "[UNK]",
+        "AH0",
+        "R IY1 L",
+        "AA1 R T",
+        "T UW1",
+        "B R IH1 NG IH0 NG",
+        "AH0",
+        "K EH1 R IH0 K T ER0",
+        "T UW1",
+        "L AY1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AY1",
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "IH1 T",
+        "M AH1 S T",
+        "B IY1",
+        "IH0 K S AY1 T IH0 NG",
+        "T UW1",
+        "S T EH1 P",
+        "IH1 N T UW0",
+        "S AH1 M W AH2 N",
+        "EH1 L S IH0 Z",
+        "SH UW1 Z",
+        "F AO1 R",
+        "AH0",
+        "W AY1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "IH1 T S",
+        "L IH1 V IH0 NG",
+        "M AH1 L T AH0 P AH0 L",
+        "L IH1 V Z",
+        "EH1 N IY0 W EY2",
+        "IH1 D",
+        "L AH1 V",
+        "T UW1",
+        "S IY1",
+        "S AH1 M",
+        "AH1 V",
+        "Y AO1 R",
+        "W ER1 K",
+        "S AH1 M T AY2 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 D",
+        "B IY1",
+        "HH AE1 P IY0",
+        "T UW1",
+        "SH OW1",
+        "Y UW1",
+        "M EY1 B IY0",
+        "W IY1",
+        "K UH1 D",
+        "IY1 V IH0 N",
+        "K AH0 L AE1 B ER0 EY2 T",
+        "AA1 N",
+        "AH0",
+        "P R AA1 JH EH0 K T",
+        "W AH1 N",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "DH AE1 T",
+        "S AW1 N D Z",
+        "AH0",
+        "G R EY1 T",
+        "AY0 D IY1 AH0",
+        "L EH1 T S",
+        "D EH1 F AH0 N AH0 T L IY0",
+        "IH0 K S P L AO1 R",
+        "DH AE1 T",
+        "P AA2 S AH0 B IH1 L AH0 T IY2"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 M",
+        "G L AE1 D",
+        "Y UW1",
+        "TH IH1 NG K",
+        "S OW1",
+        "IH1 M",
+        "SH UH1 R",
+        "W IY1",
+        "K UH1 D",
+        "K R IY0 EY1 T",
+        "S AH1 M TH IH0 NG",
+        "AH0 M EY1 Z IH0 NG",
+        "T AH0 G EH1 DH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "L EH1 T S",
+        "D UW1",
+        "IH1 T",
+        "IH1 M",
+        "IH0 K S AY1 T AH0 D",
+        "AH0 B AW1 T",
+        "DH AH0",
+        "P AA2 S AH0 B IH1 L AH0 T IY0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "M IY1",
+        "T UW1",
+        "IH1 M",
+        "SH UH1 R",
+        "W EH1 L",
+        "M EY1 K",
+        "G R EY1 T",
+        "N EY1 B ER0 Z",
+        "AH0 N D",
+        "K AH0 L AE1 B ER0 EY2 T ER0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "L UH1 K IH0 NG",
+        "F AO1 R W ER0 D",
+        "T UW1",
+        "IH1 T"
+      ]
+    }
+  ]
+}
