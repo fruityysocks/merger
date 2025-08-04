@@ -1,0 +1,250 @@
+{
+  "speaker1": 1316.0,
+  "speaker2": 1533.0,
+  "original_conversation": "Speaker 1: Hi, it's such a lovely day, isn't it?\nSpeaker 2: Oh, yes, it sure is. The sun's out, and the birds are chirping. It's just perfect.\nSpeaker 1: Absolutely! I've been trying to get out for a walk more often, it really does wonders for my mood.\nSpeaker 2: I bet, I've been meaning to do that myself. But the factory schedule can be so unpredictable at times.\nSpeaker 1: Oh, I can only imagine. It must be quite tough.\nSpeaker 2: Some days it can be, but it's a good job overall. And what about you? How's the library doing?\nSpeaker 1: It's been interesting. We're seeing a lot more people coming in, now that things are starting to open up again. \nSpeaker 2: That's good to hear. I'd think with all the digital books and stuff, libraries would be struggling.\nSpeaker 1: You'd think so, but it's surprising how many people still prefer the feel of a physical book.\nSpeaker 2: I totally agree with you. There's just something about turning those pages, isn't there?\nSpeaker 1: Yes, exactly! And besides, I think the library offers so much more than just books. It's a communal space, a place for events and learning.\nSpeaker 2: That's true. I remember bringing my kids for storytime sessions when they were younger.\nSpeaker 1: Oh, those are some of my favorite sessions to host! It's so wonderful seeing young minds discovering the joy of reading.\nSpeaker 2: I can imagine. It's a bit like that at the factory too. There's a certain satisfaction in seeing a product take shape from start to finish.\nSpeaker 1: I'm sure there is. Each profession has its own unique joys and challenges, doesn't it?\nSpeaker 2: Absolutely, couldn't agree more!",
+  "cleaned_conversation": "Speaker 1: hi, such lovely day, isn't ?\nSpeaker 2: , yes, sure . sun's out, birds chirping. perfect.\nSpeaker 1: absolutely! 've trying out walk more often, really does wonders mood.\nSpeaker 2: bet, 've meaning do myself. factory schedule can be unpredictable times.\nSpeaker 1: , can only imagine. must be quite tough.\nSpeaker 2: some days can be, good job overall. about ? library doing?\nSpeaker 1: interesting. 're seeing lot more people coming , now things starting open up again.\nSpeaker 2: good hear. think all digital books stuff, libraries be struggling.\nSpeaker 1: 'd think , surprising many people still prefer feel physical book.\nSpeaker 2: totally agree . something about turning those pages, isn't ?\nSpeaker 1: yes, exactly! besides, think library offers much more books. communal space, place events learning.\nSpeaker 2: true. remember bringing kids storytime sessions younger.\nSpeaker 1: , those some favorite sessions host! wonderful seeing young minds discovering joy reading.\nSpeaker 2: can imagine. bit like factory too. certain satisfaction seeing product take shape start finish.\nSpeaker 1: sure . each profession own unique joys challenges, doesn't ?\nSpeaker 2: absolutely, agree more!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AY1",
+        "S AH1 CH",
+        "L AH1 V L IY0",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "Y EH1 S",
+        "SH UH1 R",
+        "[UNK]",
+        "S AH1 N Z",
+        "AW1 T",
+        "B ER1 D Z",
+        "CH ER1 P IH0 NG",
+        "P ER0 F EH1 K T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "V IY1",
+        "T R AY1 IH0 NG",
+        "AW1 T",
+        "W AO1 K",
+        "M AO1 R",
+        "AO1 F T AH0 N",
+        "R IH1 L IY0",
+        "D AH1 Z",
+        "W AH1 N D ER0 Z",
+        "M UW1 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "B EH1 T",
+        "V IY1",
+        "M IY1 N IH0 NG",
+        "D UW1",
+        "M AY2 S EH1 L F",
+        "F AE1 K T ER0 IY0",
+        "S K EH1 JH UH0 L",
+        "K AE1 N",
+        "B IY1",
+        "AH2 N P R IH0 D IH1 K T AH0 B AH0 L",
+        "T AY1 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "B IY1",
+        "K W AY1 T",
+        "T AH1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AH1 M",
+        "D EY1 Z",
+        "K AE1 N",
+        "B IY1",
+        "G UH1 D",
+        "JH AA1 B",
+        "OW1 V ER0 AO2 L",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "L AY1 B R EH0 R IY2",
+        "D UW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "R EY1",
+        "S IY1 IH0 NG",
+        "L AA1 T",
+        "M AO1 R",
+        "P IY1 P AH0 L",
+        "K AH1 M IH0 NG",
+        "[UNK]",
+        "N AW1",
+        "TH IH1 NG Z",
+        "S T AA1 R T IH0 NG",
+        "OW1 P AH0 N",
+        "AH1 P",
+        "AH0 G EH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G UH1 D",
+        "HH IY1 R",
+        "TH IH1 NG K",
+        "AO1 L",
+        "D IH1 JH AH0 T AH0 L",
+        "B UH1 K S",
+        "S T AH1 F",
+        "L AY1 B R EH0 R IY2 Z",
+        "B IY1",
+        "S T R AH1 G AH0 L IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "D IY1",
+        "TH IH1 NG K",
+        "[UNK]",
+        "S ER0 P R AY1 Z IH0 NG",
+        "M EH1 N IY0",
+        "P IY1 P AH0 L",
+        "S T IH1 L",
+        "P R AH0 F ER1",
+        "F IY1 L",
+        "F IH1 Z IH0 K AH0 L",
+        "B UH1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T OW1 T AH0 L IY0",
+        "AH0 G R IY1",
+        "[UNK]",
+        "S AH1 M TH IH0 NG",
+        "AH0 B AW1 T",
+        "T ER1 N IH0 NG",
+        "DH OW1 Z",
+        "P EY1 JH AH0 Z",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "IH0 G Z AE1 K T L IY0",
+        "B IH0 S AY1 D Z",
+        "TH IH1 NG K",
+        "L AY1 B R EH0 R IY2",
+        "AO1 F ER0 Z",
+        "M AH1 CH",
+        "M AO1 R",
+        "B UH1 K S",
+        "K AH0 M Y UW1 N AH0 L",
+        "S P EY1 S",
+        "P L EY1 S",
+        "IH0 V EH1 N T S",
+        "L ER1 N IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T R UW1",
+        "R IH0 M EH1 M B ER0",
+        "B R IH1 NG IH0 NG",
+        "K IH1 D Z",
+        "[UNK]",
+        "S EH1 SH AH0 N Z",
+        "Y AH1 NG G ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "DH OW1 Z",
+        "S AH1 M",
+        "F EY1 V ER0 IH0 T",
+        "S EH1 SH AH0 N Z",
+        "HH OW1 S T",
+        "W AH1 N D ER0 F AH0 L",
+        "S IY1 IH0 NG",
+        "Y AH1 NG",
+        "M AY1 N D Z",
+        "D IH0 S K AH1 V ER0 IH0 NG",
+        "JH OY1",
+        "R IY1 D IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "B IH1 T",
+        "L AY1 K",
+        "F AE1 K T ER0 IY0",
+        "T UW1",
+        "S ER1 T AH0 N",
+        "S AE2 T AH0 S F AE1 K SH AH0 N",
+        "S IY1 IH0 NG",
+        "P R AA1 D AH0 K T",
+        "T EY1 K",
+        "SH EY1 P",
+        "S T AA1 R T",
+        "F IH1 N IH0 SH"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "SH UH1 R",
+        "[UNK]",
+        "IY1 CH",
+        "P R AH0 F EH1 SH AH0 N",
+        "OW1 N",
+        "Y UW0 N IY1 K",
+        "JH OY1 Z",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "AH0 G R IY1",
+        "M AO1 R"
+      ]
+    }
+  ]
+}

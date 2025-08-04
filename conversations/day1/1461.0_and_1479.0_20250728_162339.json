@@ -1,0 +1,233 @@
+{
+  "speaker1": 1461.0,
+  "speaker2": 1479.0,
+  "original_conversation": "Speaker 1: Hey there, Bill! How's everything going? \nSpeaker 2: Hey, Jack! Not bad at all, just enjoying the cool weather today. How about you?\nSpeaker 1: Can't complain, Bill. These cooler days are a welcome break from the heat.\nSpeaker 2: You're telling me! You must really feel it with all the gear you firefighters have to wear.\nSpeaker 1: Yeah, you got that right. It can get pretty intense but you get used to it. \nSpeaker 2: I can only imagine. Speaking of work, how's that been going? Any big fires recently?\nSpeaker 1: Thankfully, nothing too serious. A few small kitchen fires here and there. How's your work at the tech firm?\nSpeaker 2: It's been busy. We're in the middle of a big software update, so it's all hands on deck. \nSpeaker 1: Sounds like a different kind of firefighting to me. \nSpeaker 2: Haha, you could say that. It's chaotic sometimes but I love the problem-solving part of it.\nSpeaker 1: I can see that. There's something rewarding about solving problems under pressure, isn't there?\nSpeaker 2: Definitely. Although I'd imagine your problems are a bit more...literal.\nSpeaker 1: Ha, yes, they sure are. But like you, I enjoy the challenges my job brings. Keeps things interesting.\nSpeaker 2: Absolutely. It's always good to have something to keep you on your toes. \nSpeaker 1: Yes, and speaking of, I've got to run. Duty calls. Catch you later, Bill.\nSpeaker 2: Take care, Jack. Stay safe out there.",
+  "cleaned_conversation": "Speaker 1: hey , bill! everything going?\nSpeaker 2: hey, jack! bad all, enjoying cool weather today. about ?\nSpeaker 1: can't complain, bill. these cooler days welcome break heat.\nSpeaker 2: 're telling me! must really feel all gear firefighters wear.\nSpeaker 1: , right. can pretty intense used .\nSpeaker 2: can only imagine. speaking work, going? any big fires recently?\nSpeaker 1: thankfully, nothing too serious. few small kitchen fires here . your work tech firm?\nSpeaker 2: busy. 're middle big software update, all hands deck.\nSpeaker 1: sounds like different kind firefighting me.\nSpeaker 2: haha, say . chaotic sometimes love problem-solving part .\nSpeaker 1: can see . something rewarding about solving problems under pressure, isn't ?\nSpeaker 2: definitely. although imagine your problems bit more...literal.\nSpeaker 1: ha, yes, sure . like , enjoy challenges job brings. keeps things interesting.\nSpeaker 2: absolutely. always good something keep your toes.\nSpeaker 1: yes, speaking , 've run. duty calls. catch later, bill.\nSpeaker 2: take care, jack. stay safe out .",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "B IH1 L",
+        "EH1 V R IY0 TH IH2 NG",
+        "G OW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH EY1",
+        "JH AE1 K",
+        "B AE1 D",
+        "AO1 L",
+        "EH2 N JH OY1 IH0 NG",
+        "K UW1 L",
+        "W EH1 DH ER0",
+        "T AH0 D EY1",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N T",
+        "K AH0 M P L EY1 N",
+        "B IH1 L",
+        "DH IY1 Z",
+        "K UW1 L ER0",
+        "D EY1 Z",
+        "W EH1 L K AH0 M",
+        "B R EY1 K",
+        "HH IY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "R EY1",
+        "T EH1 L IH0 NG",
+        "M IY1",
+        "M AH1 S T",
+        "R IH1 L IY0",
+        "F IY1 L",
+        "AO1 L",
+        "G IH1 R",
+        "F AY1 ER0 F AY2 T ER0 Z",
+        "W EH1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "R AY1 T",
+        "K AE1 N",
+        "P R IH1 T IY0",
+        "IH2 N T EH1 N S",
+        "Y UW1 Z D",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "S P IY1 K IH0 NG",
+        "W ER1 K",
+        "G OW1 IH0 NG",
+        "EH1 N IY0",
+        "B IH1 G",
+        "F AY1 ER0 Z",
+        "R IY1 S AH0 N T L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "TH AE1 NG K F AH0 L IY0",
+        "N AH1 TH IH0 NG",
+        "T UW1",
+        "S IH1 R IY0 AH0 S",
+        "F Y UW1",
+        "S M AO1 L",
+        "K IH1 CH AH0 N",
+        "F AY1 ER0 Z",
+        "HH IY1 R",
+        "[UNK]",
+        "Y AO1 R",
+        "W ER1 K",
+        "T EH1 K",
+        "F ER1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "B IH1 Z IY0",
+        "R EY1",
+        "M IH1 D AH0 L",
+        "B IH1 G",
+        "S AO1 F T W EH2 R",
+        "AH0 P D EY1 T",
+        "AO1 L",
+        "HH AE1 N D Z",
+        "D EH1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AY1 K",
+        "D IH1 F ER0 AH0 N T",
+        "K AY1 N D",
+        "F AY1 R F AY2 T IH0 NG",
+        "M IY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "S EY1",
+        "[UNK]",
+        "K EY0 AA1 T IH0 K",
+        "S AH0 M T AY1 M Z",
+        "L AH1 V",
+        "[UNK]",
+        "P AA1 R T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "S IY1",
+        "[UNK]",
+        "S AH1 M TH IH0 NG",
+        "R IH0 W AO1 R D IH0 NG",
+        "AH0 B AW1 T",
+        "S AA1 L V IH0 NG",
+        "P R AA1 B L AH0 M Z",
+        "AH1 N D ER0",
+        "P R EH1 SH ER0",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "AO2 L DH OW1",
+        "IH2 M AE1 JH AH0 N",
+        "Y AO1 R",
+        "P R AA1 B L AH0 M Z",
+        "B IH1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AA1",
+        "Y EH1 S",
+        "SH UH1 R",
+        "[UNK]",
+        "L AY1 K",
+        "[UNK]",
+        "EH2 N JH OY1",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "JH AA1 B",
+        "B R IH1 NG Z",
+        "K IY1 P S",
+        "TH IH1 NG Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "AO1 L W EY2 Z",
+        "G UH1 D",
+        "S AH1 M TH IH0 NG",
+        "K IY1 P",
+        "Y AO1 R",
+        "T OW1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "S P IY1 K IH0 NG",
+        "[UNK]",
+        "V IY1",
+        "R AH1 N",
+        "D UW1 T IY0",
+        "K AO1 L Z",
+        "K AE1 CH",
+        "L EY1 T ER0",
+        "B IH1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T EY1 K",
+        "K EH1 R",
+        "JH AE1 K",
+        "S T EY1",
+        "S EY1 F",
+        "AW1 T",
+        "[UNK]"
+      ]
+    }
+  ]
+}

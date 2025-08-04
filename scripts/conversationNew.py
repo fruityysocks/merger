@@ -16,10 +16,14 @@ if openaiApiKey is None:
 openai.api_key = openaiApiKey
 
 # Step 1: Define constants & filler words (simplified to typical fillers)
-FILLERS = {
-    'um', 'uh', 'you know', 'like', 'erm', 'ah', 'hmm', 'oh', 'ohh', 'ahh', 
-    'mm', 'hmm', 'eh', 'er', 'huh'
-}
+FILLERS = {'A', 'AH', 'AM', 'AN', 'AND', 'ARE',' AREN\'T', 'AS', 'AT', 'AW', 'BECAUSE', 'BUT', 'BEEN', 'COULD', 'COULDN\'T',
+           'EH', 'FOR', 'FROM', 'GET', 'GONNA', 'GOT', 'GOTTA', 'GOTTEN', 'HAD', 'HAS', 'HAVE', 'HE', 'HE\'D', 'HE\'LL', 'HER',
+           'HERS', 'HE\'S', 'HIS', 'HOW', 'HOW\'S', 'HUH', 'I', 'I\'LL', 'I\'M', 'I\'VE', 'I\'D', 'IN', 'IS', 'IT', 'IT\'S', 'ITS', 'JUST',
+           'MY', 'NAH', 'NOT', 'OF', 'OH', 'ON', 'OR', 'OUR', 'OURS', 'SAYS', 'SHE', 'SHE\'D', 'SHE\'LL', 'SHE\'S', 'SHOULD', 'SHOULDN\'T', 'SO', 'THAN',
+           'THAT', 'THAT\'S', 'THE', 'THEM', 'THERE', 'THERE\'S', 'THEY', 'THEY\'D', 'THEY\'LL', 'THEY\'RE', 'THEY\'VE', 'THEIR', 'THEIRS',
+           'TO', 'UH', 'UM', 'WAS', 'WASN\'T', 'WE', 'WE\'D', 'WE\'LL', 'WERE', 'WE\'RE', 'WE\'VE', 'WHAT', 'WHEN', 'WHEN\'S', 'WHERE', 'WHERE\'S', 'WHICH', 'WHICH\'S' 
+           'WHO', 'WITH', 'WOULD', 'WOULDN\'T', 'YEAH', 'YOU', 'YOURS', 'YOU\'D', 'YOU\'LL', 'YOU\'VE'}
+
 
 FILLERS = {filler.lower() for filler in FILLERS}
 
@@ -133,8 +137,8 @@ def save_stressed_tokens(phonetic_turns, cleaned_text, spk1_id, spk2_id, filenam
     
     write_header = not os.path.isfile(output_csv)
     with open(output_csv, 'a', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['vowel', 'preceding_segment', 'following_segment', 'word', 'phonetic_transcription',
-                      'speaker1_number', 'speaker2_number', 'file_name', 'stress']
+        fieldnames = ['vowel', 'stress', 'preceding_segment', 'following_segment', 'word', 'phonetic_transcription', 'speaker',
+                      'speaker1_number', 'speaker2_number', 'file_name']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if write_header:
             writer.writeheader()
@@ -143,6 +147,11 @@ def save_stressed_tokens(phonetic_turns, cleaned_text, spk1_id, spk2_id, filenam
             speaker_turn = phonetic_turn['speaker'].strip() 
             speaker_num = 1 if speaker_turn == "Speaker 1:" else 2
             
+            print(f"Speaker turn raw value: '{phonetic_turn['speaker']}'")
+            print(f"Speaker turn stripped: '{speaker_turn}'")
+            print("Speaker 1:" == speaker_turn)
+            print(speaker_num)
+
             m = re.match(r"Speaker \d:\s*(.*)", turn_text, re.DOTALL)
             if not m:
                 continue
@@ -168,14 +177,15 @@ def save_stressed_tokens(phonetic_turns, cleaned_text, spk1_id, spk2_id, filenam
                     
                     writer.writerow({
                         'vowel': vowel,
+                        'stress': stress,
                         'preceding_segment': preceding_segment,
                         'following_segment': following_segment,
                         'word': word,
                         'phonetic_transcription': phonemes_str,
+                        'speaker': speaker_num,
                         'speaker1_number': spk1_id,
                         'speaker2_number': spk2_id,
                         'file_name': filename,
-                        'stress': stress
                     })
                     print(f"Extracted vowel '{vowel}' with preceding segment '{preceding_segment}' and following segment '{following_segment}' "
                           f"from word '{word}' and speaker1 '{spk1_id}' and speaker2 '{spk2_id}'.")
@@ -210,59 +220,58 @@ def main():
     speaker_info_dict = speakers_df.set_index('speaker').to_dict(orient='index')
     
     for idx, row in neighbors_df.iterrows():
-        if idx < 68: 
-            continue
+        if idx > 20: 
+            break
         spk1_id = row['speaker1']
         spk2_id = row['speaker2']
         speaker1 = speaker_info_dict.get(spk1_id)
         speaker2 = speaker_info_dict.get(spk2_id)
-        if idx == 69: 
-            print (speaker1)
-        # if not speaker1 or not speaker2:
-        #     print(f"Skipping pair with missing speaker info: {spk1_id}, {spk2_id}")
-        #     continue
-        # conversation_text = generateConversation(speaker1, speaker2, turns=20)
-        # print(f"\nOriginal conversation between {spk1_id} and {spk2_id}:\n{conversation_text}\n")
-        # turn_texts = re.split(r'\n(?=Speaker \d:)', conversation_text)
-        # cleaned_turns = []
-        # phonetic_turns = []
         
-        # for turn in turn_texts:
-        #     match = re.match(r'(Speaker \d:)\s*(.*)', turn, re.DOTALL)
-        #     if not match:
-        #         continue
-        #     speaker_tag, utterance = match.groups()
-        #     cleaned_utterance = remove_fillers(utterance)
-        #     cleaned_turns.append(f"{speaker_tag} {cleaned_utterance}")
-        #     if speaker_tag.strip() == "Speaker 1:":
-        #         spk = spk1_id
-        #     else:
-        #         spk = spk2_id
-        #     phonemes = transcript_to_phonemes(cleaned_utterance, cmu_dict, spk)
-        #     phonetic_turns.append({"speaker": speaker_tag, "phonemes": phonemes})
+        if not speaker1 or not speaker2:
+            print(f"Skipping pair with missing speaker info: {spk1_id}, {spk2_id}")
+            continue
+        conversation_text = generateConversation(speaker1, speaker2, turns=20)
+        print(f"\nOriginal conversation between {spk1_id} and {spk2_id}:\n{conversation_text}\n")
+        turn_texts = re.split(r'\n(?=Speaker \d:)', conversation_text)
+        cleaned_turns = []
+        phonetic_turns = []
         
-        # cleaned_text = "\n".join(cleaned_turns)
-        # print(f"Cleaned conversation:\n{cleaned_text}\n")
+        for turn in turn_texts:
+            match = re.match(r'(Speaker \d:)\s*(.*)', turn, re.DOTALL)
+            if not match:
+                continue
+            speaker_tag, utterance = match.groups()
+            cleaned_utterance = remove_fillers(utterance)
+            cleaned_turns.append(f"{speaker_tag} {cleaned_utterance}")
+            if speaker_tag.strip() == "Speaker 1:":
+                spk = spk1_id
+            else:
+                spk = spk2_id
+            phonemes = transcript_to_phonemes(cleaned_utterance, cmu_dict, spk)
+            phonetic_turns.append({"speaker": speaker_tag, "phonemes": phonemes})
         
-        # for pturn in phonetic_turns:
-        #     print(f"{pturn['speaker']} phonemes: {pturn['phonemes']}")
+        cleaned_text = "\n".join(cleaned_turns)
+        print(f"Cleaned conversation:\n{cleaned_text}\n")
+        
+        for pturn in phonetic_turns:
+            print(f"{pturn['speaker']} phonemes: {pturn['phonemes']}")
     
-        # save_conversation_json(
-        #     speaker1=spk1_id,
-        #     speaker2=spk2_id,
-        #     original=conversation_text,
-        #     cleaned=cleaned_text,
-        #     phonetic=phonetic_turns,
-        #     outdir="conversations/day1"
-        # )
+        save_conversation_json(
+            speaker1=spk1_id,
+            speaker2=spk2_id,
+            original=conversation_text,
+            cleaned=cleaned_text,
+            phonetic=phonetic_turns,
+            outdir="conversations/day1"
+        )
         
-        # save_stressed_tokens(
-        #     phonetic_turns, cleaned_text, spk1_id, spk2_id,
-        #     filename=f"{spk1_id}_and_{spk2_id}.json",
-        #     output_csv="data/day1Vowels.csv"
-        # )
+        save_stressed_tokens(
+            phonetic_turns, cleaned_text, spk1_id, spk2_id,
+            filename=f"{spk1_id}_and_{spk2_id}.json",
+            output_csv="data/day1Vowels.csv"
+        )
         
-        # time.sleep(1.5)
+        time.sleep(1.5)
 
 if __name__ == "__main__":
     main()

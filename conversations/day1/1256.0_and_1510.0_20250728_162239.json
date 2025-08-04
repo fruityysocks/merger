@@ -1,0 +1,291 @@
+{
+  "speaker1": 1256.0,
+  "speaker2": 1510.0,
+  "original_conversation": "Speaker 1: Good morning, how are you today?\nSpeaker 2: Good morning! I'm doing well, thank you. How about you?\nSpeaker 1: I'm doing just fine, thank you. It's such a lovely day today, isn't it?\nSpeaker 2: It sure is. Nothing beats this Connecticut weather when it's nice out. Have you been on any good walks around our neighborhood lately?\nSpeaker 1: Yes, in fact, just this morning I walked past the park. The flowers are blooming beautifully this time of year.\nSpeaker 2: I agree, it's a sight to behold. I've been taking my students on nature walks to get them to appreciate it too.\nSpeaker 1: That's a wonderful idea. I'm sure they love it. So, how is the new school year going so far?\nSpeaker 2: It's going pretty well, thank you. I'm always amazed at how eager the kids are to learn. How about you, how's work?\nSpeaker 1: It's going well, thank you. My team and I have been quite busy juggling various customer queries and complaints, but it's all part of the job.\nSpeaker 2: That sounds challenging. I imagine it takes a lot of patience and communication skills. \nSpeaker 1: Yes, indeed. It can be tough at times, but when a customer leaves satisfied, it makes it all worthwhile. It's all about understanding and empathizing with the customer.\nSpeaker 2: That's very true. In a way, it's similar to teaching. Understanding and empathizing with the students is crucial to their learning.\nSpeaker 1: I can see the similarities. Both roles require a lot of patience and the ability to communicate effectively. \nSpeaker 2: Absolutely. And I believe both our professions impact people's lives in different ways, which makes it rewarding.\nSpeaker 1: You're right, it does feel good knowing that we're making a difference. It's what keeps us going, wouldn't you agree?\nSpeaker 2: Absolutely. It's the small victories we achieve daily that make it all worthwhile. Well, it was nice catching up with you.\nSpeaker 1: Indeed, it was. Let's do this again sometime. Have a great day!\nSpeaker 2: You too, take care!",
+  "cleaned_conversation": "Speaker 1: good morning, today?\nSpeaker 2: good morning! doing well, thank . about ?\nSpeaker 1: doing fine, thank . such lovely day today, isn't ?\nSpeaker 2: sure . nothing beats this connecticut weather nice out. any good walks around neighborhood lately?\nSpeaker 1: yes, fact, this morning walked past park. flowers blooming beautifully this time year.\nSpeaker 2: agree, sight behold. 've taking students nature walks appreciate too.\nSpeaker 1: wonderful idea. sure love . , new school year going far?\nSpeaker 2: going pretty well, thank . always amazed eager kids learn. about , work?\nSpeaker 1: going well, thank . team quite busy juggling various customer queries complaints, all part job.\nSpeaker 2: sounds challenging. imagine takes lot patience communication skills.\nSpeaker 1: yes, indeed. can be tough times, customer leaves satisfied, makes all worthwhile. all about understanding empathizing customer.\nSpeaker 2: very true. way, similar teaching. understanding empathizing students crucial learning.\nSpeaker 1: can see similarities. both roles require lot patience ability communicate effectively.\nSpeaker 2: absolutely. believe both professions impact people's lives different ways, makes rewarding.\nSpeaker 1: 're right, does feel good knowing 're making difference. keeps us going, agree?\nSpeaker 2: absolutely. small victories achieve daily make all worthwhile. well, nice catching up .\nSpeaker 1: indeed, . let's do this again sometime. great day!\nSpeaker 2: too, take care!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "T AH0 D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "D UW1 IH0 NG",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "[UNK]",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "D UW1 IH0 NG",
+        "F AY1 N",
+        "TH AE1 NG K",
+        "[UNK]",
+        "S AH1 CH",
+        "L AH1 V L IY0",
+        "D EY1",
+        "T AH0 D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "SH UH1 R",
+        "[UNK]",
+        "N AH1 TH IH0 NG",
+        "B IY1 T S",
+        "DH IH1 S",
+        "K AH0 N EH1 T AH0 K AH0 T",
+        "W EH1 DH ER0",
+        "N AY1 S",
+        "AW1 T",
+        "EH1 N IY0",
+        "G UH1 D",
+        "W AO1 K S",
+        "ER0 AW1 N D",
+        "N EY1 B ER0 HH UH2 D",
+        "L EY1 T L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "F AE1 K T",
+        "DH IH1 S",
+        "M AO1 R N IH0 NG",
+        "W AO1 K T",
+        "P AE1 S T",
+        "P AA1 R K",
+        "F L AW1 ER0 Z",
+        "B L UW1 M IH0 NG",
+        "B Y UW1 T AH0 F L IY0",
+        "DH IH1 S",
+        "T AY1 M",
+        "Y IH1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AH0 G R IY1",
+        "S AY1 T",
+        "B IH0 HH OW1 L D",
+        "V IY1",
+        "T EY1 K IH0 NG",
+        "S T UW1 D AH0 N T S",
+        "N EY1 CH ER0",
+        "W AO1 K S",
+        "AH0 P R IY1 SH IY0 EY2 T",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W AH1 N D ER0 F AH0 L",
+        "AY0 D IY1 AH0",
+        "SH UH1 R",
+        "L AH1 V",
+        "[UNK]",
+        "[UNK]",
+        "N UW1",
+        "S K UW1 L",
+        "Y IH1 R",
+        "G OW1 IH0 NG",
+        "F AA1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G OW1 IH0 NG",
+        "P R IH1 T IY0",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "[UNK]",
+        "AO1 L W EY2 Z",
+        "AH0 M EY1 Z D",
+        "IY1 G ER0",
+        "K IH1 D Z",
+        "L ER1 N",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G OW1 IH0 NG",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "[UNK]",
+        "T IY1 M",
+        "K W AY1 T",
+        "B IH1 Z IY0",
+        "JH AH1 G AH0 L IH0 NG",
+        "V EH1 R IY0 AH0 S",
+        "K AH1 S T AH0 M ER0",
+        "K W IH1 R IY0 Z",
+        "K AH0 M P L EY1 N T S",
+        "AO1 L",
+        "P AA1 R T",
+        "JH AA1 B"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "IH2 M AE1 JH AH0 N",
+        "T EY1 K S",
+        "L AA1 T",
+        "P EY1 SH AH0 N S",
+        "K AH0 M Y UW2 N AH0 K EY1 SH AH0 N",
+        "S K IH1 L Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "IH2 N D IY1 D",
+        "K AE1 N",
+        "B IY1",
+        "T AH1 F",
+        "T AY1 M Z",
+        "K AH1 S T AH0 M ER0",
+        "L IY1 V Z",
+        "S AE1 T AH0 S F AY2 D",
+        "M EY1 K S",
+        "AO1 L",
+        "W ER1 TH W AY1 L",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "[UNK]",
+        "K AH1 S T AH0 M ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "V EH1 R IY0",
+        "T R UW1",
+        "W EY1",
+        "S IH1 M AH0 L ER0",
+        "T IY1 CH IH0 NG",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "[UNK]",
+        "S T UW1 D AH0 N T S",
+        "K R UW1 SH AH0 L",
+        "L ER1 N IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "S IY1",
+        "S IH2 M AH0 L EH1 R AH0 T IY0 Z",
+        "B OW1 TH",
+        "R OW1 L Z",
+        "R IY2 K W AY1 ER0",
+        "L AA1 T",
+        "P EY1 SH AH0 N S",
+        "AH0 B IH1 L AH0 T IY2",
+        "K AH0 M Y UW1 N AH0 K EY2 T",
+        "IH0 F EH1 K T IH0 V L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "B IH0 L IY1 V",
+        "B OW1 TH",
+        "P R AH0 F EH1 SH AH0 N Z",
+        "IH2 M P AE1 K T",
+        "P IY1 P AH0 L Z",
+        "L IH1 V Z",
+        "D IH1 F ER0 AH0 N T",
+        "W EY1 Z",
+        "M EY1 K S",
+        "R IH0 W AO1 R D IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "R AY1 T",
+        "D AH1 Z",
+        "F IY1 L",
+        "G UH1 D",
+        "N OW1 IH0 NG",
+        "R EY1",
+        "M EY1 K IH0 NG",
+        "D IH1 F ER0 AH0 N S",
+        "K IY1 P S",
+        "AH1 S",
+        "G OW1 IH0 NG",
+        "AH0 G R IY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "S M AO1 L",
+        "V IH1 K T ER0 IY0 Z",
+        "AH0 CH IY1 V",
+        "D EY1 L IY0",
+        "M EY1 K",
+        "AO1 L",
+        "W ER1 TH W AY1 L",
+        "W EH1 L",
+        "N AY1 S",
+        "K AE1 CH IH0 NG",
+        "AH1 P",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "[UNK]",
+        "L EH1 T S",
+        "D UW1",
+        "DH IH1 S",
+        "AH0 G EH1 N",
+        "S AH1 M T AY2 M",
+        "G R EY1 T",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T UW1",
+        "T EY1 K",
+        "K EH1 R"
+      ]
+    }
+  ]
+}
