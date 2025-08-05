@@ -138,7 +138,7 @@ def save_stressed_tokens(phonetic_turns, cleaned_text, spk1_id, spk2_id, filenam
     write_header = not os.path.isfile(output_csv)
     with open(output_csv, 'a', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['vowel', 'stress', 'preceding_segment', 'following_segment', 'word', 'phonetic_transcription', 'speaker',
-                      'speaker1_number', 'speaker2_number', 'file_name']
+                      'speaker1_id', 'speaker2_id', 'file_name']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if write_header:
             writer.writeheader()
@@ -183,8 +183,8 @@ def save_stressed_tokens(phonetic_turns, cleaned_text, spk1_id, spk2_id, filenam
                         'word': word,
                         'phonetic_transcription': phonemes_str,
                         'speaker': speaker_num,
-                        'speaker1_number': spk1_id,
-                        'speaker2_number': spk2_id,
+                        'speaker1_id': spk1_id,
+                        'speaker2_id': spk2_id,
                         'file_name': filename,
                     })
                     print(f"Extracted vowel '{vowel}' with preceding segment '{preceding_segment}' and following segment '{following_segment}' "
@@ -194,8 +194,9 @@ def save_stressed_tokens(phonetic_turns, cleaned_text, spk1_id, spk2_id, filenam
 def save_conversation_json(speaker1, speaker2, original, cleaned, phonetic, outdir="conversations"):
     os.makedirs(outdir, exist_ok=True)
     
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"{speaker1}_and_{speaker2}_{timestamp}.json"
+    # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # filename = f"{speaker1}_and_{speaker2}_{timestamp}.json"
+    filename = f"{speaker1}_and_{speaker2}.json"
     filepath = os.path.join(outdir, filename)
     
     data = {
@@ -213,7 +214,7 @@ def save_conversation_json(speaker1, speaker2, original, cleaned, phonetic, outd
     
 # Step 8: Main function
 def main():
-    speakers_df = pd.read_csv('data/demographicsJittered.csv')
+    speakers_df = pd.read_csv('data/demographicInfo.csv')
     speakers_df['location'] = speakers_df['childcity'] + ", " + speakers_df['childstate']
     neighbors_df = pd.read_csv('data/neighborPairs.csv')  
     cmu_dict = load_cmudict('data/cmudict-0.7b.txt')
@@ -262,13 +263,13 @@ def main():
             original=conversation_text,
             cleaned=cleaned_text,
             phonetic=phonetic_turns,
-            outdir="conversations/day1"
+            outdir="conversations/day2"
         )
         
         save_stressed_tokens(
             phonetic_turns, cleaned_text, spk1_id, spk2_id,
             filename=f"{spk1_id}_and_{spk2_id}.json",
-            output_csv="data/day1Vowels.csv"
+            output_csv="data/day2Vowels.csv"
         )
         
         time.sleep(1.5)

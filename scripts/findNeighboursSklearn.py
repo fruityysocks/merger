@@ -3,9 +3,9 @@ import pandas as pd
 import networkx as nx
 from sklearn.neighbors import BallTree
 
-df = pd.read_csv('data/demographicsJittered.csv')
-latitudes = df['childLatJittered'].values
-longitudes = df['childLongJittered'].values
+df = pd.read_csv('data/demographicInfo.csv')
+latitudes = df['childLatJittered_day2'].values
+longitudes = df['childLongJittered_day2'].values
 coordsRad = np.vstack((np.radians(latitudes), np.radians(longitudes))).T
 
 tree = BallTree(coordsRad, metric='haversine')
