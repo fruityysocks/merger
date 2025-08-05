@@ -68,4 +68,5 @@ def move10miles(
 df = pd.read_csv('data/demographicInfo.csv')  
 
 df = move10miles(df, latCol="childLatJittered", longCol="childLongJittered", max=10, stdDev=3)
+df.to_csv("data/demographicInfo.csv", index=False)
 print(df[[ 'childLatJittered', 'childLatJittered_day2', 'childLongJittered', 'childLongJittered_day2']].head())
