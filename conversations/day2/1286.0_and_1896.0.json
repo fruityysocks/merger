@@ -1,0 +1,354 @@
+{
+  "speaker1": 1286.0,
+  "speaker2": 1896.0,
+  "original_conversation": "Speaker 1: Hello, lovely seeing you out here. It's such a beautiful day, isn't it?\nSpeaker 2: It sure is, perfect for a walk around the neighborhood. How have you been?\nSpeaker 1: Oh, I've been doing well, thank you. Just been working and keeping up with the yard mostly. How about you?\nSpeaker 2: Pretty much the same, whenever I'm not on the road. Speaking of which, I noticed your garden is blooming beautifully.\nSpeaker 1: Thank you, I've been really putting in the effort. Your lawn also looks great, by the way.\nSpeaker 2: Oh, I wish I could take the credit! I've hired a local landscaper. My job keeps me away from home quite often.\nSpeaker 1: Oh that's right, you're a tour manager, aren't you? That must be exciting.\nSpeaker 2: Yes, it is! It's a bit hectic at times, but I love the travel and getting to meet new people. What about you? I remember you mentioning you work as a medical secretary.\nSpeaker 1: Yes, that's correct. It's quite interesting, especially in these times. I get to interact with a lot of people, just like you, but in a different setting.\nSpeaker 2: I can only imagine. You're right, it must be a lot busier these days with the global health situation.\nSpeaker 1: Indeed, it is. But the positive side is that I feel like we are making a difference, helping people get the medical attention they need. \nSpeaker 2: That's such a wonderful perspective. I feel the same way about my job. We ensure people get to experience different cultures and broaden their horizons.\nSpeaker 1: That's true! I\u2019ve always admired how you manage to handle all the logistics of your job. It must require a lot of planning.\nSpeaker 2: Oh yes, definitely. Between coordinating with different vendors and ensuring the tours run smoothly, it does require a lot of attention to detail. But, it's rewarding when everything comes together.\nSpeaker 1: I can absolutely relate to that. My job also requires a lot of coordination, especially with scheduling appointments and managing doctors' schedules.\nSpeaker 2: I think that's why we both have such beautiful yards, our attention to detail carries over to our personal lives too!\nSpeaker 1: Haha, you might be right about that! It's been lovely chatting with you. We should do this more often.\nSpeaker 2: Absolutely, I'd love that. I'll catch you around, then?\nSpeaker 1: Yes, definitely. Have a great day!",
+  "cleaned_conversation": "Speaker 1: hello, lovely seeing out here. 's such beautiful day, isn't ?\nSpeaker 2: sure , perfect walk around neighborhood. ?\nSpeaker 1: , 've doing well, thank . working keeping up yard mostly. about ?\nSpeaker 2: pretty much same, whenever 'm road. speaking , noticed your garden blooming beautifully.\nSpeaker 1: thank , 've really putting effort. your lawn also looks great, by way.\nSpeaker 2: , wish take credit! 've hired local landscaper. job keeps me away home quite often.\nSpeaker 1: 's right, 're tour manager, aren't ? must be exciting.\nSpeaker 2: yes, ! 's bit hectic times, love travel getting meet new people. about ? remember mentioning work medical secretary.\nSpeaker 1: yes, 's correct. 's quite interesting, especially these times. interact lot people, like , different setting.\nSpeaker 2: can only imagine. 're right, must be lot busier these days global health situation.\nSpeaker 1: indeed, . positive side feel like making difference, helping people medical attention need.\nSpeaker 2: 's such wonderful perspective. feel same way about job. ensure people experience different cultures broaden horizons.\nSpeaker 1: 's true! \u2019ve always admired manage handle all logistics your job. must require lot planning.\nSpeaker 2: yes, definitely. between coordinating different vendors ensuring tours run smoothly, does require lot attention detail. , 's rewarding everything comes together.\nSpeaker 1: can absolutely relate . job also requires lot coordination, especially scheduling appointments managing doctors' schedules.\nSpeaker 2: think 's why both such beautiful yards, attention detail carries over personal lives too!\nSpeaker 1: haha, might be right about ! 's lovely chatting . do this more often.\nSpeaker 2: absolutely, 'd love . 'll catch around, then?\nSpeaker 1: yes, definitely. great day!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AH0 L OW1",
+        "L AH1 V L IY0",
+        "S IY1 IH0 NG",
+        "AW1 T",
+        "HH IY1 R",
+        "EH1 S",
+        "S AH1 CH",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "SH UH1 R",
+        "[UNK]",
+        "P ER0 F EH1 K T",
+        "W AO1 K",
+        "ER0 AW1 N D",
+        "N EY1 B ER0 HH UH2 D",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "V IY1",
+        "D UW1 IH0 NG",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "[UNK]",
+        "W ER1 K IH0 NG",
+        "K IY1 P IH0 NG",
+        "AH1 P",
+        "Y AA1 R D",
+        "M OW1 S T L IY0",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "P R IH1 T IY0",
+        "M AH1 CH",
+        "S EY1 M",
+        "W EH0 N EH1 V ER0",
+        "EH1 M",
+        "R OW1 D",
+        "S P IY1 K IH0 NG",
+        "[UNK]",
+        "N OW1 T IH0 S T",
+        "Y AO1 R",
+        "G AA1 R D AH0 N",
+        "B L UW1 M IH0 NG",
+        "B Y UW1 T AH0 F L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "TH AE1 NG K",
+        "[UNK]",
+        "V IY1",
+        "R IH1 L IY0",
+        "P AH1 T IH0 NG",
+        "EH1 F ER0 T",
+        "Y AO1 R",
+        "L AO1 N",
+        "AO1 L S OW0",
+        "L UH1 K S",
+        "G R EY1 T",
+        "B AY1",
+        "W EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "W IH1 SH",
+        "T EY1 K",
+        "K R EH1 D AH0 T",
+        "V IY1",
+        "HH AY1 ER0 D",
+        "L OW1 K AH0 L",
+        "L AE1 N D S K EY2 P ER0",
+        "JH AA1 B",
+        "K IY1 P S",
+        "M IY1",
+        "AH0 W EY1",
+        "HH OW1 M",
+        "K W AY1 T",
+        "AO1 F T AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "R AY1 T",
+        "R EY1",
+        "T UH1 R",
+        "M AE1 N AH0 JH ER0",
+        "AA1 R AH0 N T",
+        "[UNK]",
+        "M AH1 S T",
+        "B IY1",
+        "IH0 K S AY1 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "[UNK]",
+        "EH1 S",
+        "B IH1 T",
+        "HH EH1 K T IH0 K",
+        "T AY1 M Z",
+        "L AH1 V",
+        "T R AE1 V AH0 L",
+        "G EH1 T IH0 NG",
+        "M IY1 T",
+        "N UW1",
+        "P IY1 P AH0 L",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "R IH0 M EH1 M B ER0",
+        "M EH1 N SH AH0 N IH0 NG",
+        "W ER1 K",
+        "M EH1 D AH0 K AH0 L",
+        "S EH1 K R AH0 T EH2 R IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "EH1 S",
+        "K ER0 EH1 K T",
+        "EH1 S",
+        "K W AY1 T",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "AH0 S P EH1 SH L IY0",
+        "DH IY1 Z",
+        "T AY1 M Z",
+        "IH2 N T ER0 AE1 K T",
+        "L AA1 T",
+        "P IY1 P AH0 L",
+        "L AY1 K",
+        "[UNK]",
+        "D IH1 F ER0 AH0 N T",
+        "S EH1 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "R EY1",
+        "R AY1 T",
+        "M AH1 S T",
+        "B IY1",
+        "L AA1 T",
+        "B IH1 Z IY0 ER0",
+        "DH IY1 Z",
+        "D EY1 Z",
+        "G L OW1 B AH0 L",
+        "HH EH1 L TH",
+        "S IH2 CH UW0 EY1 SH AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "[UNK]",
+        "P AA1 Z AH0 T IH0 V",
+        "S AY1 D",
+        "F IY1 L",
+        "L AY1 K",
+        "M EY1 K IH0 NG",
+        "D IH1 F ER0 AH0 N S",
+        "HH EH1 L P IH0 NG",
+        "P IY1 P AH0 L",
+        "M EH1 D AH0 K AH0 L",
+        "AH0 T EH1 N SH AH0 N",
+        "N IY1 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "EH1 S",
+        "S AH1 CH",
+        "W AH1 N D ER0 F AH0 L",
+        "P ER0 S P EH1 K T IH0 V",
+        "F IY1 L",
+        "S EY1 M",
+        "W EY1",
+        "AH0 B AW1 T",
+        "JH AA1 B",
+        "EH0 N SH UH1 R",
+        "P IY1 P AH0 L",
+        "IH0 K S P IH1 R IY0 AH0 N S",
+        "D IH1 F ER0 AH0 N T",
+        "K AH1 L CH ER0 Z",
+        "B R AO1 D AH0 N",
+        "HH ER0 AY1 Z AH0 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "T R UW1",
+        "V IY1",
+        "AO1 L W EY2 Z",
+        "AH0 D M AY1 ER0 D",
+        "M AE1 N AH0 JH",
+        "HH AE1 N D AH0 L",
+        "AO1 L",
+        "L AH0 JH IH1 S T IH0 K S",
+        "Y AO1 R",
+        "JH AA1 B",
+        "M AH1 S T",
+        "R IY2 K W AY1 ER0",
+        "L AA1 T",
+        "P L AE1 N IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "D EH1 F AH0 N AH0 T L IY0",
+        "B IH0 T W IY1 N",
+        "K OW0 AO1 R D AH0 N EY2 T IH0 NG",
+        "D IH1 F ER0 AH0 N T",
+        "V EH1 N D ER0 Z",
+        "EH0 N SH UH1 R IH0 NG",
+        "T UH1 R Z",
+        "R AH1 N",
+        "S M UW1 DH L IY0",
+        "D AH1 Z",
+        "R IY2 K W AY1 ER0",
+        "L AA1 T",
+        "AH0 T EH1 N SH AH0 N",
+        "D IH0 T EY1 L",
+        "[UNK]",
+        "EH1 S",
+        "R IH0 W AO1 R D IH0 NG",
+        "EH1 V R IY0 TH IH2 NG",
+        "K AH1 M Z",
+        "T AH0 G EH1 DH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "AE2 B S AH0 L UW1 T L IY0",
+        "R IH0 L EY1 T",
+        "[UNK]",
+        "JH AA1 B",
+        "AO1 L S OW0",
+        "R IY0 K W AY1 ER0 Z",
+        "L AA1 T",
+        "K OW0 AO2 R D AH0 N EY1 SH AH0 N",
+        "AH0 S P EH1 SH L IY0",
+        "S K EH1 JH UH0 L IH0 NG",
+        "AH0 P OY1 N T M AH0 N T S",
+        "M AE1 N AH0 JH IH0 NG",
+        "D AA1 K T ER0 Z",
+        "S K EH1 JH UH0 L Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH IH1 NG K",
+        "EH1 S",
+        "W AY1",
+        "B OW1 TH",
+        "S AH1 CH",
+        "B Y UW1 T AH0 F AH0 L",
+        "Y AA1 R D Z",
+        "AH0 T EH1 N SH AH0 N",
+        "D IH0 T EY1 L",
+        "K AE1 R IY0 Z",
+        "OW1 V ER0",
+        "P ER1 S IH0 N AH0 L",
+        "L IH1 V Z",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "M AY1 T",
+        "B IY1",
+        "R AY1 T",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "EH1 S",
+        "L AH1 V L IY0",
+        "CH AE1 T IH0 NG",
+        "[UNK]",
+        "D UW1",
+        "DH IH1 S",
+        "M AO1 R",
+        "AO1 F T AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "D IY1",
+        "L AH1 V",
+        "[UNK]",
+        "[UNK]",
+        "K AE1 CH",
+        "ER0 AW1 N D",
+        "DH EH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "D EH1 F AH0 N AH0 T L IY0",
+        "G R EY1 T",
+        "D EY1"
+      ]
+    }
+  ]
+}

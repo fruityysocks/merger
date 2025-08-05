@@ -1,0 +1,350 @@
+{
+  "speaker1": 1245.0,
+  "speaker2": 1706.0,
+  "original_conversation": "Speaker 1: Good morning, Judy. It's a beautiful day, isn't it?\nSpeaker 2: Hi, Susan. It sure is! The sun is out and the birds are chirping. Couldn't ask for a better day.\nSpeaker 1: I saw the kids playing in the park earlier. They seem to be enjoying the weather too.\nSpeaker 2: Oh yes, they love it. The park is their favorite place. How about your daughter? Does she enjoy the outdoors?\nSpeaker 1: Yes, she does, although she's more into her coding projects these days. I guess it's because I'm a software engineer.\nSpeaker 2: That's interesting! It's always good when kids take an interest in their parents' professions. How's your work going?\nSpeaker 1: It's going well, thanks for asking. It's hectic, as always. The tech world never sleeps, it seems.\nSpeaker 2: I can only imagine. My work is quite different. As a stay-at-home parent, my day is filled with chores and taking care of the kids.\nSpeaker 1: That's a full-time job in itself, Judy. I really admire your dedication.\nSpeaker 2: Thank you, Susan. It can be challenging, but it's also rewarding. Do you ever work from home?\nSpeaker 1: Yes, I do. It's become more common now with the pandemic. I like the flexibility, but it can be hard to switch off.\nSpeaker 2: I can understand that. It's hard to set boundaries when your home is also your workplace. But I'm sure your tech skills come in handy.\nSpeaker 1: They do, especially when it comes to troubleshooting tech issues at home. Do you have any routines or ways to manage your time effectively?\nSpeaker 2: Absolutely. I have a daily schedule that I stick to. It helps me keep track of chores and the kids' activities. Plus, it's important to take breaks and have some time for myself.\nSpeaker 1: That's a great approach. I should probably incorporate more breaks into my routine. Sometimes I get so caught up in my work that I forget to take a breather.\nSpeaker 2: It's easy to do that, especially when you're passionate about your work. But remember, it's important to take care of yourself too.\nSpeaker 1: You're absolutely right, Judy. I'll definitely keep that in mind. Thanks for the advice.\nSpeaker 2: You're welcome, Susan. It's always nice to chat with you.\nSpeaker 1: Same here, Judy. Let's catch up soon. Have a great day!",
+  "cleaned_conversation": "Speaker 1: good morning, judy. 's beautiful day, isn't ?\nSpeaker 2: hi, susan. sure ! sun out birds chirping. ask better day.\nSpeaker 1: saw kids playing park earlier. seem be enjoying weather too.\nSpeaker 2: yes, love . park favorite place. about your daughter? does enjoy outdoors?\nSpeaker 1: yes, does, although 's more into coding projects these days. guess 's 'm software engineer.\nSpeaker 2: 's interesting! 's always good kids take interest parents' professions. your work going?\nSpeaker 1: 's going well, thanks asking. 's hectic, always. tech world never sleeps, seems.\nSpeaker 2: can only imagine. work quite different. stay--home parent, day filled chores taking care kids.\nSpeaker 1: 's full-time job itself, judy. really admire your dedication.\nSpeaker 2: thank , susan. can be challenging, 's also rewarding. do ever work home?\nSpeaker 1: yes, do. 's become more common now pandemic. like flexibility, can be hard switch off.\nSpeaker 2: can understand . 's hard set boundaries your home also your workplace. 'm sure your tech skills come handy.\nSpeaker 1: do, especially comes troubleshooting tech issues home. do any routines ways manage your time effectively?\nSpeaker 2: absolutely. daily schedule stick . helps me keep track chores kids' activities. plus, 's important take breaks some time myself.\nSpeaker 1: 's great approach. probably incorporate more breaks into routine. sometimes caught up work forget take breather.\nSpeaker 2: 's easy do , especially 're passionate about your work. remember, 's important take care yourself too.\nSpeaker 1: 're absolutely right, judy. 'll definitely keep mind. thanks advice.\nSpeaker 2: 're welcome, susan. 's always nice chat .\nSpeaker 1: same here, judy. let's catch up soon. great day!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "JH UW1 D IY0",
+        "EH1 S",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH AY1",
+        "S UW1 Z AH0 N",
+        "SH UH1 R",
+        "[UNK]",
+        "S AH1 N",
+        "AW1 T",
+        "B ER1 D Z",
+        "CH ER1 P IH0 NG",
+        "AE1 S K",
+        "B EH1 T ER0",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S AO1",
+        "K IH1 D Z",
+        "P L EY1 IH0 NG",
+        "P AA1 R K",
+        "ER1 L IY0 ER0",
+        "S IY1 M",
+        "B IY1",
+        "EH2 N JH OY1 IH0 NG",
+        "W EH1 DH ER0",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "L AH1 V",
+        "[UNK]",
+        "P AA1 R K",
+        "F EY1 V ER0 IH0 T",
+        "P L EY1 S",
+        "AH0 B AW1 T",
+        "Y AO1 R",
+        "D AO1 T ER0",
+        "D AH1 Z",
+        "EH2 N JH OY1",
+        "AW1 T D AO1 R Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "D AH1 Z",
+        "AO2 L DH OW1",
+        "EH1 S",
+        "M AO1 R",
+        "IH1 N T UW0",
+        "K OW1 D IH0 NG",
+        "P R AA1 JH EH0 K T S",
+        "DH IY1 Z",
+        "D EY1 Z",
+        "G EH1 S",
+        "EH1 S",
+        "EH1 M",
+        "S AO1 F T W EH2 R",
+        "EH1 N JH AH0 N IH1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "EH1 S",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "EH1 S",
+        "AO1 L W EY2 Z",
+        "G UH1 D",
+        "K IH1 D Z",
+        "T EY1 K",
+        "IH1 N T AH0 R EH2 S T",
+        "P EH1 R AH0 N T S",
+        "P R AH0 F EH1 SH AH0 N Z",
+        "Y AO1 R",
+        "W ER1 K",
+        "G OW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "G OW1 IH0 NG",
+        "W EH1 L",
+        "TH AE1 NG K S",
+        "AE1 S K IH0 NG",
+        "EH1 S",
+        "HH EH1 K T IH0 K",
+        "AO1 L W EY2 Z",
+        "T EH1 K",
+        "W ER1 L D",
+        "N EH1 V ER0",
+        "S L IY1 P S",
+        "S IY1 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "W ER1 K",
+        "K W AY1 T",
+        "D IH1 F ER0 AH0 N T",
+        "[UNK]",
+        "P EH1 R AH0 N T",
+        "D EY1",
+        "F IH1 L D",
+        "CH AO1 R Z",
+        "T EY1 K IH0 NG",
+        "K EH1 R",
+        "K IH1 D Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "F UH1 L T AY2 M",
+        "JH AA1 B",
+        "IH2 T S EH1 L F",
+        "JH UW1 D IY0",
+        "R IH1 L IY0",
+        "AE0 D M AY1 R",
+        "Y AO1 R",
+        "D EH2 D AH0 K EY1 SH AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K",
+        "[UNK]",
+        "S UW1 Z AH0 N",
+        "K AE1 N",
+        "B IY1",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "EH1 S",
+        "AO1 L S OW0",
+        "R IH0 W AO1 R D IH0 NG",
+        "D UW1",
+        "EH1 V ER0",
+        "W ER1 K",
+        "HH OW1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "D UW1",
+        "EH1 S",
+        "B IH0 K AH1 M",
+        "M AO1 R",
+        "K AA1 M AH0 N",
+        "N AW1",
+        "P AE0 N D EH1 M IH0 K",
+        "L AY1 K",
+        "F L EH2 K S AH0 B IH1 L AH0 T IY0",
+        "K AE1 N",
+        "B IY1",
+        "HH AA1 R D",
+        "S W IH1 CH",
+        "AO1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "AH2 N D ER0 S T AE1 N D",
+        "[UNK]",
+        "EH1 S",
+        "HH AA1 R D",
+        "S EH1 T",
+        "B AW1 N D ER0 IY0 Z",
+        "Y AO1 R",
+        "HH OW1 M",
+        "AO1 L S OW0",
+        "Y AO1 R",
+        "W ER1 K P L EY2 S",
+        "EH1 M",
+        "SH UH1 R",
+        "Y AO1 R",
+        "T EH1 K",
+        "S K IH1 L Z",
+        "K AH1 M",
+        "HH AE1 N D IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "D UW1",
+        "AH0 S P EH1 SH L IY0",
+        "K AH1 M Z",
+        "[UNK]",
+        "T EH1 K",
+        "IH1 SH UW0 Z",
+        "HH OW1 M",
+        "D UW1",
+        "EH1 N IY0",
+        "R UW0 T IY1 N Z",
+        "W EY1 Z",
+        "M AE1 N AH0 JH",
+        "Y AO1 R",
+        "T AY1 M",
+        "IH0 F EH1 K T IH0 V L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "D EY1 L IY0",
+        "S K EH1 JH UH0 L",
+        "S T IH1 K",
+        "[UNK]",
+        "HH EH1 L P S",
+        "M IY1",
+        "K IY1 P",
+        "T R AE1 K",
+        "CH AO1 R Z",
+        "K IH1 D Z",
+        "AE0 K T IH1 V IH0 T IY0 Z",
+        "P L AH1 S",
+        "EH1 S",
+        "IH2 M P AO1 R T AH0 N T",
+        "T EY1 K",
+        "B R EY1 K S",
+        "S AH1 M",
+        "T AY1 M",
+        "M AY2 S EH1 L F"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "G R EY1 T",
+        "AH0 P R OW1 CH",
+        "P R AA1 B AH0 B L IY2",
+        "IH2 N K AO1 R P ER0 EY2 T",
+        "M AO1 R",
+        "B R EY1 K S",
+        "IH1 N T UW0",
+        "R UW0 T IY1 N",
+        "S AH0 M T AY1 M Z",
+        "K AA1 T",
+        "AH1 P",
+        "W ER1 K",
+        "F ER0 G EH1 T",
+        "T EY1 K",
+        "B R IY1 DH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "EH1 S",
+        "IY1 Z IY0",
+        "D UW1",
+        "[UNK]",
+        "AH0 S P EH1 SH L IY0",
+        "R EY1",
+        "P AE1 SH AH0 N AH0 T",
+        "AH0 B AW1 T",
+        "Y AO1 R",
+        "W ER1 K",
+        "R IH0 M EH1 M B ER0",
+        "EH1 S",
+        "IH2 M P AO1 R T AH0 N T",
+        "T EY1 K",
+        "K EH1 R",
+        "Y ER0 S EH1 L F",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "AE2 B S AH0 L UW1 T L IY0",
+        "R AY1 T",
+        "JH UW1 D IY0",
+        "[UNK]",
+        "D EH1 F AH0 N AH0 T L IY0",
+        "K IY1 P",
+        "M AY1 N D",
+        "TH AE1 NG K S",
+        "AE0 D V AY1 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "R EY1",
+        "W EH1 L K AH0 M",
+        "S UW1 Z AH0 N",
+        "EH1 S",
+        "AO1 L W EY2 Z",
+        "N AY1 S",
+        "CH AE1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S EY1 M",
+        "HH IY1 R",
+        "JH UW1 D IY0",
+        "L EH1 T S",
+        "K AE1 CH",
+        "AH1 P",
+        "S UW1 N",
+        "G R EY1 T",
+        "D EY1"
+      ]
+    }
+  ]
+}

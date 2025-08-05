@@ -1,0 +1,341 @@
+{
+  "speaker1": 1702.0,
+  "speaker2": 1321.0,
+  "original_conversation": "Speaker 1: Good morning, it's a nice day today, isn't it? \n\nSpeaker 2: Oh, very much so. The sunlight is just perfect. It's been a while since we've had a day like this. \n\nSpeaker 1: True that. I was just about to go for a stroll in the refuge. The animals are quite active on days like these.\n\nSpeaker 2: That sounds amazing. I always find the refuge so calming. It's one of the things I love about living here. \n\nSpeaker 1: I'm glad to hear you say that. You know, as a Deputy Refuge Manager, it's my job to ensure that the refuge stays serene and beautiful.\n\nSpeaker 2: Oh, is that so? I've always wondered what it's like to work there. I mean, as a Medical Billing Representative, my job is mostly indoors.\n\nSpeaker 1: Well, it's a different kind of work. A lot of it is about managing the habitat, making sure the different species coexist in harmony. It's quite rewarding, to be honest.\n\nSpeaker 2: That sounds wonderful. I guess it's like me ensuring all patients' bills are handled accurately and efficiently. It's a different kind of responsibility, but rewarding in its own way.\n\nSpeaker 1: Absolutely. I can imagine it must be challenging dealing with all the paperwork and maintaining accuracy. \n\nSpeaker 2: It can be, especially when insurance policies get involved. But I'm sure you have your share of challenges too. \n\nSpeaker 1: True, dealing with unpredictable weather, injured animals, or maintaining the diverse ecosystem. But that's the part of the job, isn't it?\n\nSpeaker 2: Absolutely, and it's about finding the joy in doing what we do. I feel satisfied when I'm able to help patients navigate through their bills and insurance claims.\n\nSpeaker 1: And I feel the same when I'm able to create a safe environment for the animals and the visitors. It's all about making a difference, in our own little ways.\n\nSpeaker 2: That's beautifully said. I couldn't agree more. \n\nSpeaker 1: It's always interesting to learn about different professions. Gives a new perspective on things.\n\nSpeaker 2: Indeed. It's a reminder of how diverse our community is, and how we all contribute in different ways.\n\nSpeaker 1: Well, it was nice chatting with you. I better get going. The refuge won't manage itself.\n\nSpeaker 2: Of course. Have a good day and enjoy your time at the refuge.\n\nSpeaker 1: Thank you, you have a good day at work too.",
+  "cleaned_conversation": "Speaker 1: good morning, 's nice day today, isn't ?\nSpeaker 2: , very much . sunlight perfect. 's while since day like this.\nSpeaker 1: true . about go stroll refuge. animals quite active days like these.\nSpeaker 2: sounds amazing. always find refuge calming. 's one things love about living here.\nSpeaker 1: 'm glad hear say . know, deputy refuge manager, 's job ensure refuge stays serene beautiful.\nSpeaker 2: , ? 've always wondered 's like work . mean, medical billing representative, job mostly indoors.\nSpeaker 1: well, 's different kind work. lot about managing habitat, making sure different species coexist harmony. 's quite rewarding, be honest.\nSpeaker 2: sounds wonderful. guess 's like me ensuring all patients' bills handled accurately efficiently. 's different kind responsibility, rewarding own way.\nSpeaker 1: absolutely. can imagine must be challenging dealing all paperwork maintaining accuracy.\nSpeaker 2: can be, especially insurance policies involved. 'm sure your share challenges too.\nSpeaker 1: true, dealing unpredictable weather, injured animals, maintaining diverse ecosystem. 's part job, isn't ?\nSpeaker 2: absolutely, 's about finding joy doing do. feel satisfied 'm able help patients navigate through bills insurance claims.\nSpeaker 1: feel same 'm able create safe environment animals visitors. 's all about making difference, own little ways.\nSpeaker 2: 's beautifully said. agree more.\nSpeaker 1: 's always interesting learn about different professions. gives new perspective things.\nSpeaker 2: indeed. 's reminder diverse community , all contribute different ways.\nSpeaker 1: well, nice chatting . better going. refuge won't manage itself.\nSpeaker 2: course. good day enjoy your time refuge.\nSpeaker 1: thank , good day work too.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "EH1 S",
+        "N AY1 S",
+        "D EY1",
+        "T AH0 D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "V EH1 R IY0",
+        "M AH1 CH",
+        "[UNK]",
+        "S AH1 N L AY2 T",
+        "P ER0 F EH1 K T",
+        "EH1 S",
+        "W AY1 L",
+        "S IH1 N S",
+        "D EY1",
+        "L AY1 K",
+        "DH IH1 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "[UNK]",
+        "AH0 B AW1 T",
+        "G OW1",
+        "S T R OW1 L",
+        "R EH1 F Y UW0 JH",
+        "AE1 N AH0 M AH0 L Z",
+        "K W AY1 T",
+        "AE1 K T IH0 V",
+        "D EY1 Z",
+        "L AY1 K",
+        "DH IY1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "AH0 M EY1 Z IH0 NG",
+        "AO1 L W EY2 Z",
+        "F AY1 N D",
+        "R EH1 F Y UW0 JH",
+        "K AA1 M IH0 NG",
+        "EH1 S",
+        "W AH1 N",
+        "TH IH1 NG Z",
+        "L AH1 V",
+        "AH0 B AW1 T",
+        "L IH1 V IH0 NG",
+        "HH IY1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 M",
+        "G L AE1 D",
+        "HH IY1 R",
+        "S EY1",
+        "[UNK]",
+        "N OW1",
+        "D EH1 P Y AH0 T IY0",
+        "R EH1 F Y UW0 JH",
+        "M AE1 N AH0 JH ER0",
+        "EH1 S",
+        "JH AA1 B",
+        "EH0 N SH UH1 R",
+        "R EH1 F Y UW0 JH",
+        "S T EY1 Z",
+        "S ER0 IY1 N",
+        "B Y UW1 T AH0 F AH0 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "[UNK]",
+        "V IY1",
+        "AO1 L W EY2 Z",
+        "W AH1 N D ER0 D",
+        "EH1 S",
+        "L AY1 K",
+        "W ER1 K",
+        "[UNK]",
+        "M IY1 N",
+        "M EH1 D AH0 K AH0 L",
+        "B IH1 L IH0 NG",
+        "R EH2 P R AH0 Z EH1 N T AH0 T IH0 V",
+        "JH AA1 B",
+        "M OW1 S T L IY0",
+        "IH1 N D AO2 R Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "EH1 S",
+        "D IH1 F ER0 AH0 N T",
+        "K AY1 N D",
+        "W ER1 K",
+        "L AA1 T",
+        "AH0 B AW1 T",
+        "M AE1 N AH0 JH IH0 NG",
+        "HH AE1 B AH0 T AE2 T",
+        "M EY1 K IH0 NG",
+        "SH UH1 R",
+        "D IH1 F ER0 AH0 N T",
+        "S P IY1 SH IY0 Z",
+        "K OW2 AH0 G Z IH1 S T",
+        "HH AA1 R M AH0 N IY0",
+        "EH1 S",
+        "K W AY1 T",
+        "R IH0 W AO1 R D IH0 NG",
+        "B IY1",
+        "AA1 N AH0 S T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "W AH1 N D ER0 F AH0 L",
+        "G EH1 S",
+        "EH1 S",
+        "L AY1 K",
+        "M IY1",
+        "EH0 N SH UH1 R IH0 NG",
+        "AO1 L",
+        "P EY1 SH AH0 N T S",
+        "B IH1 L Z",
+        "HH AE1 N D AH0 L D",
+        "AE1 K Y ER0 AH0 T L IY0",
+        "IH0 F IH1 SH AH0 N T L IY0",
+        "EH1 S",
+        "D IH1 F ER0 AH0 N T",
+        "K AY1 N D",
+        "R IY0 S P AA2 N S AH0 B IH1 L AH0 T IY0",
+        "R IH0 W AO1 R D IH0 NG",
+        "OW1 N",
+        "W EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "B IY1",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "D IY1 L IH0 NG",
+        "AO1 L",
+        "P EY1 P ER0 W ER2 K",
+        "M EY0 N T EY1 N IH0 NG",
+        "AE1 K Y ER0 AH0 S IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "B IY1",
+        "AH0 S P EH1 SH L IY0",
+        "IH2 N SH UH1 R AH0 N S",
+        "P AA1 L AH0 S IY0 Z",
+        "IH2 N V AA1 L V D",
+        "EH1 M",
+        "SH UH1 R",
+        "Y AO1 R",
+        "SH EH1 R",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "D IY1 L IH0 NG",
+        "AH2 N P R IH0 D IH1 K T AH0 B AH0 L",
+        "W EH1 DH ER0",
+        "IH1 N JH ER0 D",
+        "AE1 N AH0 M AH0 L Z",
+        "M EY0 N T EY1 N IH0 NG",
+        "D AY0 V ER1 S",
+        "IY1 K OW0 S IH2 S T AH0 M",
+        "EH1 S",
+        "P AA1 R T",
+        "JH AA1 B",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "EH1 S",
+        "AH0 B AW1 T",
+        "F AY1 N D IH0 NG",
+        "JH OY1",
+        "D UW1 IH0 NG",
+        "D UW1",
+        "F IY1 L",
+        "S AE1 T AH0 S F AY2 D",
+        "EH1 M",
+        "EY1 B AH0 L",
+        "HH EH1 L P",
+        "P EY1 SH AH0 N T S",
+        "N AE1 V AH0 G EY2 T",
+        "TH R UW1",
+        "B IH1 L Z",
+        "IH2 N SH UH1 R AH0 N S",
+        "K L EY1 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "F IY1 L",
+        "S EY1 M",
+        "EH1 M",
+        "EY1 B AH0 L",
+        "K R IY0 EY1 T",
+        "S EY1 F",
+        "IH0 N V AY1 R AH0 N M AH0 N T",
+        "AE1 N AH0 M AH0 L Z",
+        "V IH1 Z IH0 T ER0 Z",
+        "EH1 S",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "M EY1 K IH0 NG",
+        "D IH1 F ER0 AH0 N S",
+        "OW1 N",
+        "L IH1 T AH0 L",
+        "W EY1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "EH1 S",
+        "B Y UW1 T AH0 F L IY0",
+        "S EH1 D",
+        "AH0 G R IY1",
+        "M AO1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "AO1 L W EY2 Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "L ER1 N",
+        "AH0 B AW1 T",
+        "D IH1 F ER0 AH0 N T",
+        "P R AH0 F EH1 SH AH0 N Z",
+        "G IH1 V Z",
+        "N UW1",
+        "P ER0 S P EH1 K T IH0 V",
+        "TH IH1 NG Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "EH1 S",
+        "R IY0 M AY1 N D ER0",
+        "D AY0 V ER1 S",
+        "K AH0 M Y UW1 N AH0 T IY0",
+        "[UNK]",
+        "AO1 L",
+        "K AH0 N T R IH1 B Y UW0 T",
+        "D IH1 F ER0 AH0 N T",
+        "W EY1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "N AY1 S",
+        "CH AE1 T IH0 NG",
+        "[UNK]",
+        "B EH1 T ER0",
+        "G OW1 IH0 NG",
+        "R EH1 F Y UW0 JH",
+        "W OW1 N T",
+        "M AE1 N AH0 JH",
+        "IH2 T S EH1 L F"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AO1 R S",
+        "G UH1 D",
+        "D EY1",
+        "EH2 N JH OY1",
+        "Y AO1 R",
+        "T AY1 M",
+        "R EH1 F Y UW0 JH"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "TH AE1 NG K",
+        "[UNK]",
+        "G UH1 D",
+        "D EY1",
+        "W ER1 K",
+        "T UW1"
+      ]
+    }
+  ]
+}

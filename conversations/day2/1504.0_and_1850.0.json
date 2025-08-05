@@ -1,0 +1,320 @@
+{
+  "speaker1": 1504.0,
+  "speaker2": 1850.0,
+  "original_conversation": "Speaker 1: Good morning, neighbor! Sure is a beautiful day, isn't it?\nSpeaker 2: Indeed, it is. The sky is as clear as a lakeside morning. How are you doing today?\nSpeaker 1: I'm well, thank you. Just finished a long order of cupcakes for a birthday party. Keeps me on my toes, you know.\nSpeaker 2: I can only imagine. The precision and creativity required in your line of work is fascinating. \nSpeaker 1: Well, it's not always glamorous. Sometimes it's just about getting the icing right without it dripping everywhere. \nSpeaker 2: Well, that's an art unto itself. I'm more used to wrangling words than icing, but I can appreciate the effort. \nSpeaker 1: Being a writer must be an interesting job. Do you ever get writer's block?\nSpeaker 2: More often than I'd like to admit. It's a bit like your icing dilemma - sometimes the words just won't flow the way you want them to.\nSpeaker 1: Oh, I can relate to that. There are days when no matter how hard I try, the icing just won't cooperate.\nSpeaker 2: Exactly! And the more you force it, the worse it gets. Sometimes, you just have to step back and let the ideas, or the icing, flow naturally.\nSpeaker 1: Yes, that's so true. Tell me, do you have any tricks to get past your writer's block?\nSpeaker 2: Hmm, well, I usually just try to change my environment. Take a walk, read a book, or even chat with a neighbor. You'd be surprised how much it helps with fresh perspectives.\nSpeaker 1: That's a great idea. I'll try that next time the icing isn't cooperating. Maybe a change of scenery will do me good.\nSpeaker 2: It's worth a shot. And who knows? Maybe our chats could inspire a story or a cake design.\nSpeaker 1: Now, wouldn't that be something! Our professions do have more in common than I thought.\nSpeaker 2: Yes, they do. We both create things that bring joy to people. And that's a wonderful thing, don't you think?\nSpeaker 1: Absolutely. It's the best part of the job. Well, I should get back to my cakes. It was nice talking to you.\nSpeaker 2: Likewise. Let's chat again soon. Best of luck with your creations.",
+  "cleaned_conversation": "Speaker 1: good morning, neighbor! sure beautiful day, isn't ?\nSpeaker 2: indeed, . sky clear lakeside morning. doing today?\nSpeaker 1: 'm well, thank . finished long order cupcakes birthday party. keeps me toes, know.\nSpeaker 2: can only imagine. precision creativity required your line work fascinating.\nSpeaker 1: well, 's always glamorous. sometimes 's about getting icing right without dripping everywhere.\nSpeaker 2: well, 's art unto itself. 'm more used wrangling words icing, can appreciate effort.\nSpeaker 1: being writer must be interesting job. do ever writer's block?\nSpeaker 2: more often 'd like admit. 's bit like your icing dilemma - sometimes words won't flow way want .\nSpeaker 1: , can relate . days no matter hard try, icing won't cooperate.\nSpeaker 2: exactly! more force , worse gets. sometimes, step back let ideas, icing, flow naturally.\nSpeaker 1: yes, 's true. tell me, do any tricks past your writer's block?\nSpeaker 2: hmm, well, usually try change environment. take walk, read book, even chat neighbor. be surprised much helps fresh perspectives.\nSpeaker 1: 's great idea. 'll try next time icing isn't cooperating. maybe change scenery will do me good.\nSpeaker 2: 's worth shot. who knows? maybe chats inspire story cake design.\nSpeaker 1: now, be something! professions do more common thought.\nSpeaker 2: yes, do. both create things bring joy people. 's wonderful thing, don't think?\nSpeaker 1: absolutely. 's best part job. well, back cakes. nice talking .\nSpeaker 2: likewise. let's chat again soon. best luck your creations.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "N EY1 B ER0",
+        "SH UH1 R",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "[UNK]",
+        "S K AY1",
+        "K L IH1 R",
+        "L EY1 K S AY2 D",
+        "M AO1 R N IH0 NG",
+        "D UW1 IH0 NG",
+        "T AH0 D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 M",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "[UNK]",
+        "F IH1 N IH0 SH T",
+        "L AO1 NG",
+        "AO1 R D ER0",
+        "K AH1 P K EY2 K S",
+        "B ER1 TH D EY2",
+        "P AA1 R T IY0",
+        "K IY1 P S",
+        "M IY1",
+        "T OW1 Z",
+        "N OW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "P R IY0 S IH1 ZH AH0 N",
+        "K R IY2 EY0 T IH1 V AH0 T IY0",
+        "R IY0 K W AY1 ER0 D",
+        "Y AO1 R",
+        "L AY1 N",
+        "W ER1 K",
+        "F AE1 S AH0 N EY2 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "EH1 S",
+        "AO1 L W EY2 Z",
+        "G L AE1 M ER0 AH0 S",
+        "S AH0 M T AY1 M Z",
+        "EH1 S",
+        "AH0 B AW1 T",
+        "G EH1 T IH0 NG",
+        "AY1 S IH0 NG",
+        "R AY1 T",
+        "W IH0 TH AW1 T",
+        "D R IH1 P IH0 NG",
+        "EH1 V R IY0 W EH2 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "EH1 S",
+        "AA1 R T",
+        "AH1 N T UW0",
+        "IH2 T S EH1 L F",
+        "EH1 M",
+        "M AO1 R",
+        "Y UW1 Z D",
+        "R AE1 NG G AH0 L IH0 NG",
+        "W ER1 D Z",
+        "AY1 S IH0 NG",
+        "K AE1 N",
+        "AH0 P R IY1 SH IY0 EY2 T",
+        "EH1 F ER0 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "B IY1 IH0 NG",
+        "R AY1 T ER0",
+        "M AH1 S T",
+        "B IY1",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "JH AA1 B",
+        "D UW1",
+        "EH1 V ER0",
+        "R AY1 T ER0 Z",
+        "B L AA1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "M AO1 R",
+        "AO1 F T AH0 N",
+        "D IY1",
+        "L AY1 K",
+        "AH0 D M IH1 T",
+        "EH1 S",
+        "B IH1 T",
+        "L AY1 K",
+        "Y AO1 R",
+        "AY1 S IH0 NG",
+        "D IH0 L EH1 M AH0",
+        "[UNK]",
+        "S AH0 M T AY1 M Z",
+        "W ER1 D Z",
+        "W OW1 N T",
+        "F L OW1",
+        "W EY1",
+        "W AA1 N T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "R IH0 L EY1 T",
+        "[UNK]",
+        "D EY1 Z",
+        "N OW1",
+        "M AE1 T ER0",
+        "HH AA1 R D",
+        "T R AY1",
+        "AY1 S IH0 NG",
+        "W OW1 N T",
+        "K OW0 AA1 P ER0 EY2 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "M AO1 R",
+        "F AO1 R S",
+        "[UNK]",
+        "W ER1 S",
+        "G EH1 T S",
+        "S AH0 M T AY1 M Z",
+        "S T EH1 P",
+        "B AE1 K",
+        "L EH1 T",
+        "AY0 D IY1 AH0 Z",
+        "AY1 S IH0 NG",
+        "F L OW1",
+        "N AE1 CH ER0 AH0 L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "EH1 S",
+        "T R UW1",
+        "T EH1 L",
+        "M IY1",
+        "D UW1",
+        "EH1 N IY0",
+        "T R IH1 K S",
+        "P AE1 S T",
+        "Y AO1 R",
+        "R AY1 T ER0 Z",
+        "B L AA1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH AH0 M",
+        "W EH1 L",
+        "Y UW1 ZH AH0 W AH0 L IY0",
+        "T R AY1",
+        "CH EY1 N JH",
+        "IH0 N V AY1 R AH0 N M AH0 N T",
+        "T EY1 K",
+        "W AO1 K",
+        "R EH1 D",
+        "B UH1 K",
+        "IY1 V IH0 N",
+        "CH AE1 T",
+        "N EY1 B ER0",
+        "B IY1",
+        "S ER0 P R AY1 Z D",
+        "M AH1 CH",
+        "HH EH1 L P S",
+        "F R EH1 SH",
+        "P ER0 S P EH1 K T IH0 V Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "G R EY1 T",
+        "AY0 D IY1 AH0",
+        "[UNK]",
+        "T R AY1",
+        "N EH1 K S T",
+        "T AY1 M",
+        "AY1 S IH0 NG",
+        "[UNK]",
+        "K OW0 AA1 P ER0 EY2 T IH0 NG",
+        "M EY1 B IY0",
+        "CH EY1 N JH",
+        "S IY1 N ER0 IY0",
+        "W IH1 L",
+        "D UW1",
+        "M IY1",
+        "G UH1 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "EH1 S",
+        "W ER1 TH",
+        "SH AA1 T",
+        "HH UW1",
+        "N OW1 Z",
+        "M EY1 B IY0",
+        "CH AE1 T S",
+        "IH2 N S P AY1 R",
+        "S T AO1 R IY0",
+        "K EY1 K",
+        "D IH0 Z AY1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "N AW1",
+        "B IY1",
+        "S AH1 M TH IH0 NG",
+        "P R AH0 F EH1 SH AH0 N Z",
+        "D UW1",
+        "M AO1 R",
+        "K AA1 M AH0 N",
+        "TH AO1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "D UW1",
+        "B OW1 TH",
+        "K R IY0 EY1 T",
+        "TH IH1 NG Z",
+        "B R IH1 NG",
+        "JH OY1",
+        "P IY1 P AH0 L",
+        "EH1 S",
+        "W AH1 N D ER0 F AH0 L",
+        "TH IH1 NG",
+        "[UNK]",
+        "TH IH1 NG K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "EH1 S",
+        "B EH1 S T",
+        "P AA1 R T",
+        "JH AA1 B",
+        "W EH1 L",
+        "B AE1 K",
+        "K EY1 K S",
+        "N AY1 S",
+        "T AO1 K IH0 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "L AY1 K W AY2 Z",
+        "L EH1 T S",
+        "CH AE1 T",
+        "AH0 G EH1 N",
+        "S UW1 N",
+        "B EH1 S T",
+        "L AH1 K",
+        "Y AO1 R",
+        "K R IY0 EY1 SH AH0 N Z"
+      ]
+    }
+  ]
+}
