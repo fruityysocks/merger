@@ -1,0 +1,257 @@
+{
+  "speaker1": 1296.0,
+  "speaker2": 1946.0,
+  "original_conversation": "Speaker 1: Good morning, George! It's a beautiful day, isn't it?\nSpeaker 2: Absolutely, Sally! The sun is shining, the birds are singing. Makes me wish I could stay home instead of going to work.\nSpeaker 1: Oh, I know what you mean. But, well, bills don't pay themselves, do they?\nSpeaker 2: Ha, that's the truth. Speaking of work, how's everything over at the billing department?\nSpeaker 1: Oh, you know, same old, same old. The paperwork never ends. I swear, sometimes I think I'm drowning in invoices and receipts.\nSpeaker 2: Sounds like a handful. But I guess every job has its own challenges.\nSpeaker 1: True. How about you, how's the pharmacy these days?\nSpeaker 2: We're keeping busy. With flu season coming up, more and more people are coming in for their shots.\nSpeaker 1: That's good. It's important to stay healthy, especially these days. I've been meaning to get mine too.\nSpeaker 2: You definitely should, Sally. I can set you up with an appointment if you want.\nSpeaker 1: That would be great, George. Thank you. You know, I've always wondered, how do you keep track of all those medicines? I mean, there's just so many of them.\nSpeaker 2: It's not easy, I'll tell you that. But we have a system. Everything is categorized and labeled. Plus, years of experience helps.\nSpeaker 1: Makes sense. Just like my job, I suppose. It might seem confusing to others, but once you're used to it, it's not too bad.\nSpeaker 2: Exactly. Well, I better get going. But let's arrange that flu shot for you.\nSpeaker 1: Absolutely, George. Take care and have a productive day at work.\nSpeaker 2: You too, Sally. Catch you later!",
+  "cleaned_conversation": "Speaker 1: good morning, george! beautiful day, isn't ?\nSpeaker 2: absolutely, sally! sun shining, birds singing. makes me wish stay home instead going work.\nSpeaker 1: , know mean. , well, bills don't pay themselves, do ?\nSpeaker 2: ha, truth. speaking work, 's everything over billing department?\nSpeaker 1: , know, same old, same old. paperwork never ends. swear, sometimes think 'm drowning invoices receipts.\nSpeaker 2: sounds like handful. guess every job own challenges.\nSpeaker 1: true. about , 's pharmacy these days?\nSpeaker 2: 're keeping busy. flu season coming up, more more people coming shots.\nSpeaker 1: good. important stay healthy, especially these days. 've meaning mine too.\nSpeaker 2: definitely , sally. can set up appointment if want.\nSpeaker 1: be great, george. thank . know, 've always wondered, do keep track all those medicines? mean, many .\nSpeaker 2: easy, 'll tell . system. everything categorized labeled. plus, years experience helps.\nSpeaker 1: makes sense. like job, suppose. might seem confusing others, once 're used , too bad.\nSpeaker 2: exactly. well, better going. let's arrange flu shot .\nSpeaker 1: absolutely, george. take care productive day work.\nSpeaker 2: too, sally. catch later!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "JH AO1 R JH",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "S AE1 L IY0",
+        "S AH1 N",
+        "SH AY1 N IH0 NG",
+        "B ER1 D Z",
+        "S IH1 NG IH0 NG",
+        "M EY1 K S",
+        "M IY1",
+        "W IH1 SH",
+        "S T EY1",
+        "HH OW1 M",
+        "IH2 N S T EH1 D",
+        "G OW1 IH0 NG",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "N OW1",
+        "M IY1 N",
+        "[UNK]",
+        "W EH1 L",
+        "B IH1 L Z",
+        "[UNK]",
+        "P EY1",
+        "DH EH0 M S EH1 L V Z",
+        "D UW1",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH AA1",
+        "T R UW1 TH",
+        "S P IY1 K IH0 NG",
+        "W ER1 K",
+        "EH1 S",
+        "EH1 V R IY0 TH IH2 NG",
+        "OW1 V ER0",
+        "B IH1 L IH0 NG",
+        "D IH0 P AA1 R T M AH0 N T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "N OW1",
+        "S EY1 M",
+        "OW1 L D",
+        "S EY1 M",
+        "OW1 L D",
+        "P EY1 P ER0 W ER2 K",
+        "N EH1 V ER0",
+        "EH1 N D Z",
+        "S W EH1 R",
+        "S AH0 M T AY1 M Z",
+        "TH IH1 NG K",
+        "EH1 M",
+        "D R AW1 N IH0 NG",
+        "IH1 N V OY0 S IH0 Z",
+        "R IH0 S IY1 T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AY1 K",
+        "HH AE1 N D F UH2 L",
+        "G EH1 S",
+        "EH1 V ER0 IY0",
+        "JH AA1 B",
+        "OW1 N",
+        "CH AE1 L AH0 N JH IH0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "EH1 S",
+        "F AA1 R M AH0 S IY0",
+        "DH IY1 Z",
+        "D EY1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "R EY1",
+        "K IY1 P IH0 NG",
+        "B IH1 Z IY0",
+        "F L UW1",
+        "S IY1 Z AH0 N",
+        "K AH1 M IH0 NG",
+        "AH1 P",
+        "M AO1 R",
+        "M AO1 R",
+        "P IY1 P AH0 L",
+        "K AH1 M IH0 NG",
+        "SH AA1 T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "IH2 M P AO1 R T AH0 N T",
+        "S T EY1",
+        "HH EH1 L TH IY0",
+        "AH0 S P EH1 SH L IY0",
+        "DH IY1 Z",
+        "D EY1 Z",
+        "V IY1",
+        "M IY1 N IH0 NG",
+        "M AY1 N",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "[UNK]",
+        "S AE1 L IY0",
+        "K AE1 N",
+        "S EH1 T",
+        "AH1 P",
+        "AH0 P OY1 N T M AH0 N T",
+        "IH1 F",
+        "W AA1 N T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "B IY1",
+        "G R EY1 T",
+        "JH AO1 R JH",
+        "TH AE1 NG K",
+        "[UNK]",
+        "N OW1",
+        "V IY1",
+        "AO1 L W EY2 Z",
+        "W AH1 N D ER0 D",
+        "D UW1",
+        "K IY1 P",
+        "T R AE1 K",
+        "AO1 L",
+        "DH OW1 Z",
+        "M EH1 D AH0 S AH0 N Z",
+        "M IY1 N",
+        "M EH1 N IY0",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IY1 Z IY0",
+        "[UNK]",
+        "T EH1 L",
+        "[UNK]",
+        "S IH1 S T AH0 M",
+        "EH1 V R IY0 TH IH2 NG",
+        "K AE1 T AH0 G ER0 AY2 Z D",
+        "L EY1 B AH0 L D",
+        "P L AH1 S",
+        "Y IH1 R Z",
+        "IH0 K S P IH1 R IY0 AH0 N S",
+        "HH EH1 L P S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "M EY1 K S",
+        "S EH1 N S",
+        "L AY1 K",
+        "JH AA1 B",
+        "S AH0 P OW1 Z",
+        "M AY1 T",
+        "S IY1 M",
+        "K AH0 N F Y UW1 Z IH0 NG",
+        "AH1 DH ER0 Z",
+        "W AH1 N S",
+        "R EY1",
+        "Y UW1 Z D",
+        "[UNK]",
+        "T UW1",
+        "B AE1 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "W EH1 L",
+        "B EH1 T ER0",
+        "G OW1 IH0 NG",
+        "L EH1 T S",
+        "ER0 EY1 N JH",
+        "F L UW1",
+        "SH AA1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "JH AO1 R JH",
+        "T EY1 K",
+        "K EH1 R",
+        "P R AH0 D AH1 K T IH0 V",
+        "D EY1",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T UW1",
+        "S AE1 L IY0",
+        "K AE1 CH",
+        "L EY1 T ER0"
+      ]
+    }
+  ]
+}

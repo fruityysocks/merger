@@ -60,13 +60,13 @@ def move10miles(
         jitteredLongs.append(jitteredPoint.x)
 
     # Add jittered coordinates to dataframe in place
-    df[latCol + '_day2'] = jitteredLats
-    df[longCol + '_day2'] = jitteredLongs
+    df["childLatJittered_day3"] = jitteredLats
+    df["childLongJittered_day3"] = jitteredLongs
     
     return df
 
 df = pd.read_csv('data/demographicInfo.csv')  
 
-df = move10miles(df, latCol="childLatJittered", longCol="childLongJittered", max=10, stdDev=3)
+df = move10miles(df, latCol="childLatJittered_day2", longCol="childLongJittered_day2", max=10, stdDev=3)
 df.to_csv("data/demographicInfo.csv", index=False)
-print(df[[ 'childLatJittered', 'childLatJittered_day2', 'childLongJittered', 'childLongJittered_day2']].head())
+print(df[[ 'childLatJittered_day2', 'childLatJittered_day3', 'childLongJittered_day2', 'childLongJittered_day3']].head())

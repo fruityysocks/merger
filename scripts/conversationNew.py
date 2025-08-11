@@ -84,7 +84,9 @@ Speaker 2:
 The conversation begins with casual small talk about neighborhood and everyday topics.  
 After a few turns, the conversation naturally transitions to discussing their professions.
 Write a conversation of {turns} alternating turns (each speaker contributing), showing this natural flow.
-The conversation should be realistic, with each speaker responding to the other's comments and questions.
+The conversation should be realistic, with each speaker responding to the other's comments and questions, 
+also allow the agents to interrupt each other occasionally and overlap at times during their conversation.
+
 Speaker 1: <utterance>  
 Speaker 2: <utterance>  
 ...
@@ -263,13 +265,13 @@ def main():
             original=conversation_text,
             cleaned=cleaned_text,
             phonetic=phonetic_turns,
-            outdir="conversations/day2"
+            outdir="conversations/day3"
         )
         
         save_stressed_tokens(
             phonetic_turns, cleaned_text, spk1_id, spk2_id,
             filename=f"{spk1_id}_and_{spk2_id}.json",
-            output_csv="data/day2Vowels.csv"
+            output_csv="data/day3Vowels.csv"
         )
         
         time.sleep(1.5)
