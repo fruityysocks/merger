@@ -1,0 +1,332 @@
+{
+  "speaker1": 1207,
+  "speaker2": 1210,
+  "original_conversation": "Speaker 1: Hey there, how's your morning been so far?\nSpeaker 2: Oh, hey! It's been good, just got back from a run. You?\nSpeaker 1: Well, I've been gardening. It's my little morning ritual. I find it quite calming.\nSpeaker 2: That's nice! I've noticed your garden is always top-notch. You have a green thumb, I guess?\nSpeaker 1: Ha, I try. It's part of my job actually, I'm self-employed, running a little landscaping business.\nSpeaker 2: Oh, really? That's cool. I always thought those flowers and arrangements were too good to be just a hobby.\nSpeaker 1: Yeah, it started as a hobby, but then I thought why not make a living out of something I love doing. And the flexibility of being my own boss is a bonus. Anyway, what about you? What keeps you occupied?\nSpeaker 2: I'm currently a student, majoring in computer science. I'm always buried in codes and algorithms.\nSpeaker 1: Oh, that sounds like a lot of work. How do you manage to balance your studies and other activities?\nSpeaker 2: Well, it's tough sometimes, but I try to keep a schedule. And running helps me clear my mind, so I make sure to squeeze that in.\nSpeaker 1: That's a good strategy. I believe in the importance of work-life balance too. In my case, I get to take breaks when I want, and that helps.\nSpeaker 2: It must be nice to have that kind of flexibility. But I guess running your own business comes with its own challenges, huh?\nSpeaker 1: Absolutely. There are always unexpected problems, and no one's there to fix them but me. But it's rewarding, you know. I get to see the fruits of my labor\u2014literally and figuratively.\nSpeaker 2: I can imagine. The satisfaction of overcoming challenges and seeing the results must be great. I feel the same when I solve complex coding problems.\nSpeaker 1: Exactly. And the best part is, it's something we both enjoy. It's not just work, it's also our passion.\nSpeaker 2: True, that's the best kind of work. Hopefully, my passion for coding will lead to something fulfilling too.\nSpeaker 1: I'm sure it will. Just keep doing what you love, and success will come.\nSpeaker 2: Thanks for the encouragement. It's always nice talking to you. I should probably get back to my studies now.\nSpeaker 1: Absolutely, go conquer those codes! And if you ever need a break, my garden could always use an extra hand. \nSpeaker 2: I'll keep that in mind. Thanks and see you around!",
+  "cleaned_conversation": "Speaker 1: hey , 's your morning far?\nSpeaker 2: , hey! good, back run. ?\nSpeaker 1: well, gardening. little morning ritual. find quite calming.\nSpeaker 2: nice! noticed your garden always top-notch. green thumb, guess?\nSpeaker 1: ha, try. part job actually, self-employed, running little landscaping business.\nSpeaker 2: , really? cool. always thought those flowers arrangements too good be hobby.\nSpeaker 1: , started hobby, then thought why make living out something love doing. flexibility being own boss bonus. anyway, about ? keeps occupied?\nSpeaker 2: currently student, majoring computer science. always buried codes algorithms.\nSpeaker 1: , sounds like lot work. do manage balance your studies other activities?\nSpeaker 2: well, tough sometimes, try keep schedule. running helps me clear mind, make sure squeeze .\nSpeaker 1: good strategy. believe importance work-life balance too. case, take breaks want, helps.\nSpeaker 2: must be nice kind flexibility. guess running your own business comes own challenges, ?\nSpeaker 1: absolutely. always unexpected problems, no one's fix me. rewarding, know. see fruits labor\u2014literally figuratively.\nSpeaker 2: can imagine. satisfaction overcoming challenges seeing results must be great. feel same solve complex coding problems.\nSpeaker 1: exactly. best part , something both enjoy. work, also passion.\nSpeaker 2: true, best kind work. hopefully, passion coding will lead something fulfilling too.\nSpeaker 1: sure will. keep doing love, success will come.\nSpeaker 2: thanks encouragement. always nice talking . probably back studies now.\nSpeaker 1: absolutely, go conquer those codes! if ever need break, garden always use extra hand.\nSpeaker 2: keep mind. thanks see around!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "EH1 S",
+        "Y AO1 R",
+        "M AO1 R N IH0 NG",
+        "F AA1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "HH EY1",
+        "G UH1 D",
+        "B AE1 K",
+        "R AH1 N",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "G AA1 R D AH0 N IH0 NG",
+        "L IH1 T AH0 L",
+        "M AO1 R N IH0 NG",
+        "R IH1 CH UW0 AH0 L",
+        "F AY1 N D",
+        "K W AY1 T",
+        "K AA1 M IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "N AY1 S",
+        "N OW1 T IH0 S T",
+        "Y AO1 R",
+        "G AA1 R D AH0 N",
+        "AO1 L W EY2 Z",
+        "[UNK]",
+        "G R IY1 N",
+        "TH AH1 M",
+        "G EH1 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AA1",
+        "T R AY1",
+        "P AA1 R T",
+        "JH AA1 B",
+        "AE1 K CH UW2 AH0 L IY0",
+        "[UNK]",
+        "R AH1 N IH0 NG",
+        "L IH1 T AH0 L",
+        "L AE1 N D S K EY2 P IH0 NG",
+        "B IH1 Z N AH0 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "R IH1 L IY0",
+        "K UW1 L",
+        "AO1 L W EY2 Z",
+        "TH AO1 T",
+        "DH OW1 Z",
+        "F L AW1 ER0 Z",
+        "ER0 EY1 N JH M AH0 N T S",
+        "T UW1",
+        "G UH1 D",
+        "B IY1",
+        "HH AA1 B IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "S T AA1 R T AH0 D",
+        "HH AA1 B IY0",
+        "DH EH1 N",
+        "TH AO1 T",
+        "W AY1",
+        "M EY1 K",
+        "L IH1 V IH0 NG",
+        "AW1 T",
+        "S AH1 M TH IH0 NG",
+        "L AH1 V",
+        "D UW1 IH0 NG",
+        "F L EH2 K S AH0 B IH1 L AH0 T IY0",
+        "B IY1 IH0 NG",
+        "OW1 N",
+        "B AA1 S",
+        "B OW1 N AH0 S",
+        "EH1 N IY0 W EY2",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "K IY1 P S",
+        "AA1 K Y AH0 P AY2 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K ER1 AH0 N T L IY0",
+        "S T UW1 D AH0 N T",
+        "M EY1 JH ER0 IH0 NG",
+        "K AH0 M P Y UW1 T ER0",
+        "S AY1 AH0 N S",
+        "AO1 L W EY2 Z",
+        "B EH1 R IY0 D",
+        "K OW1 D Z",
+        "AE1 L G ER0 IH2 DH AH0 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "S AW1 N D Z",
+        "L AY1 K",
+        "L AA1 T",
+        "W ER1 K",
+        "D UW1",
+        "M AE1 N AH0 JH",
+        "B AE1 L AH0 N S",
+        "Y AO1 R",
+        "S T AH1 D IY0 Z",
+        "AH1 DH ER0",
+        "AE0 K T IH1 V IH0 T IY0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "T AH1 F",
+        "S AH0 M T AY1 M Z",
+        "T R AY1",
+        "K IY1 P",
+        "S K EH1 JH UH0 L",
+        "R AH1 N IH0 NG",
+        "HH EH1 L P S",
+        "M IY1",
+        "K L IH1 R",
+        "M AY1 N D",
+        "M EY1 K",
+        "SH UH1 R",
+        "S K W IY1 Z",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "S T R AE1 T AH0 JH IY0",
+        "B IH0 L IY1 V",
+        "IH2 M P AO1 R T AH0 N S",
+        "[UNK]",
+        "B AE1 L AH0 N S",
+        "T UW1",
+        "K EY1 S",
+        "T EY1 K",
+        "B R EY1 K S",
+        "W AA1 N T",
+        "HH EH1 L P S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "M AH1 S T",
+        "B IY1",
+        "N AY1 S",
+        "K AY1 N D",
+        "F L EH2 K S AH0 B IH1 L AH0 T IY0",
+        "G EH1 S",
+        "R AH1 N IH0 NG",
+        "Y AO1 R",
+        "OW1 N",
+        "B IH1 Z N AH0 S",
+        "K AH1 M Z",
+        "OW1 N",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "AO1 L W EY2 Z",
+        "AH2 N IH0 K S P EH1 K T IH0 D",
+        "P R AA1 B L AH0 M Z",
+        "N OW1",
+        "W AH1 N Z",
+        "F IH1 K S",
+        "M IY1",
+        "R IH0 W AO1 R D IH0 NG",
+        "N OW1",
+        "S IY1",
+        "F R UW1 T S",
+        "[UNK]",
+        "F IH0 G Y UH1 R AH0 T IH0 V L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "S AE2 T AH0 S F AE1 K SH AH0 N",
+        "OW1 V ER0 K AH2 M IH0 NG",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "S IY1 IH0 NG",
+        "R IH0 Z AH1 L T S",
+        "M AH1 S T",
+        "B IY1",
+        "G R EY1 T",
+        "F IY1 L",
+        "S EY1 M",
+        "S AA1 L V",
+        "K AA1 M P L EH0 K S",
+        "K OW1 D IH0 NG",
+        "P R AA1 B L AH0 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "B EH1 S T",
+        "P AA1 R T",
+        "[UNK]",
+        "S AH1 M TH IH0 NG",
+        "B OW1 TH",
+        "EH2 N JH OY1",
+        "W ER1 K",
+        "AO1 L S OW0",
+        "P AE1 SH AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T R UW1",
+        "B EH1 S T",
+        "K AY1 N D",
+        "W ER1 K",
+        "HH OW1 P F AH0 L IY0",
+        "P AE1 SH AH0 N",
+        "K OW1 D IH0 NG",
+        "W IH1 L",
+        "L EH1 D",
+        "S AH1 M TH IH0 NG",
+        "F UH0 L F IH1 L IH0 NG",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "SH UH1 R",
+        "W IH1 L",
+        "K IY1 P",
+        "D UW1 IH0 NG",
+        "L AH1 V",
+        "S AH0 K S EH1 S",
+        "W IH1 L",
+        "K AH1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K S",
+        "EH0 N K ER1 IH0 JH M AH0 N T",
+        "AO1 L W EY2 Z",
+        "N AY1 S",
+        "T AO1 K IH0 NG",
+        "[UNK]",
+        "P R AA1 B AH0 B L IY2",
+        "B AE1 K",
+        "S T AH1 D IY0 Z",
+        "N AW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "G OW1",
+        "K AA1 NG K ER0",
+        "DH OW1 Z",
+        "K OW1 D Z",
+        "IH1 F",
+        "EH1 V ER0",
+        "N IY1 D",
+        "B R EY1 K",
+        "G AA1 R D AH0 N",
+        "AO1 L W EY2 Z",
+        "Y UW1 S",
+        "EH1 K S T R AH0",
+        "HH AE1 N D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K IY1 P",
+        "M AY1 N D",
+        "TH AE1 NG K S",
+        "S IY1",
+        "ER0 AW1 N D"
+      ]
+    }
+  ]
+}

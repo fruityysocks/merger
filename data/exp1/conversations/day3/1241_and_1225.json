@@ -1,0 +1,265 @@
+{
+  "speaker1": 1241,
+  "speaker2": 1225,
+  "original_conversation": "Speaker 1: Hey there, neighbor. Beautiful day, isn't it?\nSpeaker 2: Indeed it is. The sun's out and it's just the right temperature. \nSpeaker 1: Yeah, perfect for a little yard work, or maybe even a cookout. \nSpeaker 2: Oh, a cookout sounds great. Maybe we could organize one with the others on the block.\nSpeaker 1: That's a fantastic idea. I'll make sure to bring my famous ribs.\nSpeaker 2: Looking forward to that! Speaking of, I've been wondering how you manage to balance everything - your job, the family, and these cookouts!\nSpeaker 1: Well, let's just say my job in finance has taught me a thing or two about balance. \nSpeaker 2: Ah, finance! That's a field I'm quite familiar with myself. I work as a Director of Financial Aid.\nSpeaker 1: Oh really? That's interesting. So, you must deal with a lot of students and their families, right?\nSpeaker 2: Yes, it's rewarding but can be quite challenging at times. But I guess the same can be said for any job in finance.\nSpeaker 1: You're right about that. The world of finance is complex, but it's also fascinating. \nSpeaker 2: Absolutely. The dynamics, the constant change - it's never dull.\nSpeaker 1: True. And with technology and digital transformation, it's becoming even more exciting. \nSpeaker 2: I couldn't agree more. The influence of technology on finance is undeniable. It's transforming the way we work and how we serve our students.\nSpeaker 1: It's the same in my field. Technology has made information more accessible and decision-making quicker. \nSpeaker 2: It's a brave new world, isn't it? Well, I better get going. Got a lot of financial aid packages to review.\nSpeaker 1: I can only imagine. Have a good day, and let's plan that cookout soon.\nSpeaker 2: Definitely! Have a great day too.",
+  "cleaned_conversation": "Speaker 1: hey , neighbor. beautiful day, isn't ?\nSpeaker 2: indeed . sun's out right temperature.\nSpeaker 1: , perfect little yard work, maybe even cookout.\nSpeaker 2: , cookout sounds great. maybe organize one others block.\nSpeaker 1: fantastic idea. make sure bring famous ribs.\nSpeaker 2: looking forward ! speaking , wondering manage balance everything - your job, family, these cookouts!\nSpeaker 1: well, let's say job finance taught me thing two about balance.\nSpeaker 2: , finance! field quite familiar myself. work director financial aid.\nSpeaker 1: really? interesting. , must deal lot students families, right?\nSpeaker 2: yes, rewarding can be quite challenging times. guess same can be said any job finance.\nSpeaker 1: 're right about . world finance complex, also fascinating.\nSpeaker 2: absolutely. dynamics, constant change - never dull.\nSpeaker 1: true. technology digital transformation, becoming even more exciting.\nSpeaker 2: agree more. influence technology finance undeniable. transforming way work serve students.\nSpeaker 1: same field. technology made information more accessible decision-making quicker.\nSpeaker 2: brave new world, isn't ? well, better going. lot financial aid packages review.\nSpeaker 1: can only imagine. good day, let's plan cookout soon.\nSpeaker 2: definitely! great day too.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "N EY1 B ER0",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "[UNK]",
+        "S AH1 N Z",
+        "AW1 T",
+        "R AY1 T",
+        "T EH1 M P R AH0 CH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "P ER0 F EH1 K T",
+        "L IH1 T AH0 L",
+        "Y AA1 R D",
+        "W ER1 K",
+        "M EY1 B IY0",
+        "IY1 V IH0 N",
+        "K UH1 K AW2 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "K UH1 K AW2 T",
+        "S AW1 N D Z",
+        "G R EY1 T",
+        "M EY1 B IY0",
+        "AO1 R G AH0 N AY2 Z",
+        "W AH1 N",
+        "AH1 DH ER0 Z",
+        "B L AA1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "F AE0 N T AE1 S T IH0 K",
+        "AY0 D IY1 AH0",
+        "M EY1 K",
+        "SH UH1 R",
+        "B R IH1 NG",
+        "F EY1 M AH0 S",
+        "R IH1 B Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "L UH1 K IH0 NG",
+        "F AO1 R W ER0 D",
+        "[UNK]",
+        "S P IY1 K IH0 NG",
+        "[UNK]",
+        "W AH1 N D ER0 IH0 NG",
+        "M AE1 N AH0 JH",
+        "B AE1 L AH0 N S",
+        "EH1 V R IY0 TH IH2 NG",
+        "[UNK]",
+        "Y AO1 R",
+        "JH AA1 B",
+        "F AE1 M AH0 L IY0",
+        "DH IY1 Z",
+        "K UH1 K AW2 T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "L EH1 T S",
+        "S EY1",
+        "JH AA1 B",
+        "F AH0 N AE1 N S",
+        "T AO1 T",
+        "M IY1",
+        "TH IH1 NG",
+        "T UW1",
+        "AH0 B AW1 T",
+        "B AE1 L AH0 N S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "F AH0 N AE1 N S",
+        "F IY1 L D",
+        "K W AY1 T",
+        "F AH0 M IH1 L Y ER0",
+        "M AY2 S EH1 L F",
+        "W ER1 K",
+        "D ER0 EH1 K T ER0",
+        "F AH0 N AE1 N SH AH0 L",
+        "EY1 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R IH1 L IY0",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "[UNK]",
+        "M AH1 S T",
+        "D IY1 L",
+        "L AA1 T",
+        "S T UW1 D AH0 N T S",
+        "F AE1 M AH0 L IY0 Z",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "R IH0 W AO1 R D IH0 NG",
+        "K AE1 N",
+        "B IY1",
+        "K W AY1 T",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "T AY1 M Z",
+        "G EH1 S",
+        "S EY1 M",
+        "K AE1 N",
+        "B IY1",
+        "S EH1 D",
+        "EH1 N IY0",
+        "JH AA1 B",
+        "F AH0 N AE1 N S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "R AY1 T",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "W ER1 L D",
+        "F AH0 N AE1 N S",
+        "K AA1 M P L EH0 K S",
+        "AO1 L S OW0",
+        "F AE1 S AH0 N EY2 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "D AY0 N AE1 M IH0 K S",
+        "K AA1 N S T AH0 N T",
+        "CH EY1 N JH",
+        "[UNK]",
+        "N EH1 V ER0",
+        "D AH1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "T EH0 K N AA1 L AH0 JH IY0",
+        "D IH1 JH AH0 T AH0 L",
+        "T R AE2 N S F ER0 M EY1 SH AH0 N",
+        "B IH0 K AH1 M IH0 NG",
+        "IY1 V IH0 N",
+        "M AO1 R",
+        "IH0 K S AY1 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AH0 G R IY1",
+        "M AO1 R",
+        "IH1 N F L UW0 AH0 N S",
+        "T EH0 K N AA1 L AH0 JH IY0",
+        "F AH0 N AE1 N S",
+        "AH2 N D IH0 N AY1 AH0 B AH0 L",
+        "T R AE0 N S F AO1 R M IH0 NG",
+        "W EY1",
+        "W ER1 K",
+        "S ER1 V",
+        "S T UW1 D AH0 N T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S EY1 M",
+        "F IY1 L D",
+        "T EH0 K N AA1 L AH0 JH IY0",
+        "M EY1 D",
+        "IH2 N F AO2 R M EY1 SH AH0 N",
+        "M AO1 R",
+        "AE0 K S EH1 S AH0 B AH0 L",
+        "D IH0 S IH1 ZH AH0 N M EY2 K IH0 NG",
+        "K W IH1 K ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "B R EY1 V",
+        "N UW1",
+        "W ER1 L D",
+        "[UNK]",
+        "[UNK]",
+        "W EH1 L",
+        "B EH1 T ER0",
+        "G OW1 IH0 NG",
+        "L AA1 T",
+        "F AH0 N AE1 N SH AH0 L",
+        "EY1 D",
+        "P AE1 K AH0 JH AH0 Z",
+        "R IY2 V Y UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "G UH1 D",
+        "D EY1",
+        "L EH1 T S",
+        "P L AE1 N",
+        "K UH1 K AW2 T",
+        "S UW1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "G R EY1 T",
+        "D EY1",
+        "T UW1"
+      ]
+    }
+  ]
+}

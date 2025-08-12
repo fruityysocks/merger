@@ -1,0 +1,341 @@
+{
+  "speaker1": 1205,
+  "speaker2": 1203,
+  "original_conversation": "Speaker 1: Hey, good morning! Beautiful day out, isn't it?\nSpeaker 2: Oh, absolutely. Nothing like a New England morning to start the day right.\nSpeaker 1: Couldn't agree more. You know, I've been thinking about getting a new bird feeder for the yard. The one I got is too small.\nSpeaker 2: Yeah, I've noticed you've got quite a flock visiting your yard. Maybe I should look into getting one too.\nSpeaker 1: Oh, you should! It's such a joy to watch them. Plus, it's a nice little distraction from work. You work from home too, right?\nSpeaker 2: Yeah, I do. Being an IT Systems Admin, I mostly work remotely. You're in the education sector, aren't you?\nSpeaker 1: Yes, that's right. I manage educational programs for a nonprofit organization. It's a rewarding job, but it can be quite demanding.\nSpeaker 2: I can only imagine. I mean, my job has its own stresses, but dealing with education... that's a whole different ballgame.\nSpeaker 1: True, but I believe it's all about striking that balance. By the way, how's the tech world treating you?\nSpeaker 2: Well, it's a mixed bag, honestly. There are days when everything goes smoothly, but then there are days when I'm pulling my hair out over some server issue.\nSpeaker 1: Oh, I can imagine. We had a major system crash last month. It was a nightmare!\nSpeaker 2: Yeah, those are the worst. But, it's all part of the job, I guess.\nSpeaker 1: Indeed. And I suppose it's similar with my job too. When things go wrong, they really go wrong. But at the end of the day, it's about the impact we're making.\nSpeaker 2: Absolutely! And speaking of impact, I've been thinking about updating my home network setup. Maybe adding some smart devices...\nSpeaker 1: That sounds interesting! My son has been talking about getting a smart thermostat for our home. Maybe you could give us some advice?\nSpeaker 2: I'd be happy to. There's a lot to consider when setting up smart devices, but they can really improve your home life.\nSpeaker 1: I'll keep that in mind. It's always good to have a neighbor who knows his way around tech.\nSpeaker 2: And it's great to have a neighbor who cares about their community's education. It's a nice balance, don't you think?\nSpeaker 1: Absolutely. It's all about balance, isn't it? Whether it's work, life, or even our little neighborhood.",
+  "cleaned_conversation": "Speaker 1: hey, good morning! beautiful day out, isn't ?\nSpeaker 2: , absolutely. nothing like new england morning start day right.\nSpeaker 1: agree more. know, thinking about getting new bird feeder yard. one too small.\nSpeaker 2: , noticed quite flock visiting your yard. maybe look into getting one too.\nSpeaker 1: , ! such joy watch . plus, nice little distraction work. work home too, right?\nSpeaker 2: , do. being systems admin, mostly work remotely. 're education sector, aren't ?\nSpeaker 1: yes, right. manage educational programs nonprofit organization. rewarding job, can be quite demanding.\nSpeaker 2: can only imagine. mean, job own stresses, dealing education... whole different ballgame.\nSpeaker 1: true, believe all about striking balance. by way, 's tech world treating ?\nSpeaker 2: well, mixed bag, honestly. days everything goes smoothly, then days pulling hair out over some server issue.\nSpeaker 1: , can imagine. major system crash last month. nightmare!\nSpeaker 2: , those worst. , all part job, guess.\nSpeaker 1: indeed. suppose similar job too. things go wrong, really go wrong. end day, about impact 're making.\nSpeaker 2: absolutely! speaking impact, thinking about updating home network setup. maybe adding some smart devices...\nSpeaker 1: sounds interesting! son talking about getting smart thermostat home. maybe give us some advice?\nSpeaker 2: be happy . 's lot consider setting up smart devices, can really improve your home life.\nSpeaker 1: keep mind. always good neighbor who knows way around tech.\nSpeaker 2: great neighbor who cares about community's education. nice balance, don't think?\nSpeaker 1: absolutely. all about balance, isn't ? whether work, life, even little neighborhood.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "AW1 T",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "AE2 B S AH0 L UW1 T L IY0",
+        "N AH1 TH IH0 NG",
+        "L AY1 K",
+        "N UW1",
+        "IH1 NG G L AH0 N D",
+        "M AO1 R N IH0 NG",
+        "S T AA1 R T",
+        "D EY1",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AH0 G R IY1",
+        "M AO1 R",
+        "N OW1",
+        "TH IH1 NG K IH0 NG",
+        "AH0 B AW1 T",
+        "G EH1 T IH0 NG",
+        "N UW1",
+        "B ER1 D",
+        "F IY1 D ER0",
+        "Y AA1 R D",
+        "W AH1 N",
+        "T UW1",
+        "S M AO1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "N OW1 T IH0 S T",
+        "K W AY1 T",
+        "F L AA1 K",
+        "V IH1 Z IH0 T IH0 NG",
+        "Y AO1 R",
+        "Y AA1 R D",
+        "M EY1 B IY0",
+        "L UH1 K",
+        "IH1 N T UW0",
+        "G EH1 T IH0 NG",
+        "W AH1 N",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "[UNK]",
+        "S AH1 CH",
+        "JH OY1",
+        "W AA1 CH",
+        "[UNK]",
+        "P L AH1 S",
+        "N AY1 S",
+        "L IH1 T AH0 L",
+        "D IH0 S T R AE1 K SH AH0 N",
+        "W ER1 K",
+        "W ER1 K",
+        "HH OW1 M",
+        "T UW1",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "D UW1",
+        "B IY1 IH0 NG",
+        "S IH1 S T AH0 M Z",
+        "AE1 D M IH0 N",
+        "M OW1 S T L IY0",
+        "W ER1 K",
+        "R IY0 M OW1 T L IY0",
+        "R EY1",
+        "EH2 JH AH0 K EY1 SH AH0 N",
+        "S EH1 K T ER0",
+        "AA1 R AH0 N T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "R AY1 T",
+        "M AE1 N AH0 JH",
+        "EH2 JH AH0 K EY1 SH AH0 N AH0 L",
+        "P R OW1 G R AE2 M Z",
+        "N AA0 N P R AA1 F AH0 T",
+        "AO2 R G AH0 N AH0 Z EY1 SH AH0 N",
+        "R IH0 W AO1 R D IH0 NG",
+        "JH AA1 B",
+        "K AE1 N",
+        "B IY1",
+        "K W AY1 T",
+        "D IH0 M AE1 N D IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "M IY1 N",
+        "JH AA1 B",
+        "OW1 N",
+        "S T R EH1 S AH0 Z",
+        "D IY1 L IH0 NG",
+        "EH2 JH AH0 K EY1 SH AH0 N",
+        "HH OW1 L",
+        "D IH1 F ER0 AH0 N T",
+        "B AO0 L G EY1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "B IH0 L IY1 V",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "S T R AY1 K IH0 NG",
+        "B AE1 L AH0 N S",
+        "B AY1",
+        "W EY1",
+        "EH1 S",
+        "T EH1 K",
+        "W ER1 L D",
+        "T R IY1 T IH0 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "M IH1 K S T",
+        "B AE1 G",
+        "AA1 N AH0 S T L IY0",
+        "D EY1 Z",
+        "EH1 V R IY0 TH IH2 NG",
+        "G OW1 Z",
+        "S M UW1 DH L IY0",
+        "DH EH1 N",
+        "D EY1 Z",
+        "P UH1 L IH0 NG",
+        "HH EH1 R",
+        "AW1 T",
+        "OW1 V ER0",
+        "S AH1 M",
+        "S ER1 V ER0",
+        "IH1 SH UW0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M EY1 JH ER0",
+        "S IH1 S T AH0 M",
+        "K R AE1 SH",
+        "L AE1 S T",
+        "M AH1 N TH",
+        "N AY1 T M EH2 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "DH OW1 Z",
+        "W ER1 S T",
+        "[UNK]",
+        "AO1 L",
+        "P AA1 R T",
+        "JH AA1 B",
+        "G EH1 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "S AH0 P OW1 Z",
+        "S IH1 M AH0 L ER0",
+        "JH AA1 B",
+        "T UW1",
+        "TH IH1 NG Z",
+        "G OW1",
+        "R AO1 NG",
+        "R IH1 L IY0",
+        "G OW1",
+        "R AO1 NG",
+        "EH1 N D",
+        "D EY1",
+        "AH0 B AW1 T",
+        "IH2 M P AE1 K T",
+        "R EY1",
+        "M EY1 K IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "S P IY1 K IH0 NG",
+        "IH2 M P AE1 K T",
+        "TH IH1 NG K IH0 NG",
+        "AH0 B AW1 T",
+        "AH0 P D EY1 T IH0 NG",
+        "HH OW1 M",
+        "N EH1 T W ER2 K",
+        "S EH1 T AH2 P",
+        "M EY1 B IY0",
+        "AE1 D IH0 NG",
+        "S AH1 M",
+        "S M AA1 R T",
+        "D IH0 V AY1 S AH0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "S AH1 N",
+        "T AO1 K IH0 NG",
+        "AH0 B AW1 T",
+        "G EH1 T IH0 NG",
+        "S M AA1 R T",
+        "TH ER1 M AH0 S T AE2 T",
+        "HH OW1 M",
+        "M EY1 B IY0",
+        "G IH1 V",
+        "AH1 S",
+        "S AH1 M",
+        "AE0 D V AY1 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "B IY1",
+        "HH AE1 P IY0",
+        "[UNK]",
+        "EH1 S",
+        "L AA1 T",
+        "K AH0 N S IH1 D ER0",
+        "S EH1 T IH0 NG",
+        "AH1 P",
+        "S M AA1 R T",
+        "D IH0 V AY1 S AH0 Z",
+        "K AE1 N",
+        "R IH1 L IY0",
+        "IH2 M P R UW1 V",
+        "Y AO1 R",
+        "HH OW1 M",
+        "L AY1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K IY1 P",
+        "M AY1 N D",
+        "AO1 L W EY2 Z",
+        "G UH1 D",
+        "N EY1 B ER0",
+        "HH UW1",
+        "N OW1 Z",
+        "W EY1",
+        "ER0 AW1 N D",
+        "T EH1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G R EY1 T",
+        "N EY1 B ER0",
+        "HH UW1",
+        "K EH1 R Z",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "EH2 JH AH0 K EY1 SH AH0 N",
+        "N AY1 S",
+        "B AE1 L AH0 N S",
+        "[UNK]",
+        "TH IH1 NG K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "B AE1 L AH0 N S",
+        "[UNK]",
+        "[UNK]",
+        "W EH1 DH ER0",
+        "W ER1 K",
+        "L AY1 F",
+        "IY1 V IH0 N",
+        "L IH1 T AH0 L",
+        "N EY1 B ER0 HH UH2 D"
+      ]
+    }
+  ]
+}

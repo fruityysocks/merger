@@ -213,68 +213,123 @@ def save_conversation_json(speaker1, speaker2, original, cleaned, phonetic, outd
         json.dump(data, f, indent=2)
     
     print(f"Saved conversation JSON to {filepath}")
+
+def round_robin_pairs(list1, list2, num_days):
+    n = len(list1)
+    pairs_per_day = []
+
+    list2_rot = list2.copy()
+
+    for day in range(num_days):
+        daily_pairs = list(zip(list1, list2_rot))
+        pairs_per_day.append(daily_pairs)
+        # Rotate list2 for next day but keep first element fixed (standard round-robin)
+        list2_rot = [list2_rot[0]] + list2_rot[-1:] + list2_rot[1:-1]
+
+    return pairs_per_day
+
+def run_conversations_automated(
+    speaker_info_dict, 
+    ct_ri_list, 
+    ma_list,
+    max_total=200,
+    per_day=10,
+    cmu_dict=None,
+    base_out_dir="data/exp1/conversations",
+    base_csv_dir="data/exp1/csvs"
+):
+    total_generated = 0
+    day_number = 1
+    num_days = 10
+    pairs_by_day = round_robin_pairs(ct_ri_list, ma_list, num_days)
+    
+    for day_pairs in pairs_by_day:
+        if total_generated >= max_total:
+            break
+        
+        print(f"Starting Day {day_number}...")
+        day_dir = os.path.join(base_out_dir, f"day{day_number}")
+        os.makedirs(day_dir, exist_ok=True)
+        csv_path = os.path.join(base_csv_dir, f"day{day_number}Vowels.csv")
+
+        # Generate conversations for this day
+        for spk1_id, spk2_id in day_pairs:
+            if total_generated >= max_total:
+                break
+
+            speaker1 = speaker_info_dict.get(spk1_id)
+            speaker2 = speaker_info_dict.get(spk2_id)
+            if not speaker1 or not speaker2:
+                print(f"Skipping missing speaker info pair: {spk1_id}, {spk2_id}")
+                continue
+
+            conversation_text = generateConversation(speaker1, speaker2, turns=20)
+            # Process turns ...
+            turn_texts = re.split(r'\n(?=Speaker \d:)', conversation_text)
+            cleaned_turns = []
+            phonetic_turns = []
+            for turn in turn_texts:
+                match = re.match(r'(Speaker \d:)\s*(.*)', turn, re.DOTALL)
+                if not match:
+                    continue
+                speaker_tag, utterance = match.groups()
+                cleaned_utterance = remove_fillers(utterance)
+                cleaned_turns.append(f"{speaker_tag} {cleaned_utterance}")
+                spk = spk1_id if speaker_tag.strip() == "Speaker 1:" else spk2_id
+                phonemes = transcript_to_phonemes(cleaned_utterance, cmu_dict, spk)
+                phonetic_turns.append({"speaker": speaker_tag, "phonemes": phonemes})
+            cleaned_text = "\n".join(cleaned_turns)
+            
+            # Save JSON and CSV as before ...
+            save_conversation_json(
+                speaker1=spk1_id,
+                speaker2=spk2_id,
+                original=conversation_text,
+                cleaned=cleaned_text,
+                phonetic=phonetic_turns,
+                outdir=day_dir
+            )
+            save_stressed_tokens(
+                phonetic_turns, cleaned_text, spk1_id, spk2_id,
+                filename=f"{spk1_id}_and_{spk2_id}.json",
+                output_csv=csv_path
+            )
+            print(f"Completed conversation #{total_generated + 1} between {spk1_id} and {spk2_id} (Day {day_number})\n")
+            total_generated += 1
+            time.sleep(1.5)
+        
+        print(f"Finished Day {day_number} generation: {total_generated} total conversations so far.\n")
+        day_number += 1
+
+    print(f"All done! Generated {total_generated} conversations.")
     
 # Step 8: Main function
 def main():
     speakers_df = pd.read_csv('data/demographicInfo.csv')
     speakers_df['location'] = speakers_df['childcity'] + ", " + speakers_df['childstate']
-    neighbors_df = pd.read_csv('data/neighborPairs.csv')  
-    cmu_dict = load_cmudict('data/cmudict-0.7b.txt')
     speaker_info_dict = speakers_df.set_index('speaker').to_dict(orient='index')
-    
-    for idx, row in neighbors_df.iterrows():
-        if idx > 20: 
-            break
-        spk1_id = row['speaker1']
-        spk2_id = row['speaker2']
-        speaker1 = speaker_info_dict.get(spk1_id)
-        speaker2 = speaker_info_dict.get(spk2_id)
-        
-        if not speaker1 or not speaker2:
-            print(f"Skipping pair with missing speaker info: {spk1_id}, {spk2_id}")
-            continue
-        conversation_text = generateConversation(speaker1, speaker2, turns=20)
-        print(f"\nOriginal conversation between {spk1_id} and {spk2_id}:\n{conversation_text}\n")
-        turn_texts = re.split(r'\n(?=Speaker \d:)', conversation_text)
-        cleaned_turns = []
-        phonetic_turns = []
-        
-        for turn in turn_texts:
-            match = re.match(r'(Speaker \d:)\s*(.*)', turn, re.DOTALL)
-            if not match:
-                continue
-            speaker_tag, utterance = match.groups()
-            cleaned_utterance = remove_fillers(utterance)
-            cleaned_turns.append(f"{speaker_tag} {cleaned_utterance}")
-            if speaker_tag.strip() == "Speaker 1:":
-                spk = spk1_id
-            else:
-                spk = spk2_id
-            phonemes = transcript_to_phonemes(cleaned_utterance, cmu_dict, spk)
-            phonetic_turns.append({"speaker": speaker_tag, "phonemes": phonemes})
-        
-        cleaned_text = "\n".join(cleaned_turns)
-        print(f"Cleaned conversation:\n{cleaned_text}\n")
-        
-        for pturn in phonetic_turns:
-            print(f"{pturn['speaker']} phonemes: {pturn['phonemes']}")
-    
-        save_conversation_json(
-            speaker1=spk1_id,
-            speaker2=spk2_id,
-            original=conversation_text,
-            cleaned=cleaned_text,
-            phonetic=phonetic_turns,
-            outdir="conversations/day3"
-        )
-        
-        save_stressed_tokens(
-            phonetic_turns, cleaned_text, spk1_id, spk2_id,
-            filename=f"{spk1_id}_and_{spk2_id}.json",
-            output_csv="data/day3Vowels.csv"
-        )
-        
-        time.sleep(1.5)
 
+    ct_ri_speakers = [
+            1205, 1206, 1219, 1228, 1230, 1233, 1234, 1235, 1240, 1242,
+            1207, 1232, 1238, 1241, 1271, 1283, 1290, 1324, 1409, 1414
+        ]
+    ma_speakers = [
+            1203, 1208, 1209, 1210, 1211, 1214, 1215, 1216, 1218, 1222,
+            1224, 1225, 1226, 1231, 1236, 1237, 1239, 1244, 1247, 1255
+        ]
+
+    cmu_dict = load_cmudict('data/cmudict-0.7b.txt')
+
+    run_conversations_automated(
+            speaker_info_dict=speaker_info_dict,
+            ct_ri_list=ct_ri_speakers,
+            ma_list=ma_speakers,
+            max_total=200,
+            per_day=10,
+            cmu_dict=cmu_dict,
+            base_out_dir="data/exp1/conversations",
+            base_csv_dir="data/exp1/csvs"
+        )
+    
 if __name__ == "__main__":
     main()

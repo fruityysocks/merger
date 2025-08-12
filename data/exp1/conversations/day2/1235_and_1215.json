@@ -1,0 +1,258 @@
+{
+  "speaker1": 1235,
+  "speaker2": 1215,
+  "original_conversation": "Speaker 1: Good morning, how are you today?\nSpeaker 2: Morning! I'm well, thank you. And you?\nSpeaker 1: I'm good too, thanks for asking. The weather's been lovely these past few days, hasn't it?\nSpeaker 2: Oh, it certainly has! Makes you want to stay outside all day.\nSpeaker 1: Absolutely, I've been spending a lot of time in my garden. How about you, done anything interesting?\nSpeaker 2: Actually, yes! I've been setting up a small home studio for my work.\nSpeaker 1: Oh really? That sounds exciting! What kind of work do you do again?\nSpeaker 2: I'm self-employed. I run an online business selling handmade crafts. \nSpeaker 1: That's amazing! I wish I had the creativity to do something like that. I work in the corporate sector, so it's all spreadsheets and meetings for me.\nSpeaker 2: Ah, I see. But I'm sure your job has its own charm. What exactly do you do in the corporate world?\nSpeaker 1: I'm in Human Resources. It has its moments, but sometimes I miss the freedom of being self-employed. \nSpeaker 2: I can imagine. It's a lot of work, but I love the flexibility it offers me. \nSpeaker 1: I bet. Do you have a particular craft that you specialize in?\nSpeaker 2: I do a bit of everything, but I mostly make custom jewelry. \nSpeaker 1: That's wonderful! I've been thinking about getting a custom piece made for my daughter's birthday. \nSpeaker 2: That's a great idea! I'd love to help with that. We can discuss designs and materials whenever you're free.\nSpeaker 1: That sounds perfect. I'll drop by your studio one of these days. \nSpeaker 2: I'll look forward to it! Have a great day! \nSpeaker 1: You too, take care!",
+  "cleaned_conversation": "Speaker 1: good morning, today?\nSpeaker 2: morning! well, thank . ?\nSpeaker 1: good too, thanks asking. weather's lovely these past few days, hasn't ?\nSpeaker 2: , certainly ! makes want stay outside all day.\nSpeaker 1: absolutely, spending lot time garden. about , done anything interesting?\nSpeaker 2: actually, yes! setting up small home studio work.\nSpeaker 1: really? sounds exciting! kind work do do again?\nSpeaker 2: self-employed. run online business selling handmade crafts.\nSpeaker 1: amazing! wish creativity do something like . work corporate sector, all spreadsheets meetings me.\nSpeaker 2: , see. sure your job own charm. exactly do do corporate world?\nSpeaker 1: human resources. moments, sometimes miss freedom being self-employed.\nSpeaker 2: can imagine. lot work, love flexibility offers me.\nSpeaker 1: bet. do particular craft specialize ?\nSpeaker 2: do bit everything, mostly make custom jewelry.\nSpeaker 1: wonderful! thinking about getting custom piece made daughter's birthday.\nSpeaker 2: great idea! love help . can discuss designs materials whenever 're free.\nSpeaker 1: sounds perfect. drop by your studio one these days.\nSpeaker 2: look forward ! great day!\nSpeaker 1: too, take care!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "T AH0 D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "M AO1 R N IH0 NG",
+        "W EH1 L",
+        "TH AE1 NG K",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "T UW1",
+        "TH AE1 NG K S",
+        "AE1 S K IH0 NG",
+        "W EH1 DH ER0 Z",
+        "L AH1 V L IY0",
+        "DH IY1 Z",
+        "P AE1 S T",
+        "F Y UW1",
+        "D EY1 Z",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "S ER1 T AH0 N L IY0",
+        "[UNK]",
+        "M EY1 K S",
+        "W AA1 N T",
+        "S T EY1",
+        "AW1 T S AY1 D",
+        "AO1 L",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "S P EH1 N D IH0 NG",
+        "L AA1 T",
+        "T AY1 M",
+        "G AA1 R D AH0 N",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "D AH1 N",
+        "EH1 N IY0 TH IH2 NG",
+        "IH1 N T AH0 R EH2 S T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE1 K CH UW2 AH0 L IY0",
+        "Y EH1 S",
+        "S EH1 T IH0 NG",
+        "AH1 P",
+        "S M AO1 L",
+        "HH OW1 M",
+        "S T UW1 D IY0 OW2",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R IH1 L IY0",
+        "S AW1 N D Z",
+        "IH0 K S AY1 T IH0 NG",
+        "K AY1 N D",
+        "W ER1 K",
+        "D UW1",
+        "D UW1",
+        "AH0 G EH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "R AH1 N",
+        "AO1 N L AY2 N",
+        "B IH1 Z N AH0 S",
+        "S EH1 L IH0 NG",
+        "HH AE1 N D M EY1 D",
+        "K R AE1 F T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AH0 M EY1 Z IH0 NG",
+        "W IH1 SH",
+        "K R IY2 EY0 T IH1 V AH0 T IY0",
+        "D UW1",
+        "S AH1 M TH IH0 NG",
+        "L AY1 K",
+        "[UNK]",
+        "W ER1 K",
+        "K AO1 R P ER0 AH0 T",
+        "S EH1 K T ER0",
+        "AO1 L",
+        "S P R EH1 D SH IY2 T S",
+        "M IY1 T IH0 NG Z",
+        "M IY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "S IY1",
+        "SH UH1 R",
+        "Y AO1 R",
+        "JH AA1 B",
+        "OW1 N",
+        "CH AA1 R M",
+        "IH0 G Z AE1 K T L IY0",
+        "D UW1",
+        "D UW1",
+        "K AO1 R P ER0 AH0 T",
+        "W ER1 L D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH Y UW1 M AH0 N",
+        "R IY1 S AO0 R S IH0 Z",
+        "M OW1 M AH0 N T S",
+        "S AH0 M T AY1 M Z",
+        "M IH1 S",
+        "F R IY1 D AH0 M",
+        "B IY1 IH0 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "L AA1 T",
+        "W ER1 K",
+        "L AH1 V",
+        "F L EH2 K S AH0 B IH1 L AH0 T IY0",
+        "AO1 F ER0 Z",
+        "M IY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "B EH1 T",
+        "D UW1",
+        "P ER0 T IH1 K Y AH0 L ER0",
+        "K R AE1 F T",
+        "S P EH1 SH AH0 L AY2 Z",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D UW1",
+        "B IH1 T",
+        "EH1 V R IY0 TH IH2 NG",
+        "M OW1 S T L IY0",
+        "M EY1 K",
+        "K AH1 S T AH0 M",
+        "JH UW1 AH0 L R IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W AH1 N D ER0 F AH0 L",
+        "TH IH1 NG K IH0 NG",
+        "AH0 B AW1 T",
+        "G EH1 T IH0 NG",
+        "K AH1 S T AH0 M",
+        "P IY1 S",
+        "M EY1 D",
+        "D AO1 T ER0 Z",
+        "B ER1 TH D EY2"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G R EY1 T",
+        "AY0 D IY1 AH0",
+        "L AH1 V",
+        "HH EH1 L P",
+        "[UNK]",
+        "K AE1 N",
+        "D IH0 S K AH1 S",
+        "D IH0 Z AY1 N Z",
+        "M AH0 T IH1 R IY0 AH0 L Z",
+        "W EH0 N EH1 V ER0",
+        "R EY1",
+        "F R IY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "P ER0 F EH1 K T",
+        "D R AA1 P",
+        "B AY1",
+        "Y AO1 R",
+        "S T UW1 D IY0 OW2",
+        "W AH1 N",
+        "DH IY1 Z",
+        "D EY1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "L UH1 K",
+        "F AO1 R W ER0 D",
+        "[UNK]",
+        "G R EY1 T",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T UW1",
+        "T EY1 K",
+        "K EH1 R"
+      ]
+    }
+  ]
+}

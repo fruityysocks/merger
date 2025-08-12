@@ -1,0 +1,305 @@
+{
+  "speaker1": 1409,
+  "speaker2": 1236,
+  "original_conversation": "Speaker 1: Good morning, how're things on your end?\n\nSpeaker 2: Good morning! Things are good, thank you. It's been a busy week, but nothing I can't handle. How about you?\n\nSpeaker 1: Ah, same here. Been busy as a bee with all these floor installations. This neighborhood keeps me on my toes, I tell ya!\n\nSpeaker 2: I can imagine! Everyone's out sprucing up their homes now that spring is here.\n\nSpeaker 1: Yeah, they sure are. You know, it's not just about slapping down carpets or installing hardwood. You've got to have a keen eye, understand what complements the interior and all...\n\nSpeaker 2: That sounds a lot like project coordination. We too need a keen eye for detail, making sure all pieces of the project fall into place seamlessly.\n\nSpeaker 1: Is that right? I never thought about it that way. \n\nSpeaker 2: Oh, absolutely! It's a lot about planning, organizing, and getting things done in a certain timeline. Just like you need to measure and cut the floor covering precisely, I need to measure and cut my project tasks.\n\nSpeaker 1: I see. So, what kind of projects do you usually coordinate?\n\nSpeaker 2: Well, it varies. It could be anything from coordinating a new marketing campaign to overseeing the launch of a new product line. It's definitely exciting, but can also be quite stressful.\n\nSpeaker 1: I can imagine, it's the same with floor covering. Every home, every room is a new project. You know, I was just working on this old Victorian house down the street. The owners wanted a vintage look, so we had to find the perfect match.\n\nSpeaker 2: I bet that was a challenge! But I'm sure it was rewarding to see the finished result.\n\nSpeaker 1: Oh, it sure was! There's nothing like seeing a client's face light up when they see their new floor. \n\nSpeaker 2: I know exactly what you mean. The satisfaction of seeing a project come together and the client's happiness is the best part of my job too. \n\nSpeaker 1: We're not so different after all, huh?\n\nSpeaker 2: Seems like it! Despite our different professions, we're both just trying to make things a little better, one project at a time.",
+  "cleaned_conversation": "Speaker 1: good morning, 're things your end?\nSpeaker 2: good morning! things good, thank . busy week, nothing can't handle. about ?\nSpeaker 1: , same here. busy bee all these floor installations. this neighborhood keeps me toes, tell ya!\nSpeaker 2: can imagine! everyone's out sprucing up homes now spring here.\nSpeaker 1: , sure . know, about slapping down carpets installing hardwood. keen eye, understand complements interior all...\nSpeaker 2: sounds lot like project coordination. too need keen eye detail, making sure all pieces project fall into place seamlessly.\nSpeaker 1: right? never thought about way.\nSpeaker 2: , absolutely! lot about planning, organizing, getting things done certain timeline. like need measure cut floor covering precisely, need measure cut project tasks.\nSpeaker 1: see. , kind projects do usually coordinate?\nSpeaker 2: well, varies. be anything coordinating new marketing campaign overseeing launch new product line. definitely exciting, can also be quite stressful.\nSpeaker 1: can imagine, same floor covering. every home, every room new project. know, working this old victorian house down street. owners wanted vintage look, find perfect match.\nSpeaker 2: bet challenge! sure rewarding see finished result.\nSpeaker 1: , sure ! 's nothing like seeing client's face light up see new floor.\nSpeaker 2: know exactly mean. satisfaction seeing project come together client's happiness best part job too.\nSpeaker 1: 're different after all, ?\nSpeaker 2: seems like ! despite different professions, 're both trying make things little better, one project time.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "R EY1",
+        "TH IH1 NG Z",
+        "Y AO1 R",
+        "EH1 N D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "TH IH1 NG Z",
+        "G UH1 D",
+        "TH AE1 NG K",
+        "[UNK]",
+        "B IH1 Z IY0",
+        "W IY1 K",
+        "N AH1 TH IH0 NG",
+        "K AE1 N T",
+        "HH AE1 N D AH0 L",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "S EY1 M",
+        "HH IY1 R",
+        "B IH1 Z IY0",
+        "B IY1",
+        "AO1 L",
+        "DH IY1 Z",
+        "F L AO1 R",
+        "IH2 N S T AH0 L EY1 SH AH0 N Z",
+        "DH IH1 S",
+        "N EY1 B ER0 HH UH2 D",
+        "K IY1 P S",
+        "M IY1",
+        "T OW1 Z",
+        "T EH1 L",
+        "Y AA1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "[UNK]",
+        "AW1 T",
+        "S P R UW1 S IH0 NG",
+        "AH1 P",
+        "HH OW1 M Z",
+        "N AW1",
+        "S P R IH1 NG",
+        "HH IY1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "SH UH1 R",
+        "[UNK]",
+        "N OW1",
+        "AH0 B AW1 T",
+        "S L AE1 P IH0 NG",
+        "D AW1 N",
+        "K AA1 R P AH0 T S",
+        "IH2 N S T AO1 L IH0 NG",
+        "HH AA1 R D W UH2 D",
+        "K IY1 N",
+        "AY1",
+        "AH2 N D ER0 S T AE1 N D",
+        "K AA1 M P L AH0 M AH0 N T S",
+        "IH2 N T IH1 R IY0 ER0",
+        "AO1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AA1 T",
+        "L AY1 K",
+        "P R AA1 JH EH0 K T",
+        "K OW0 AO2 R D AH0 N EY1 SH AH0 N",
+        "T UW1",
+        "N IY1 D",
+        "K IY1 N",
+        "AY1",
+        "D IH0 T EY1 L",
+        "M EY1 K IH0 NG",
+        "SH UH1 R",
+        "AO1 L",
+        "P IY1 S AH0 Z",
+        "P R AA1 JH EH0 K T",
+        "F AO1 L",
+        "IH1 N T UW0",
+        "P L EY1 S",
+        "S IY1 M L AH0 S L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R AY1 T",
+        "N EH1 V ER0",
+        "TH AO1 T",
+        "AH0 B AW1 T",
+        "W EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "AE2 B S AH0 L UW1 T L IY0",
+        "L AA1 T",
+        "AH0 B AW1 T",
+        "P L AE1 N IH0 NG",
+        "AO1 R G AH0 N AY2 Z IH0 NG",
+        "G EH1 T IH0 NG",
+        "TH IH1 NG Z",
+        "D AH1 N",
+        "S ER1 T AH0 N",
+        "T AY1 M L AY0 N",
+        "L AY1 K",
+        "N IY1 D",
+        "M EH1 ZH ER0",
+        "K AH1 T",
+        "F L AO1 R",
+        "K AH1 V ER0 IH0 NG",
+        "P R IH0 S AY1 S L IY0",
+        "N IY1 D",
+        "M EH1 ZH ER0",
+        "K AH1 T",
+        "P R AA1 JH EH0 K T",
+        "T AE1 S K S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S IY1",
+        "[UNK]",
+        "K AY1 N D",
+        "P R AA1 JH EH0 K T S",
+        "D UW1",
+        "Y UW1 ZH AH0 W AH0 L IY0",
+        "K OW0 AO1 R D AH0 N AH0 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "V EH1 R IY0 Z",
+        "B IY1",
+        "EH1 N IY0 TH IH2 NG",
+        "K OW0 AO1 R D AH0 N EY2 T IH0 NG",
+        "N UW1",
+        "M AA1 R K AH0 T IH0 NG",
+        "K AE0 M P EY1 N",
+        "OW1 V ER0 S IY2 IH0 NG",
+        "L AO1 N CH",
+        "N UW1",
+        "P R AA1 D AH0 K T",
+        "L AY1 N",
+        "D EH1 F AH0 N AH0 T L IY0",
+        "IH0 K S AY1 T IH0 NG",
+        "K AE1 N",
+        "AO1 L S OW0",
+        "B IY1",
+        "K W AY1 T",
+        "S T R EH1 S F AH0 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "S EY1 M",
+        "F L AO1 R",
+        "K AH1 V ER0 IH0 NG",
+        "EH1 V ER0 IY0",
+        "HH OW1 M",
+        "EH1 V ER0 IY0",
+        "R UW1 M",
+        "N UW1",
+        "P R AA1 JH EH0 K T",
+        "N OW1",
+        "W ER1 K IH0 NG",
+        "DH IH1 S",
+        "OW1 L D",
+        "V IH0 K T AO1 R IY0 AH0 N",
+        "HH AW1 S",
+        "D AW1 N",
+        "S T R IY1 T",
+        "OW1 N ER0 Z",
+        "W AO1 N T IH0 D",
+        "V IH1 N T IH0 JH",
+        "L UH1 K",
+        "F AY1 N D",
+        "P ER0 F EH1 K T",
+        "M AE1 CH"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "B EH1 T",
+        "CH AE1 L AH0 N JH",
+        "SH UH1 R",
+        "R IH0 W AO1 R D IH0 NG",
+        "S IY1",
+        "F IH1 N IH0 SH T",
+        "R IH0 Z AH1 L T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "SH UH1 R",
+        "[UNK]",
+        "EH1 S",
+        "N AH1 TH IH0 NG",
+        "L AY1 K",
+        "S IY1 IH0 NG",
+        "K L AY1 AH0 N T S",
+        "F EY1 S",
+        "L AY1 T",
+        "AH1 P",
+        "S IY1",
+        "N UW1",
+        "F L AO1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "N OW1",
+        "IH0 G Z AE1 K T L IY0",
+        "M IY1 N",
+        "S AE2 T AH0 S F AE1 K SH AH0 N",
+        "S IY1 IH0 NG",
+        "P R AA1 JH EH0 K T",
+        "K AH1 M",
+        "T AH0 G EH1 DH ER0",
+        "K L AY1 AH0 N T S",
+        "HH AE1 P IY0 N AH0 S",
+        "B EH1 S T",
+        "P AA1 R T",
+        "JH AA1 B",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "D IH1 F ER0 AH0 N T",
+        "AE1 F T ER0",
+        "AO1 L",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S IY1 M Z",
+        "L AY1 K",
+        "[UNK]",
+        "D IH0 S P AY1 T",
+        "D IH1 F ER0 AH0 N T",
+        "P R AH0 F EH1 SH AH0 N Z",
+        "R EY1",
+        "B OW1 TH",
+        "T R AY1 IH0 NG",
+        "M EY1 K",
+        "TH IH1 NG Z",
+        "L IH1 T AH0 L",
+        "B EH1 T ER0",
+        "W AH1 N",
+        "P R AA1 JH EH0 K T",
+        "T AY1 M"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "speaker1": 1290,
+  "speaker2": 1231,
+  "original_conversation": "Speaker 1: Good afternoon, Karen! Lovely weather we're having, isn't it?\nSpeaker 2: Oh, absolutely, Emily! I think it's the perfect day for a stroll around the neighborhood. I've been cooped up inside for too long. \nSpeaker 1: Same here! You know, I've been thinking about starting a community garden. I think it would be a great way to bring some life into our neighborhood.\nSpeaker 2: That sounds like a wonderful idea! I love gardening. I've done some research on community gardens in the past. They can really bring people together.\nSpeaker 1: Oh, that's great! Maybe you can help me out with it then. I\u2019m not much of a green thumb. I spend most of my time dealing with people, not plants.\nSpeaker 2: Sure, I'd love to help. And speaking of dealing with people, how's work at the clinic? You're a behavioral specialist, right?\nSpeaker 1: Yes, I am. It's been quite busy lately, lots of new cases. It's challenging but rewarding work, helping people overcome their behavioral issues.\nSpeaker 2: I can imagine. It must require a great deal of patience and empathy. In my field, I deal more with data and less with direct human interaction.\nSpeaker 1: Oh, you're a research assistant, isn't it? What's your area of research?\nSpeaker 2: I work in a neuroscience lab. We study the impact of various factors on brain health. It's quite interesting, and the data we uncover is always fascinating.\nSpeaker 1: That does sound interesting. It's a bit like my work, just from a more scientific angle. We often deal with neurological disorders like ADHD and autism in my clinic.\nSpeaker 2: Absolutely! There's a lot of overlap, especially when it comes to understanding the brain's role in behavior. Research in my field can inform practices in yours, and vice versa.\nSpeaker 1: That's true. We do rely on research findings to develop effective treatment strategies. I guess our jobs aren't that different after all.\nSpeaker 2: Indeed, they're not. We're both working towards improving lives, just in different ways. It's always nice to remember the bigger picture.\nSpeaker 1: You're absolutely right, Karen. It's easy to get lost in the day-to-day grind and forget why we do what we do. Thanks for the reminder.\nSpeaker 2: Always happy to help, Emily. And remember, I'm here to lend a hand with the community garden too!",
+  "cleaned_conversation": "Speaker 1: good afternoon, karen! lovely weather 're having, isn't ?\nSpeaker 2: , absolutely, emily! think perfect day stroll around neighborhood. cooped up inside too long.\nSpeaker 1: same here! know, thinking about starting community garden. think be great way bring some life into neighborhood.\nSpeaker 2: sounds like wonderful idea! love gardening. done some research community gardens past. can really bring people together.\nSpeaker 1: , great! maybe can help me out then. \u2019m much green thumb. spend most time dealing people, plants.\nSpeaker 2: sure, love help. speaking dealing people, 's work clinic? 're behavioral specialist, right?\nSpeaker 1: yes, . quite busy lately, lots new cases. challenging rewarding work, helping people overcome behavioral issues.\nSpeaker 2: can imagine. must require great deal patience empathy. field, deal more data less direct human interaction.\nSpeaker 1: , 're research assistant, isn't ? 's your area research?\nSpeaker 2: work neuroscience lab. study impact various factors brain health. quite interesting, data uncover always fascinating.\nSpeaker 1: does sound interesting. bit like work, more scientific angle. often deal neurological disorders like adhd autism clinic.\nSpeaker 2: absolutely! 's lot overlap, especially comes understanding brain's role behavior. research field can inform practices , vice versa.\nSpeaker 1: true. do rely research findings develop effective treatment strategies. guess jobs different after all.\nSpeaker 2: indeed, 're . 're both working towards improving lives, different ways. always nice remember bigger picture.\nSpeaker 1: 're absolutely right, karen. easy lost day--day grind forget why do do. thanks reminder.\nSpeaker 2: always happy help, emily. remember, here lend hand community garden too!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "AE2 F T ER0 N UW1 N",
+        "K EH1 R AH0 N",
+        "L AH1 V L IY0",
+        "W EH1 DH ER0",
+        "R EY1",
+        "HH AE1 V IH0 NG",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "AE2 B S AH0 L UW1 T L IY0",
+        "EH1 M IH0 L IY0",
+        "TH IH1 NG K",
+        "P ER0 F EH1 K T",
+        "D EY1",
+        "S T R OW1 L",
+        "ER0 AW1 N D",
+        "N EY1 B ER0 HH UH2 D",
+        "K UW1 P T",
+        "AH1 P",
+        "IH2 N S AY1 D",
+        "T UW1",
+        "L AO1 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S EY1 M",
+        "HH IY1 R",
+        "N OW1",
+        "TH IH1 NG K IH0 NG",
+        "AH0 B AW1 T",
+        "S T AA1 R T IH0 NG",
+        "K AH0 M Y UW1 N AH0 T IY0",
+        "G AA1 R D AH0 N",
+        "TH IH1 NG K",
+        "B IY1",
+        "G R EY1 T",
+        "W EY1",
+        "B R IH1 NG",
+        "S AH1 M",
+        "L AY1 F",
+        "IH1 N T UW0",
+        "N EY1 B ER0 HH UH2 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AY1 K",
+        "W AH1 N D ER0 F AH0 L",
+        "AY0 D IY1 AH0",
+        "L AH1 V",
+        "G AA1 R D AH0 N IH0 NG",
+        "D AH1 N",
+        "S AH1 M",
+        "R IY0 S ER1 CH",
+        "K AH0 M Y UW1 N AH0 T IY0",
+        "G AA1 R D AH0 N Z",
+        "P AE1 S T",
+        "K AE1 N",
+        "R IH1 L IY0",
+        "B R IH1 NG",
+        "P IY1 P AH0 L",
+        "T AH0 G EH1 DH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "G R EY1 T",
+        "M EY1 B IY0",
+        "K AE1 N",
+        "HH EH1 L P",
+        "M IY1",
+        "AW1 T",
+        "DH EH1 N",
+        "EH1 M",
+        "M AH1 CH",
+        "G R IY1 N",
+        "TH AH1 M",
+        "S P EH1 N D",
+        "M OW1 S T",
+        "T AY1 M",
+        "D IY1 L IH0 NG",
+        "P IY1 P AH0 L",
+        "P L AE1 N T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "SH UH1 R",
+        "L AH1 V",
+        "HH EH1 L P",
+        "S P IY1 K IH0 NG",
+        "D IY1 L IH0 NG",
+        "P IY1 P AH0 L",
+        "EH1 S",
+        "W ER1 K",
+        "K L IH1 N IH0 K",
+        "R EY1",
+        "B IH0 HH EY1 V Y ER0 AH0 L",
+        "S P EH1 SH AH0 L IH0 S T",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "[UNK]",
+        "K W AY1 T",
+        "B IH1 Z IY0",
+        "L EY1 T L IY0",
+        "L AA1 T S",
+        "N UW1",
+        "K EY1 S AH0 Z",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "R IH0 W AO1 R D IH0 NG",
+        "W ER1 K",
+        "HH EH1 L P IH0 NG",
+        "P IY1 P AH0 L",
+        "OW1 V ER0 K AH2 M",
+        "B IH0 HH EY1 V Y ER0 AH0 L",
+        "IH1 SH UW0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "R IY2 K W AY1 ER0",
+        "G R EY1 T",
+        "D IY1 L",
+        "P EY1 SH AH0 N S",
+        "EH1 M P AH0 TH IY0",
+        "F IY1 L D",
+        "D IY1 L",
+        "M AO1 R",
+        "D EY1 T AH0",
+        "L EH1 S",
+        "D ER0 EH1 K T",
+        "HH Y UW1 M AH0 N",
+        "IH2 N T ER0 AE1 K SH AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "R EY1",
+        "R IY0 S ER1 CH",
+        "AH0 S IH1 S T AH0 N T",
+        "[UNK]",
+        "[UNK]",
+        "EH1 S",
+        "Y AO1 R",
+        "EH1 R IY0 AH0",
+        "R IY0 S ER1 CH"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W ER1 K",
+        "N Y UH1 R OW0 S AY2 AH0 N S",
+        "L AE1 B",
+        "S T AH1 D IY0",
+        "IH2 M P AE1 K T",
+        "V EH1 R IY0 AH0 S",
+        "F AE1 K T ER0 Z",
+        "B R EY1 N",
+        "HH EH1 L TH",
+        "K W AY1 T",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "D EY1 T AH0",
+        "AH0 N K AH1 V ER0",
+        "AO1 L W EY2 Z",
+        "F AE1 S AH0 N EY2 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "D AH1 Z",
+        "S AW1 N D",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "B IH1 T",
+        "L AY1 K",
+        "W ER1 K",
+        "M AO1 R",
+        "S AY2 AH0 N T IH1 F IH0 K",
+        "AE1 NG G AH0 L",
+        "AO1 F T AH0 N",
+        "D IY1 L",
+        "N UH2 R AH0 L AA1 JH IH0 K AH0 L",
+        "D IH0 S AO1 R D ER0 Z",
+        "L AY1 K",
+        "[UNK]",
+        "AO1 T IH2 Z AH0 M",
+        "K L IH1 N IH0 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "EH1 S",
+        "L AA1 T",
+        "OW1 V ER0 L AE2 P",
+        "AH0 S P EH1 SH L IY0",
+        "K AH1 M Z",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "B R EY1 N Z",
+        "R OW1 L",
+        "B IH0 HH EY1 V Y ER0",
+        "R IY0 S ER1 CH",
+        "F IY1 L D",
+        "K AE1 N",
+        "IH2 N F AO1 R M",
+        "P R AE1 K T IH0 S IH0 Z",
+        "[UNK]",
+        "V AY1 S",
+        "V ER1 S AH0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "D UW1",
+        "R IH0 L AY1",
+        "R IY0 S ER1 CH",
+        "F AY1 N D IH0 NG Z",
+        "D IH0 V EH1 L AH0 P",
+        "IH0 F EH1 K T IH0 V",
+        "T R IY1 T M AH0 N T",
+        "S T R AE1 T AH0 JH IY0 Z",
+        "G EH1 S",
+        "JH AA1 B Z",
+        "D IH1 F ER0 AH0 N T",
+        "AE1 F T ER0",
+        "AO1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "R EY1",
+        "[UNK]",
+        "R EY1",
+        "B OW1 TH",
+        "W ER1 K IH0 NG",
+        "T AH0 W AO1 R D Z",
+        "IH2 M P R UW1 V IH0 NG",
+        "L IH1 V Z",
+        "D IH1 F ER0 AH0 N T",
+        "W EY1 Z",
+        "AO1 L W EY2 Z",
+        "N AY1 S",
+        "R IH0 M EH1 M B ER0",
+        "B IH1 G ER0",
+        "P IH1 K CH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "AE2 B S AH0 L UW1 T L IY0",
+        "R AY1 T",
+        "K EH1 R AH0 N",
+        "IY1 Z IY0",
+        "L AO1 S T",
+        "[UNK]",
+        "G R AY1 N D",
+        "F ER0 G EH1 T",
+        "W AY1",
+        "D UW1",
+        "D UW1",
+        "TH AE1 NG K S",
+        "R IY0 M AY1 N D ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AO1 L W EY2 Z",
+        "HH AE1 P IY0",
+        "HH EH1 L P",
+        "EH1 M IH0 L IY0",
+        "R IH0 M EH1 M B ER0",
+        "HH IY1 R",
+        "L EH1 N D",
+        "HH AE1 N D",
+        "K AH0 M Y UW1 N AH0 T IY0",
+        "G AA1 R D AH0 N",
+        "T UW1"
+      ]
+    }
+  ]
+}

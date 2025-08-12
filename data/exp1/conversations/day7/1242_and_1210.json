@@ -1,0 +1,282 @@
+{
+  "speaker1": 1242,
+  "speaker2": 1210,
+  "original_conversation": "Speaker 1: Hey there, good to see you! Isn't this weather just perfect for a stroll?\n\nSpeaker 2: Hey! Yeah, it's fantastic. I've been cooped up inside studying all day. A walk is just what I need.\n\nSpeaker 1: Oh, studying, eh? Are you pursuing something specific?\n\nSpeaker 2: I'm in grad school at the moment, studying psychology. It's a lot of work, but I find it really fascinating.\n\nSpeaker 1: That's amazing! Psychology, huh? I work in human services, so I can definitely see how that would be helpful.\n\nSpeaker 2: Oh, really? That must be quite challenging but rewarding at the same time.\n\nSpeaker 1: Yes, it can be. It's about helping people navigate through their challenges. I work as a case manager, so I work closely with the clients.\n\nSpeaker 2: That sounds like a lot of responsibility. How do you manage to keep everything in balance?\n\nSpeaker 1: It's all about organization and understanding each person's unique situation. Plus, I get a lot of support from my team.\n\nSpeaker 2: Wow, that's impressive. Do you need any specific qualifications to get into your field?\n\nSpeaker 1: Well, a bachelor's degree in social work or a related field is usually required. Some experience is also helpful. \n\nSpeaker 2: I see. So, is it like psychology where you need further studies to specialize in a particular area?\n\nSpeaker 1: Not exactly. There are different paths within human services, but it's more about experience and on-the-job training.\n\nSpeaker 2: I get it. It's interesting to see how our fields overlap, though. I guess understanding human behavior is fundamental in both.\n\nSpeaker 1: Absolutely! And you know, your studies in psychology could be really beneficial in this field.\n\nSpeaker 2: Yeah, I can see that. It gives me something to think about for sure. Thanks for the insight!\n\nSpeaker 1: Of course! It's always great to learn from each other. Enjoy the rest of your walk!\n\nSpeaker 2: You too, take care!",
+  "cleaned_conversation": "Speaker 1: hey , good see ! isn't this weather perfect stroll?\nSpeaker 2: hey! , fantastic. cooped up inside studying all day. walk need.\nSpeaker 1: , studying, ? pursuing something specific?\nSpeaker 2: grad school moment, studying psychology. lot work, find really fascinating.\nSpeaker 1: amazing! psychology, ? work human services, can definitely see be helpful.\nSpeaker 2: , really? must be quite challenging rewarding same time.\nSpeaker 1: yes, can be. about helping people navigate through challenges. work case manager, work closely clients.\nSpeaker 2: sounds like lot responsibility. do manage keep everything balance?\nSpeaker 1: all about organization understanding each person's unique situation. plus, lot support team.\nSpeaker 2: wow, impressive. do need any specific qualifications into your field?\nSpeaker 1: well, bachelor's degree social work related field usually required. some experience also helpful.\nSpeaker 2: see. , like psychology need further studies specialize particular area?\nSpeaker 1: exactly. different paths within human services, more about experience --job training.\nSpeaker 2: . interesting see fields overlap, though. guess understanding human behavior fundamental both.\nSpeaker 1: absolutely! know, your studies psychology be really beneficial this field.\nSpeaker 2: , can see . gives me something think about sure. thanks insight!\nSpeaker 1: course! always great learn each other. enjoy rest your walk!\nSpeaker 2: too, take care!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "G UH1 D",
+        "S IY1",
+        "[UNK]",
+        "[UNK]",
+        "DH IH1 S",
+        "W EH1 DH ER0",
+        "P ER0 F EH1 K T",
+        "S T R OW1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "F AE0 N T AE1 S T IH0 K",
+        "K UW1 P T",
+        "AH1 P",
+        "IH2 N S AY1 D",
+        "S T AH1 D IY0 IH0 NG",
+        "AO1 L",
+        "D EY1",
+        "W AO1 K",
+        "N IY1 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "S T AH1 D IY0 IH0 NG",
+        "[UNK]",
+        "P ER0 S UW1 IH0 NG",
+        "S AH1 M TH IH0 NG",
+        "S P AH0 S IH1 F IH0 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "G R AE1 D",
+        "S K UW1 L",
+        "M OW1 M AH0 N T",
+        "S T AH1 D IY0 IH0 NG",
+        "S AY0 K AA1 L AH0 JH IY0",
+        "L AA1 T",
+        "W ER1 K",
+        "F AY1 N D",
+        "R IH1 L IY0",
+        "F AE1 S AH0 N EY2 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AH0 M EY1 Z IH0 NG",
+        "S AY0 K AA1 L AH0 JH IY0",
+        "[UNK]",
+        "W ER1 K",
+        "HH Y UW1 M AH0 N",
+        "S ER1 V AH0 S AH0 Z",
+        "K AE1 N",
+        "D EH1 F AH0 N AH0 T L IY0",
+        "S IY1",
+        "B IY1",
+        "HH EH1 L P F AH0 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "R IH1 L IY0",
+        "M AH1 S T",
+        "B IY1",
+        "K W AY1 T",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "R IH0 W AO1 R D IH0 NG",
+        "S EY1 M",
+        "T AY1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "K AE1 N",
+        "B IY1",
+        "AH0 B AW1 T",
+        "HH EH1 L P IH0 NG",
+        "P IY1 P AH0 L",
+        "N AE1 V AH0 G EY2 T",
+        "TH R UW1",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "W ER1 K",
+        "K EY1 S",
+        "M AE1 N AH0 JH ER0",
+        "W ER1 K",
+        "K L OW1 S L IY0",
+        "K L AY1 AH0 N T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AY1 K",
+        "L AA1 T",
+        "R IY0 S P AA2 N S AH0 B IH1 L AH0 T IY0",
+        "D UW1",
+        "M AE1 N AH0 JH",
+        "K IY1 P",
+        "EH1 V R IY0 TH IH2 NG",
+        "B AE1 L AH0 N S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AO1 L",
+        "AH0 B AW1 T",
+        "AO2 R G AH0 N AH0 Z EY1 SH AH0 N",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "IY1 CH",
+        "P ER1 S AH0 N Z",
+        "Y UW0 N IY1 K",
+        "S IH2 CH UW0 EY1 SH AH0 N",
+        "P L AH1 S",
+        "L AA1 T",
+        "S AH0 P AO1 R T",
+        "T IY1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W AW1",
+        "IH2 M P R EH1 S IH0 V",
+        "D UW1",
+        "N IY1 D",
+        "EH1 N IY0",
+        "S P AH0 S IH1 F IH0 K",
+        "K W AA2 L AH0 F AH0 K EY1 SH AH0 N Z",
+        "IH1 N T UW0",
+        "Y AO1 R",
+        "F IY1 L D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "B AE1 CH L ER0 Z",
+        "D IH0 G R IY1",
+        "S OW1 SH AH0 L",
+        "W ER1 K",
+        "R IH0 L EY1 T IH0 D",
+        "F IY1 L D",
+        "Y UW1 ZH AH0 W AH0 L IY0",
+        "R IY0 K W AY1 ER0 D",
+        "S AH1 M",
+        "IH0 K S P IH1 R IY0 AH0 N S",
+        "AO1 L S OW0",
+        "HH EH1 L P F AH0 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S IY1",
+        "[UNK]",
+        "L AY1 K",
+        "S AY0 K AA1 L AH0 JH IY0",
+        "N IY1 D",
+        "F ER1 DH ER0",
+        "S T AH1 D IY0 Z",
+        "S P EH1 SH AH0 L AY2 Z",
+        "P ER0 T IH1 K Y AH0 L ER0",
+        "EH1 R IY0 AH0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "D IH1 F ER0 AH0 N T",
+        "P AE1 DH Z",
+        "W IH0 DH IH1 N",
+        "HH Y UW1 M AH0 N",
+        "S ER1 V AH0 S AH0 Z",
+        "M AO1 R",
+        "AH0 B AW1 T",
+        "IH0 K S P IH1 R IY0 AH0 N S",
+        "JH AA1 B",
+        "T R EY1 N IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "S IY1",
+        "F IY1 L D Z",
+        "OW1 V ER0 L AE2 P",
+        "DH OW1",
+        "G EH1 S",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "HH Y UW1 M AH0 N",
+        "B IH0 HH EY1 V Y ER0",
+        "F AH2 N D AH0 M EH1 N T AH0 L",
+        "B OW1 TH"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "N OW1",
+        "Y AO1 R",
+        "S T AH1 D IY0 Z",
+        "S AY0 K AA1 L AH0 JH IY0",
+        "B IY1",
+        "R IH1 L IY0",
+        "B EH2 N AH0 F IH1 SH AH0 L",
+        "DH IH1 S",
+        "F IY1 L D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "S IY1",
+        "[UNK]",
+        "G IH1 V Z",
+        "M IY1",
+        "S AH1 M TH IH0 NG",
+        "TH IH1 NG K",
+        "AH0 B AW1 T",
+        "SH UH1 R",
+        "TH AE1 NG K S",
+        "IH1 N S AY2 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AO1 R S",
+        "AO1 L W EY2 Z",
+        "G R EY1 T",
+        "L ER1 N",
+        "IY1 CH",
+        "AH1 DH ER0",
+        "EH2 N JH OY1",
+        "R EH1 S T",
+        "Y AO1 R",
+        "W AO1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T UW1",
+        "T EY1 K",
+        "K EH1 R"
+      ]
+    }
+  ]
+}

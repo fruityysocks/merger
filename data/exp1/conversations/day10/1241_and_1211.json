@@ -1,0 +1,255 @@
+{
+  "speaker1": 1241,
+  "speaker2": 1211,
+  "original_conversation": "Speaker 1: Good morning! Another beautiful day, isn't it?\nSpeaker 2: Yeah, it sure is. I love this time of year in New England.\nSpeaker 1: Me too. There's something special about the way the sun shines in the morning. Makes you appreciate the simple things.\nSpeaker 2: Absolutely! I've been enjoying the extra daylight for studying. \nSpeaker 1: Studying, huh? You're a student, right?\nSpeaker 2: Yes, I am. I'm studying communication at Salem State. It's a lot of work but I really enjoy it.\nSpeaker 1: That sounds interesting. How's that going? Any finals coming up?\nSpeaker 2: Yes, it's a bit stressful. I have a couple of papers to submit. The deadlines can be pretty tough.\nSpeaker 1: I can imagine! I used to be the same when I was at Bryant University studying finance.\nSpeaker 2: Oh, you studied finance? That sounds like a challenging field.\nSpeaker 1: It can be, but I've always been good with numbers. Now, I work as a Finance Specialist and I really enjoy it.\nSpeaker 2: It must be satisfying to do something you love. I hope I can find something like that in my field.\nSpeaker 1: Don't worry, you will. And remember, the journey is just as important as the destination.\nSpeaker 2: That's true. I'm learning a lot and it's really exciting.\nSpeaker 1: That's the spirit! Hey, if you ever need any advice on finance, feel free to ask. I'll be glad to help.\nSpeaker 2: Thank you, I appreciate that. I might take you up on that offer!\nSpeaker 1: Anytime. Well, I'd better be off. Have a great day of studying!\nSpeaker 2: Thanks! Have a great day at work too.",
+  "cleaned_conversation": "Speaker 1: good morning! another beautiful day, isn't ?\nSpeaker 2: , sure . love this time year new england.\nSpeaker 1: me too. 's something special about way sun shines morning. makes appreciate simple things.\nSpeaker 2: absolutely! enjoying extra daylight studying.\nSpeaker 1: studying, ? 're student, right?\nSpeaker 2: yes, . studying communication salem state. lot work really enjoy .\nSpeaker 1: sounds interesting. 's going? any finals coming up?\nSpeaker 2: yes, bit stressful. couple papers submit. deadlines can be pretty tough.\nSpeaker 1: can imagine! used be same bryant university studying finance.\nSpeaker 2: , studied finance? sounds like challenging field.\nSpeaker 1: can be, always good numbers. now, work finance specialist really enjoy .\nSpeaker 2: must be satisfying do something love. hope can find something like field.\nSpeaker 1: don't worry, will. remember, journey important destination.\nSpeaker 2: true. learning lot really exciting.\nSpeaker 1: spirit! hey, if ever need any advice finance, feel free ask. be glad help.\nSpeaker 2: thank , appreciate . might take up offer!\nSpeaker 1: anytime. well, better be off. great day studying!\nSpeaker 2: thanks! great day work too.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "AH0 N AH1 DH ER0",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "SH UH1 R",
+        "[UNK]",
+        "L AH1 V",
+        "DH IH1 S",
+        "T AY1 M",
+        "Y IH1 R",
+        "N UW1",
+        "IH1 NG G L AH0 N D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "M IY1",
+        "T UW1",
+        "EH1 S",
+        "S AH1 M TH IH0 NG",
+        "S P EH1 SH AH0 L",
+        "AH0 B AW1 T",
+        "W EY1",
+        "S AH1 N",
+        "SH AY1 N Z",
+        "M AO1 R N IH0 NG",
+        "M EY1 K S",
+        "AH0 P R IY1 SH IY0 EY2 T",
+        "S IH1 M P AH0 L",
+        "TH IH1 NG Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "EH2 N JH OY1 IH0 NG",
+        "EH1 K S T R AH0",
+        "D EY1 L AY2 T",
+        "S T AH1 D IY0 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S T AH1 D IY0 IH0 NG",
+        "[UNK]",
+        "R EY1",
+        "S T UW1 D AH0 N T",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "[UNK]",
+        "S T AH1 D IY0 IH0 NG",
+        "K AH0 M Y UW2 N AH0 K EY1 SH AH0 N",
+        "S EY1 L AH0 M",
+        "S T EY1 T",
+        "L AA1 T",
+        "W ER1 K",
+        "R IH1 L IY0",
+        "EH2 N JH OY1",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "EH1 S",
+        "G OW1 IH0 NG",
+        "EH1 N IY0",
+        "F AY1 N AH0 L Z",
+        "K AH1 M IH0 NG",
+        "AH1 P"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "B IH1 T",
+        "S T R EH1 S F AH0 L",
+        "K AH1 P AH0 L",
+        "P EY1 P ER0 Z",
+        "S AH0 B M IH1 T",
+        "D EH1 D L AY2 N Z",
+        "K AE1 N",
+        "B IY1",
+        "P R IH1 T IY0",
+        "T AH1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "Y UW1 Z D",
+        "B IY1",
+        "S EY1 M",
+        "B R AY1 AH0 N T",
+        "Y UW2 N AH0 V ER1 S AH0 T IY0",
+        "S T AH1 D IY0 IH0 NG",
+        "F AH0 N AE1 N S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "S T AH1 D IY0 D",
+        "F AH0 N AE1 N S",
+        "S AW1 N D Z",
+        "L AY1 K",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "F IY1 L D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "B IY1",
+        "AO1 L W EY2 Z",
+        "G UH1 D",
+        "N AH1 M B ER0 Z",
+        "N AW1",
+        "W ER1 K",
+        "F AH0 N AE1 N S",
+        "S P EH1 SH AH0 L IH0 S T",
+        "R IH1 L IY0",
+        "EH2 N JH OY1",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "M AH1 S T",
+        "B IY1",
+        "S AE1 T IH0 S F AY2 IH0 NG",
+        "D UW1",
+        "S AH1 M TH IH0 NG",
+        "L AH1 V",
+        "HH OW1 P",
+        "K AE1 N",
+        "F AY1 N D",
+        "S AH1 M TH IH0 NG",
+        "L AY1 K",
+        "F IY1 L D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "W ER1 IY0",
+        "W IH1 L",
+        "R IH0 M EH1 M B ER0",
+        "JH ER1 N IY0",
+        "IH2 M P AO1 R T AH0 N T",
+        "D EH2 S T AH0 N EY1 SH AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T R UW1",
+        "L ER1 N IH0 NG",
+        "L AA1 T",
+        "R IH1 L IY0",
+        "IH0 K S AY1 T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S P IH1 R AH0 T",
+        "HH EY1",
+        "IH1 F",
+        "EH1 V ER0",
+        "N IY1 D",
+        "EH1 N IY0",
+        "AE0 D V AY1 S",
+        "F AH0 N AE1 N S",
+        "F IY1 L",
+        "F R IY1",
+        "AE1 S K",
+        "B IY1",
+        "G L AE1 D",
+        "HH EH1 L P"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K",
+        "[UNK]",
+        "AH0 P R IY1 SH IY0 EY2 T",
+        "[UNK]",
+        "M AY1 T",
+        "T EY1 K",
+        "AH1 P",
+        "AO1 F ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 N IY0 T AY2 M",
+        "W EH1 L",
+        "B EH1 T ER0",
+        "B IY1",
+        "AO1 F",
+        "G R EY1 T",
+        "D EY1",
+        "S T AH1 D IY0 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K S",
+        "G R EY1 T",
+        "D EY1",
+        "W ER1 K",
+        "T UW1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "speaker1": 1409,
+  "speaker2": 1237,
+  "original_conversation": "Speaker 1: Hey there, how's everything on your side of the fence?\nSpeaker 2: Hi! Well, it's been rather quiet, actually. The lockdown has slowed down everything. How about you?\nSpeaker 1: Pretty much the same over here. Been keepin' busy with work though, lots of floors to cover and all.\nSpeaker 2: Oh, I can imagine. Must be tough with all the safety measures in place now.\nSpeaker 1: Yeah, it's a bit more complicated, but safety first, right? Keeps the job interesting.\nSpeaker 2: Absolutely, safety can't be compromised. Speaking of work, I've been swamped with analyzing datasets lately. It's like a never-ending stream of numbers!\nSpeaker 1: Hah, sounds like a whole different world to me. I wouldn't know where to begin with all that data stuff.\nSpeaker 2: Oh, it's not as complicated as it sounds. It's actually quite similar to your work in a way.\nSpeaker 1: Really? Can't see how floor covering and data analysis could be similar, but do enlighten me!\nSpeaker 2: Well, just like you have to measure and cut the floor coverings accurately, I have to accurately measure and make sense of the data.\nSpeaker 1: Huh, never thought about it that way. So, your tools are just more... digital, I guess?\nSpeaker 2: Exactly! Instead of a tape measure and cutting tools, I use statistical software and algorithms.\nSpeaker 1: Sounds fascinating, but I'll stick to my good ol' toolbox. At least I can see and touch what I'm working with.\nSpeaker 2: That's true, there's a certain satisfaction in working with your hands. I do miss that sometimes. But the insights I get from the data are just as rewarding.\nSpeaker 1: Insight, huh? Like you can predict what's gonna happen next?\nSpeaker 2: In a way, yes. It can help businesses anticipate trends, make better decisions. It's all about patterns, much like the patterns you lay on the floors.\nSpeaker 1: Ha! Who would've thought? We're not so different after all. You with your data, me with my carpets. Both making sense of patterns.\nSpeaker 2: Absolutely! And maybe our work is more connected than we thought. After all, we're both contributing to building better environments, right?\nSpeaker 1: Yeah, you're right about that. Just in our own ways. Thanks for putting it into perspective.\nSpeaker 2: My pleasure! It's always interesting to see how our worlds overlap.",
+  "cleaned_conversation": "Speaker 1: hey , 's everything your side fence?\nSpeaker 2: hi! well, rather quiet, actually. lockdown slowed down everything. about ?\nSpeaker 1: pretty much same over here. keepin' busy work though, lots floors cover all.\nSpeaker 2: , can imagine. must be tough all safety measures place now.\nSpeaker 1: , bit more complicated, safety first, right? keeps job interesting.\nSpeaker 2: absolutely, safety can't be compromised. speaking work, swamped analyzing datasets lately. like never-ending stream numbers!\nSpeaker 1: hah, sounds like whole different world me. know begin all data stuff.\nSpeaker 2: , complicated sounds. actually quite similar your work way.\nSpeaker 1: really? can't see floor covering data analysis be similar, do enlighten me!\nSpeaker 2: well, like measure cut floor coverings accurately, accurately measure make sense data.\nSpeaker 1: , never thought about way. , your tools more... digital, guess?\nSpeaker 2: exactly! instead tape measure cutting tools, use statistical software algorithms.\nSpeaker 1: sounds fascinating, stick good ol' toolbox. least can see touch working .\nSpeaker 2: true, 's certain satisfaction working your hands. do miss sometimes. insights data rewarding.\nSpeaker 1: insight, ? like can predict 's happen next?\nSpeaker 2: way, yes. can help businesses anticipate trends, make better decisions. all about patterns, much like patterns lay floors.\nSpeaker 1: ha! who 've thought? 're different after all. your data, me carpets. both making sense patterns.\nSpeaker 2: absolutely! maybe work more connected thought. after all, 're both contributing building better environments, right?\nSpeaker 1: , 're right about . own ways. thanks putting into perspective.\nSpeaker 2: pleasure! always interesting see worlds overlap.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "EH1 S",
+        "EH1 V R IY0 TH IH2 NG",
+        "Y AO1 R",
+        "S AY1 D",
+        "F EH1 N S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH AY1",
+        "W EH1 L",
+        "R AE1 DH ER0",
+        "K W AY1 AH0 T",
+        "AE1 K CH UW2 AH0 L IY0",
+        "L AA1 K D AW2 N",
+        "S L OW1 D",
+        "D AW1 N",
+        "EH1 V R IY0 TH IH2 NG",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "P R IH1 T IY0",
+        "M AH1 CH",
+        "S EY1 M",
+        "OW1 V ER0",
+        "HH IY1 R",
+        "[UNK]",
+        "B IH1 Z IY0",
+        "W ER1 K",
+        "DH OW1",
+        "L AA1 T S",
+        "F L AO1 R Z",
+        "K AH1 V ER0",
+        "AO1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "B IY1",
+        "T AH1 F",
+        "AO1 L",
+        "S EY1 F T IY0",
+        "M EH1 ZH ER0 Z",
+        "P L EY1 S",
+        "N AW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "B IH1 T",
+        "M AO1 R",
+        "K AA1 M P L AH0 K EY2 T AH0 D",
+        "S EY1 F T IY0",
+        "F ER1 S T",
+        "R AY1 T",
+        "K IY1 P S",
+        "JH AA1 B",
+        "IH1 N T AH0 R EH2 S T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "S EY1 F T IY0",
+        "K AE1 N T",
+        "B IY1",
+        "K AA1 M P R AH0 M AY2 Z D",
+        "S P IY1 K IH0 NG",
+        "W ER1 K",
+        "S W AO1 M P T",
+        "AE1 N AH0 L AY2 Z IH0 NG",
+        "[UNK]",
+        "L EY1 T L IY0",
+        "L AY1 K",
+        "[UNK]",
+        "S T R IY1 M",
+        "N AH1 M B ER0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AA1",
+        "S AW1 N D Z",
+        "L AY1 K",
+        "HH OW1 L",
+        "D IH1 F ER0 AH0 N T",
+        "W ER1 L D",
+        "M IY1",
+        "N OW1",
+        "B IH0 G IH1 N",
+        "AO1 L",
+        "D EY1 T AH0",
+        "S T AH1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "K AA1 M P L AH0 K EY2 T AH0 D",
+        "S AW1 N D Z",
+        "AE1 K CH UW2 AH0 L IY0",
+        "K W AY1 T",
+        "S IH1 M AH0 L ER0",
+        "Y AO1 R",
+        "W ER1 K",
+        "W EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R IH1 L IY0",
+        "K AE1 N T",
+        "S IY1",
+        "F L AO1 R",
+        "K AH1 V ER0 IH0 NG",
+        "D EY1 T AH0",
+        "AE0 N AE1 L IH0 S IH0 S",
+        "B IY1",
+        "S IH1 M AH0 L ER0",
+        "D UW1",
+        "EH2 N L AY1 T AH0 N",
+        "M IY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "L AY1 K",
+        "M EH1 ZH ER0",
+        "K AH1 T",
+        "F L AO1 R",
+        "K AH1 V ER0 IH0 NG Z",
+        "AE1 K Y ER0 AH0 T L IY0",
+        "AE1 K Y ER0 AH0 T L IY0",
+        "M EH1 ZH ER0",
+        "M EY1 K",
+        "S EH1 N S",
+        "D EY1 T AH0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "N EH1 V ER0",
+        "TH AO1 T",
+        "AH0 B AW1 T",
+        "W EY1",
+        "[UNK]",
+        "Y AO1 R",
+        "T UW1 L Z",
+        "M AO1 R",
+        "D IH1 JH AH0 T AH0 L",
+        "G EH1 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "IH2 N S T EH1 D",
+        "T EY1 P",
+        "M EH1 ZH ER0",
+        "K AH1 T IH0 NG",
+        "T UW1 L Z",
+        "Y UW1 S",
+        "S T AH0 T IH1 S T IH0 K AH0 L",
+        "S AO1 F T W EH2 R",
+        "AE1 L G ER0 IH2 DH AH0 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "F AE1 S AH0 N EY2 T IH0 NG",
+        "S T IH1 K",
+        "G UH1 D",
+        "[UNK]",
+        "T UW1 L B AO2 K S",
+        "L IY1 S T",
+        "K AE1 N",
+        "S IY1",
+        "T AH1 CH",
+        "W ER1 K IH0 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T R UW1",
+        "EH1 S",
+        "S ER1 T AH0 N",
+        "S AE2 T AH0 S F AE1 K SH AH0 N",
+        "W ER1 K IH0 NG",
+        "Y AO1 R",
+        "HH AE1 N D Z",
+        "D UW1",
+        "M IH1 S",
+        "S AH0 M T AY1 M Z",
+        "IH1 N S AY2 T S",
+        "D EY1 T AH0",
+        "R IH0 W AO1 R D IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH1 N S AY2 T",
+        "[UNK]",
+        "L AY1 K",
+        "K AE1 N",
+        "P R IH0 D IH1 K T",
+        "EH1 S",
+        "HH AE1 P AH0 N",
+        "N EH1 K S T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EY1",
+        "Y EH1 S",
+        "K AE1 N",
+        "HH EH1 L P",
+        "B IH1 Z N AH0 S AH0 Z",
+        "AE0 N T IH1 S AH0 P EY2 T",
+        "T R EH1 N D Z",
+        "M EY1 K",
+        "B EH1 T ER0",
+        "D IH0 S IH1 ZH AH0 N Z",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "P AE1 T ER0 N Z",
+        "M AH1 CH",
+        "L AY1 K",
+        "P AE1 T ER0 N Z",
+        "L EY1",
+        "F L AO1 R Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AA1",
+        "HH UW1",
+        "V IY1",
+        "TH AO1 T",
+        "R EY1",
+        "D IH1 F ER0 AH0 N T",
+        "AE1 F T ER0",
+        "AO1 L",
+        "Y AO1 R",
+        "D EY1 T AH0",
+        "M IY1",
+        "K AA1 R P AH0 T S",
+        "B OW1 TH",
+        "M EY1 K IH0 NG",
+        "S EH1 N S",
+        "P AE1 T ER0 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "M EY1 B IY0",
+        "W ER1 K",
+        "M AO1 R",
+        "K AH0 N EH1 K T IH0 D",
+        "TH AO1 T",
+        "AE1 F T ER0",
+        "AO1 L",
+        "R EY1",
+        "B OW1 TH",
+        "K AH0 N T R IH1 B Y UW0 T IH0 NG",
+        "B IH1 L D IH0 NG",
+        "B EH1 T ER0",
+        "IH0 N V AY1 R AH0 N M AH0 N T S",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "R EY1",
+        "R AY1 T",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "OW1 N",
+        "W EY1 Z",
+        "TH AE1 NG K S",
+        "P AH1 T IH0 NG",
+        "IH1 N T UW0",
+        "P ER0 S P EH1 K T IH0 V"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "P L EH1 ZH ER0",
+        "AO1 L W EY2 Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "S IY1",
+        "W ER1 L D Z",
+        "OW1 V ER0 L AE2 P"
+      ]
+    }
+  ]
+}

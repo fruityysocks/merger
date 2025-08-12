@@ -40,7 +40,7 @@ p <- ggplot() +
   coord_fixed(xlim = c(-73.5, -65), ylim = c(41.15, 48)) +
   theme_void() +
   labs(title = "Movement", color = "Day") +
-  scale_color_manual(values = c("1" = "blue", "2" = "red", "3" = "green"))
+  scale_color_manual(values = c("1" = "blue", "2" = "blue", "3" = "blue"))
 
 # Create and save the animation
 anim <- p + 
@@ -54,5 +54,5 @@ animate(
   anim,
   width = 800, 
   height = 600, 
-  renderer = gifski_renderer("maps/movement.gif")
+  renderer = gifski_renderer("maps/movementBlue.gif")
 )

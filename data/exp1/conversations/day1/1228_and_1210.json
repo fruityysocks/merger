@@ -1,0 +1,226 @@
+{
+  "speaker1": 1228,
+  "speaker2": 1210,
+  "original_conversation": "Speaker 1: Hi there, enjoying the weather?\nSpeaker 2: Yeah, it's a nice change from the chill we've been having. How about you?\nSpeaker 1: Absolutely, it's been a bit too cold for my liking. I'm glad to see the sun again.\nSpeaker 2: Right? It's like a whole different neighborhood with the sun out. \nSpeaker 1: Indeed, it's much brighter and more cheerful. I prefer it this way.\nSpeaker 2: Same here. By the way, how's the management work going?\nSpeaker 1: It's been busy, but good. Every day brings a new challenge. And how's school?\nSpeaker 2: It's a bit overwhelming with all the assignments, but I'm managing.\nSpeaker 1: I remember those days! What are you studying?\nSpeaker 2: I'm studying Computer Science. It's tough, but I really enjoy it.\nSpeaker 1: That sounds interesting! I do admire how much you guys need to learn these days.\nSpeaker 2: Yeah, it's a lot, especially with all the new technologies coming out.\nSpeaker 1: I can imagine. Managing a team also involves keeping up with the latest trends and technologies.\nSpeaker 2: I bet! I guess in some ways our professions are similar.\nSpeaker 1: Indeed, we both need to be adaptable and quick learners. \nSpeaker 2: True, and we both need to problem solve and think on our feet. \nSpeaker 1: Absolutely! It's all about finding solutions and making things work.\nSpeaker 2: Couldn't have said it better myself!",
+  "cleaned_conversation": "Speaker 1: hi , enjoying weather?\nSpeaker 2: , nice change chill having. about ?\nSpeaker 1: absolutely, bit too cold liking. glad see sun again.\nSpeaker 2: right? like whole different neighborhood sun out.\nSpeaker 1: indeed, much brighter more cheerful. prefer this way.\nSpeaker 2: same here. by way, 's management work going?\nSpeaker 1: busy, good. every day brings new challenge. 's school?\nSpeaker 2: bit overwhelming all assignments, managing.\nSpeaker 1: remember those days! studying?\nSpeaker 2: studying computer science. tough, really enjoy .\nSpeaker 1: sounds interesting! do admire much guys need learn these days.\nSpeaker 2: , lot, especially all new technologies coming out.\nSpeaker 1: can imagine. managing team also involves keeping up latest trends technologies.\nSpeaker 2: bet! guess some ways professions similar.\nSpeaker 1: indeed, both need be adaptable quick learners.\nSpeaker 2: true, both need problem solve think feet.\nSpeaker 1: absolutely! all about finding solutions making things work.\nSpeaker 2: said better myself!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AY1",
+        "[UNK]",
+        "EH2 N JH OY1 IH0 NG",
+        "W EH1 DH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "N AY1 S",
+        "CH EY1 N JH",
+        "CH IH1 L",
+        "HH AE1 V IH0 NG",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "B IH1 T",
+        "T UW1",
+        "K OW1 L D",
+        "L AY1 K IH0 NG",
+        "G L AE1 D",
+        "S IY1",
+        "S AH1 N",
+        "AH0 G EH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "R AY1 T",
+        "L AY1 K",
+        "HH OW1 L",
+        "D IH1 F ER0 AH0 N T",
+        "N EY1 B ER0 HH UH2 D",
+        "S AH1 N",
+        "AW1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "M AH1 CH",
+        "B R AY1 T ER0",
+        "M AO1 R",
+        "CH IH1 R F AH0 L",
+        "P R AH0 F ER1",
+        "DH IH1 S",
+        "W EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S EY1 M",
+        "HH IY1 R",
+        "B AY1",
+        "W EY1",
+        "EH1 S",
+        "M AE1 N AH0 JH M AH0 N T",
+        "W ER1 K",
+        "G OW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "B IH1 Z IY0",
+        "G UH1 D",
+        "EH1 V ER0 IY0",
+        "D EY1",
+        "B R IH1 NG Z",
+        "N UW1",
+        "CH AE1 L AH0 N JH",
+        "EH1 S",
+        "S K UW1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "B IH1 T",
+        "OW2 V ER0 W EH1 L M IH0 NG",
+        "AO1 L",
+        "AH0 S AY1 N M AH0 N T S",
+        "M AE1 N AH0 JH IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R IH0 M EH1 M B ER0",
+        "DH OW1 Z",
+        "D EY1 Z",
+        "S T AH1 D IY0 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S T AH1 D IY0 IH0 NG",
+        "K AH0 M P Y UW1 T ER0",
+        "S AY1 AH0 N S",
+        "T AH1 F",
+        "R IH1 L IY0",
+        "EH2 N JH OY1",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "D UW1",
+        "AE0 D M AY1 R",
+        "M AH1 CH",
+        "G AY1 Z",
+        "N IY1 D",
+        "L ER1 N",
+        "DH IY1 Z",
+        "D EY1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "L AA1 T",
+        "AH0 S P EH1 SH L IY0",
+        "AO1 L",
+        "N UW1",
+        "T EH0 K N AA1 L AH0 JH IY0 Z",
+        "K AH1 M IH0 NG",
+        "AW1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AE1 N AH0 JH IH0 NG",
+        "T IY1 M",
+        "AO1 L S OW0",
+        "IH2 N V AA1 L V Z",
+        "K IY1 P IH0 NG",
+        "AH1 P",
+        "L EY1 T AH0 S T",
+        "T R EH1 N D Z",
+        "T EH0 K N AA1 L AH0 JH IY0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "B EH1 T",
+        "G EH1 S",
+        "S AH1 M",
+        "W EY1 Z",
+        "P R AH0 F EH1 SH AH0 N Z",
+        "S IH1 M AH0 L ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "B OW1 TH",
+        "N IY1 D",
+        "B IY1",
+        "AH0 D AE1 P T AH0 B AH0 L",
+        "K W IH1 K",
+        "L ER1 N ER0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T R UW1",
+        "B OW1 TH",
+        "N IY1 D",
+        "P R AA1 B L AH0 M",
+        "S AA1 L V",
+        "TH IH1 NG K",
+        "F IY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "F AY1 N D IH0 NG",
+        "S AH0 L UW1 SH AH0 N Z",
+        "M EY1 K IH0 NG",
+        "TH IH1 NG Z",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S EH1 D",
+        "B EH1 T ER0",
+        "M AY2 S EH1 L F"
+      ]
+    }
+  ]
+}

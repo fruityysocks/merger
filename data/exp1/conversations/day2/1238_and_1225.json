@@ -1,0 +1,270 @@
+{
+  "speaker1": 1238,
+  "speaker2": 1225,
+  "original_conversation": "Speaker 1: Good morning, how's everything?\nSpeaker 2: Hey there, all good. Just working on getting the day started. You?\nSpeaker 1: Same here. Got a busy day ahead with work.\nSpeaker 2: Oh, I know the feeling. Hey, did you see the Thompsons got a new dog?\nSpeaker 1: Yeah, saw the little guy yesterday. A lot quieter than their last one.\nSpeaker 2: I know, right? I think they learned their lesson after the last one.\nSpeaker 1: Ha, yeah. Speaking of lessons, I had a tough one yesterday - had to deal with a complicated car accident claim.\nSpeaker 2: Oh, that's your line of work, right? Claims adjusting?\nSpeaker 1: That's right, it can be a real headache sometimes, but it's interesting.\nSpeaker 2: I can imagine. It must be challenging to figure out who's at fault and what's covered.\nSpeaker 1: Yeah, and sometimes the stories people come up with, you wouldn't believe it!\nSpeaker 2: Ha, I bet! Well, my job has its share of stories too. I work in financial aid.\nSpeaker 1: Oh, right. You must deal with a lot of stressed-out students and parents.\nSpeaker 2: That's for sure. But it's satisfying when you can help someone afford their education.\nSpeaker 1: Yeah, I can see how that would be rewarding. I guess every job has its ups and downs.\nSpeaker 2: Absolutely. At the end of the day, it's about helping people, right?\nSpeaker 1: Couldn't have put it better myself. Well, I'd better get back to it. Catch you later?\nSpeaker 2: Definitely. Have a good day, and good luck with those claims!\nSpeaker 1: Thanks, you too. Good luck with the financial aid applications!\nSpeaker 2: Thanks, I'll need it. See you around!",
+  "cleaned_conversation": "Speaker 1: good morning, 's everything?\nSpeaker 2: hey , all good. working getting day started. ?\nSpeaker 1: same here. busy day ahead work.\nSpeaker 2: , know feeling. hey, did see thompsons new dog?\nSpeaker 1: , saw little guy yesterday. lot quieter last one.\nSpeaker 2: know, right? think learned lesson after last one.\nSpeaker 1: ha, . speaking lessons, tough one yesterday - deal complicated car accident claim.\nSpeaker 2: , your line work, right? claims adjusting?\nSpeaker 1: right, can be real headache sometimes, interesting.\nSpeaker 2: can imagine. must be challenging figure out who's fault 's covered.\nSpeaker 1: , sometimes stories people come up , believe !\nSpeaker 2: ha, bet! well, job share stories too. work financial aid.\nSpeaker 1: , right. must deal lot stressed-out students parents.\nSpeaker 2: sure. satisfying can help someone afford education.\nSpeaker 1: , can see be rewarding. guess every job ups downs.\nSpeaker 2: absolutely. end day, about helping people, right?\nSpeaker 1: put better myself. well, better back . catch later?\nSpeaker 2: definitely. good day, good luck those claims!\nSpeaker 1: thanks, too. good luck financial aid applications!\nSpeaker 2: thanks, need . see around!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "EH1 S",
+        "EH1 V R IY0 TH IH2 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "AO1 L",
+        "G UH1 D",
+        "W ER1 K IH0 NG",
+        "G EH1 T IH0 NG",
+        "D EY1",
+        "S T AA1 R T AH0 D",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S EY1 M",
+        "HH IY1 R",
+        "B IH1 Z IY0",
+        "D EY1",
+        "AH0 HH EH1 D",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "N OW1",
+        "F IY1 L IH0 NG",
+        "HH EY1",
+        "D IH1 D",
+        "S IY1",
+        "T AA1 M P S AH0 N Z",
+        "N UW1",
+        "D AO1 G"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "S AO1",
+        "L IH1 T AH0 L",
+        "G AY1",
+        "Y EH1 S T ER0 D EY2",
+        "L AA1 T",
+        "K W AY1 AH0 T ER0",
+        "L AE1 S T",
+        "W AH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "N OW1",
+        "R AY1 T",
+        "TH IH1 NG K",
+        "L ER1 N D",
+        "L EH1 S AH0 N",
+        "AE1 F T ER0",
+        "L AE1 S T",
+        "W AH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AA1",
+        "[UNK]",
+        "S P IY1 K IH0 NG",
+        "L EH1 S AH0 N Z",
+        "T AH1 F",
+        "W AH1 N",
+        "Y EH1 S T ER0 D EY2",
+        "[UNK]",
+        "D IY1 L",
+        "K AA1 M P L AH0 K EY2 T AH0 D",
+        "K AA1 R",
+        "AE1 K S AH0 D AH0 N T",
+        "K L EY1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "Y AO1 R",
+        "L AY1 N",
+        "W ER1 K",
+        "R AY1 T",
+        "K L EY1 M Z",
+        "AH0 JH AH1 S T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R AY1 T",
+        "K AE1 N",
+        "B IY1",
+        "R IY1 L",
+        "HH EH1 D EY2 K",
+        "S AH0 M T AY1 M Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "B IY1",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "F IH1 G Y ER0",
+        "AW1 T",
+        "[UNK]",
+        "F AO1 L T",
+        "EH1 S",
+        "K AH1 V ER0 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "S AH0 M T AY1 M Z",
+        "S T AO1 R IY0 Z",
+        "P IY1 P AH0 L",
+        "K AH1 M",
+        "AH1 P",
+        "[UNK]",
+        "B IH0 L IY1 V",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH AA1",
+        "B EH1 T",
+        "W EH1 L",
+        "JH AA1 B",
+        "SH EH1 R",
+        "S T AO1 R IY0 Z",
+        "T UW1",
+        "W ER1 K",
+        "F AH0 N AE1 N SH AH0 L",
+        "EY1 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "R AY1 T",
+        "M AH1 S T",
+        "D IY1 L",
+        "L AA1 T",
+        "[UNK]",
+        "S T UW1 D AH0 N T S",
+        "P EH1 R AH0 N T S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "SH UH1 R",
+        "S AE1 T IH0 S F AY2 IH0 NG",
+        "K AE1 N",
+        "HH EH1 L P",
+        "S AH1 M W AH2 N",
+        "AH0 F AO1 R D",
+        "EH2 JH AH0 K EY1 SH AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "S IY1",
+        "B IY1",
+        "R IH0 W AO1 R D IH0 NG",
+        "G EH1 S",
+        "EH1 V ER0 IY0",
+        "JH AA1 B",
+        "AH1 P S",
+        "D AW1 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "EH1 N D",
+        "D EY1",
+        "AH0 B AW1 T",
+        "HH EH1 L P IH0 NG",
+        "P IY1 P AH0 L",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "P UH1 T",
+        "B EH1 T ER0",
+        "M AY2 S EH1 L F",
+        "W EH1 L",
+        "B EH1 T ER0",
+        "B AE1 K",
+        "[UNK]",
+        "K AE1 CH",
+        "L EY1 T ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "G UH1 D",
+        "D EY1",
+        "G UH1 D",
+        "L AH1 K",
+        "DH OW1 Z",
+        "K L EY1 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "TH AE1 NG K S",
+        "T UW1",
+        "G UH1 D",
+        "L AH1 K",
+        "F AH0 N AE1 N SH AH0 L",
+        "EY1 D",
+        "AE2 P L AH0 K EY1 SH AH0 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K S",
+        "N IY1 D",
+        "[UNK]",
+        "S IY1",
+        "ER0 AW1 N D"
+      ]
+    }
+  ]
+}

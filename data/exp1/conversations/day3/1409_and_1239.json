@@ -1,0 +1,245 @@
+{
+  "speaker1": 1409,
+  "speaker2": 1239,
+  "original_conversation": "Speaker 1: Morning, Joe. How's everything over in New Bedford?\nSpeaker 2: Morning, Mike. It's not bad at all, thanks. How are things in Pawtucket?\nSpeaker 1: Can't complain, buddy. We\u2019ve had a bit of rain lately, though. My yard's looking more like a marsh.\nSpeaker 2: Ha, I know what you mean. We had to deal with some flooding in the warehouse last week.\nSpeaker 1: Oh, that's tough. You got all that sorted out, though, right?\nSpeaker 2: Yeah, thankfully. It was a bit of a hassle, but everything's back on track. Speaking of hassles, how's that tile job coming along?\nSpeaker 1: Well, it's coming along alright. But you know how it is with floor covering. It's never as easy as it looks.\nSpeaker 2: I can only imagine. It's like keeping track of all the shipments in the warehouse. Sounds easy in theory, but there's always some small detail that throws a monkey wrench into things.\nSpeaker 1: Ha! Sounds about right. It's all in the details, isn't it? How do you manage it all, Joe?\nSpeaker 2: Well, it's a lot of juggling, but having a good team makes all the difference. They know their stuff and they're always on top of things.\nSpeaker 1: That's it, Joe. A good team makes all the difference. Same thing in my line of work. I've got a couple of guys who really know their business. Couldn't do it without them.\nSpeaker 2: Yeah, I reckon it's the same in any profession. If you've got good people, half the battle's won.\nSpeaker 1: True that, Joe. Well, I gotta run. Got a job over in Providence today. You take care, alright?\nSpeaker 2: Sure thing, Mike. Good luck with the job. Catch you later!",
+  "cleaned_conversation": "Speaker 1: morning, joe. 's everything over new bedford?\nSpeaker 2: morning, mike. bad all, thanks. things pawtucket?\nSpeaker 1: can't complain, buddy. \u2019ve bit rain lately, though. yard's looking more like marsh.\nSpeaker 2: ha, know mean. deal some flooding warehouse last week.\nSpeaker 1: , tough. all sorted out, though, right?\nSpeaker 2: , thankfully. bit hassle, everything's back track. speaking hassles, 's tile job coming along?\nSpeaker 1: well, coming along alright. know floor covering. never easy looks.\nSpeaker 2: can only imagine. like keeping track all shipments warehouse. sounds easy theory, 's always some small detail throws monkey wrench into things.\nSpeaker 1: ha! sounds about right. all details, isn't ? do manage all, joe?\nSpeaker 2: well, lot juggling, having good team makes all difference. know stuff 're always top things.\nSpeaker 1: , joe. good team makes all difference. same thing line work. couple guys who really know business. do without .\nSpeaker 2: , reckon same any profession. if good people, half battle's won.\nSpeaker 1: true , joe. well, run. job over providence today. take care, alright?\nSpeaker 2: sure thing, mike. good luck job. catch later!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "M AO1 R N IH0 NG",
+        "JH OW1",
+        "EH1 S",
+        "EH1 V R IY0 TH IH2 NG",
+        "OW1 V ER0",
+        "N UW1",
+        "B EH1 D F ER0 D"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "M AO1 R N IH0 NG",
+        "M AY1 K",
+        "B AE1 D",
+        "AO1 L",
+        "TH AE1 NG K S",
+        "TH IH1 NG Z",
+        "P AO2 T AH1 K IH0 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N T",
+        "K AH0 M P L EY1 N",
+        "B AH1 D IY0",
+        "V IY1",
+        "B IH1 T",
+        "R EY1 N",
+        "L EY1 T L IY0",
+        "DH OW1",
+        "Y AA1 R D Z",
+        "L UH1 K IH0 NG",
+        "M AO1 R",
+        "L AY1 K",
+        "M AA1 R SH"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH AA1",
+        "N OW1",
+        "M IY1 N",
+        "D IY1 L",
+        "S AH1 M",
+        "F L AH1 D IH0 NG",
+        "W EH1 R HH AW2 S",
+        "L AE1 S T",
+        "W IY1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "T AH1 F",
+        "AO1 L",
+        "S AO1 R T IH0 D",
+        "AW1 T",
+        "DH OW1",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "TH AE1 NG K F AH0 L IY0",
+        "B IH1 T",
+        "HH AE1 S AH0 L",
+        "EH1 V R IY0 TH IH2 NG Z",
+        "B AE1 K",
+        "T R AE1 K",
+        "S P IY1 K IH0 NG",
+        "HH AE1 S AH0 L Z",
+        "EH1 S",
+        "T AY1 L",
+        "JH AA1 B",
+        "K AH1 M IH0 NG",
+        "AH0 L AO1 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "K AH1 M IH0 NG",
+        "AH0 L AO1 NG",
+        "AO2 L R AY1 T",
+        "N OW1",
+        "F L AO1 R",
+        "K AH1 V ER0 IH0 NG",
+        "N EH1 V ER0",
+        "IY1 Z IY0",
+        "L UH1 K S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "L AY1 K",
+        "K IY1 P IH0 NG",
+        "T R AE1 K",
+        "AO1 L",
+        "SH IH1 P M AH0 N T S",
+        "W EH1 R HH AW2 S",
+        "S AW1 N D Z",
+        "IY1 Z IY0",
+        "TH IH1 R IY0",
+        "EH1 S",
+        "AO1 L W EY2 Z",
+        "S AH1 M",
+        "S M AO1 L",
+        "D IH0 T EY1 L",
+        "TH R OW1 Z",
+        "M AH1 NG K IY0",
+        "R EH1 N CH",
+        "IH1 N T UW0",
+        "TH IH1 NG Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AA1",
+        "S AW1 N D Z",
+        "AH0 B AW1 T",
+        "R AY1 T",
+        "AO1 L",
+        "D IH0 T EY1 L Z",
+        "[UNK]",
+        "[UNK]",
+        "D UW1",
+        "M AE1 N AH0 JH",
+        "AO1 L",
+        "JH OW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "L AA1 T",
+        "JH AH1 G AH0 L IH0 NG",
+        "HH AE1 V IH0 NG",
+        "G UH1 D",
+        "T IY1 M",
+        "M EY1 K S",
+        "AO1 L",
+        "D IH1 F ER0 AH0 N S",
+        "N OW1",
+        "S T AH1 F",
+        "R EY1",
+        "AO1 L W EY2 Z",
+        "T AA1 P",
+        "TH IH1 NG Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "JH OW1",
+        "G UH1 D",
+        "T IY1 M",
+        "M EY1 K S",
+        "AO1 L",
+        "D IH1 F ER0 AH0 N S",
+        "S EY1 M",
+        "TH IH1 NG",
+        "L AY1 N",
+        "W ER1 K",
+        "K AH1 P AH0 L",
+        "G AY1 Z",
+        "HH UW1",
+        "R IH1 L IY0",
+        "N OW1",
+        "B IH1 Z N AH0 S",
+        "D UW1",
+        "W IH0 TH AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "R EH1 K AH0 N",
+        "S EY1 M",
+        "EH1 N IY0",
+        "P R AH0 F EH1 SH AH0 N",
+        "IH1 F",
+        "G UH1 D",
+        "P IY1 P AH0 L",
+        "HH AE1 F",
+        "B AE1 T AH0 L Z",
+        "W AH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "[UNK]",
+        "JH OW1",
+        "W EH1 L",
+        "R AH1 N",
+        "JH AA1 B",
+        "OW1 V ER0",
+        "P R AA1 V AH0 D AH0 N S",
+        "T AH0 D EY1",
+        "T EY1 K",
+        "K EH1 R",
+        "AO2 L R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "SH UH1 R",
+        "TH IH1 NG",
+        "M AY1 K",
+        "G UH1 D",
+        "L AH1 K",
+        "JH AA1 B",
+        "K AE1 CH",
+        "L EY1 T ER0"
+      ]
+    }
+  ]
+}

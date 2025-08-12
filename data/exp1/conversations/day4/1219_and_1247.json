@@ -1,0 +1,307 @@
+{
+  "speaker1": 1219,
+  "speaker2": 1247,
+  "original_conversation": "Speaker 1: Good morning, it's such a lovely day, isn't it?\nSpeaker 2: Absolutely! The weather's been so unpredictable lately.\nSpeaker 1: It certainly has been. But that's New England for you, always keeps us on our toes.\nSpeaker 2: Haha, you can say that again. By the way, have you seen the new people who moved in down the street?\nSpeaker 1: Oh yes, the Johnsons, right? I saw them moving in the other day. Seems like a nice family. \nSpeaker 2: Yes, they seem very pleasant. It's always nice to have new neighbors. Speaking of new, how's your new position at work going?\nSpeaker 1: Oh, it's been quite a roller coaster, but I'm enjoying it. The team's great, and there's always something new to learn as a management supervisor.\nSpeaker 2: That sounds like a challenging job. I can't even imagine managing a team and making sure everything runs smoothly.\nSpeaker 1: Yes, it's definitely a lot of responsibility. But, it's also very rewarding. How about you? How's work at the supermarket?\nSpeaker 2: It's alright, keeps me busy. You'd be surprised how much there is to do as a cashier, especially during the rush hours.\nSpeaker 1: I can imagine. It must be quite fast-paced at times, especially with all the new self-service checkouts and technology coming in.\nSpeaker 2: Exactly! Sometimes I feel like I'm more of a tech support than a cashier. But I do enjoy the interaction with customers.\nSpeaker 1: That's one thing I miss about being in an office all day. But we try to maintain a good team spirit, so it's not all paperwork and meetings.\nSpeaker 2: That sounds nice. Well, at least we both have jobs that keep us on our toes, just like New England weather, right?\nSpeaker 1: Haha, that's one way to put it! But yes, every day brings something new. That's what makes it interesting.\nSpeaker 2: I couldn't agree more. Anyway, I better get going. The supermarket won't run itself.\nSpeaker 1: Of course, have a good day at work. We should catch up again soon.\nSpeaker 2: Definitely, let's do that. Have a great day, too.",
+  "cleaned_conversation": "Speaker 1: good morning, such lovely day, isn't ?\nSpeaker 2: absolutely! weather's unpredictable lately.\nSpeaker 1: certainly . new england , always keeps us toes.\nSpeaker 2: haha, can say again. by way, seen new people who moved down street?\nSpeaker 1: yes, johnsons, right? saw moving other day. seems like nice family.\nSpeaker 2: yes, seem very pleasant. always nice new neighbors. speaking new, 's your new position work going?\nSpeaker 1: , quite roller coaster, enjoying . team's great, 's always something new learn management supervisor.\nSpeaker 2: sounds like challenging job. can't even imagine managing team making sure everything runs smoothly.\nSpeaker 1: yes, definitely lot responsibility. , also very rewarding. about ? 's work supermarket?\nSpeaker 2: alright, keeps me busy. be surprised much do cashier, especially during rush hours.\nSpeaker 1: can imagine. must be quite fast-paced times, especially all new self-service checkouts technology coming .\nSpeaker 2: exactly! sometimes feel like more tech support cashier. do enjoy interaction customers.\nSpeaker 1: one thing miss about being office all day. try maintain good team spirit, all paperwork meetings.\nSpeaker 2: sounds nice. well, least both jobs keep us toes, like new england weather, right?\nSpeaker 1: haha, one way put ! yes, every day brings something new. makes interesting.\nSpeaker 2: agree more. anyway, better going. supermarket won't run itself.\nSpeaker 1: course, good day work. catch up again soon.\nSpeaker 2: definitely, let's do . great day, too.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "S AH1 CH",
+        "L AH1 V L IY0",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "W EH1 DH ER0 Z",
+        "AH2 N P R IH0 D IH1 K T AH0 B AH0 L",
+        "L EY1 T L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S ER1 T AH0 N L IY0",
+        "[UNK]",
+        "N UW1",
+        "IH1 NG G L AH0 N D",
+        "[UNK]",
+        "AO1 L W EY2 Z",
+        "K IY1 P S",
+        "AH1 S",
+        "T OW1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "S EY1",
+        "AH0 G EH1 N",
+        "B AY1",
+        "W EY1",
+        "S IY1 N",
+        "N UW1",
+        "P IY1 P AH0 L",
+        "HH UW1",
+        "M UW1 V D",
+        "D AW1 N",
+        "S T R IY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "JH AA1 N S AH0 N Z",
+        "R AY1 T",
+        "S AO1",
+        "M UW1 V IH0 NG",
+        "AH1 DH ER0",
+        "D EY1",
+        "S IY1 M Z",
+        "L AY1 K",
+        "N AY1 S",
+        "F AE1 M AH0 L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "Y EH1 S",
+        "S IY1 M",
+        "V EH1 R IY0",
+        "P L EH1 Z AH0 N T",
+        "AO1 L W EY2 Z",
+        "N AY1 S",
+        "N UW1",
+        "N EY1 B ER0 Z",
+        "S P IY1 K IH0 NG",
+        "N UW1",
+        "EH1 S",
+        "Y AO1 R",
+        "N UW1",
+        "P AH0 Z IH1 SH AH0 N",
+        "W ER1 K",
+        "G OW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "K W AY1 T",
+        "R OW1 L ER0",
+        "K OW1 S T ER0",
+        "EH2 N JH OY1 IH0 NG",
+        "[UNK]",
+        "T IY1 M Z",
+        "G R EY1 T",
+        "EH1 S",
+        "AO1 L W EY2 Z",
+        "S AH1 M TH IH0 NG",
+        "N UW1",
+        "L ER1 N",
+        "M AE1 N AH0 JH M AH0 N T",
+        "S UW1 P ER0 V AY2 Z ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AY1 K",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "JH AA1 B",
+        "K AE1 N T",
+        "IY1 V IH0 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AE1 N AH0 JH IH0 NG",
+        "T IY1 M",
+        "M EY1 K IH0 NG",
+        "SH UH1 R",
+        "EH1 V R IY0 TH IH2 NG",
+        "R AH1 N Z",
+        "S M UW1 DH L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "D EH1 F AH0 N AH0 T L IY0",
+        "L AA1 T",
+        "R IY0 S P AA2 N S AH0 B IH1 L AH0 T IY0",
+        "[UNK]",
+        "AO1 L S OW0",
+        "V EH1 R IY0",
+        "R IH0 W AO1 R D IH0 NG",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "EH1 S",
+        "W ER1 K",
+        "S UW1 P ER0 M AA2 R K IH0 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AO2 L R AY1 T",
+        "K IY1 P S",
+        "M IY1",
+        "B IH1 Z IY0",
+        "B IY1",
+        "S ER0 P R AY1 Z D",
+        "M AH1 CH",
+        "D UW1",
+        "K AE0 SH IH1 R",
+        "AH0 S P EH1 SH L IY0",
+        "D UH1 R IH0 NG",
+        "R AH1 SH",
+        "AW1 ER0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "B IY1",
+        "K W AY1 T",
+        "[UNK]",
+        "T AY1 M Z",
+        "AH0 S P EH1 SH L IY0",
+        "AO1 L",
+        "N UW1",
+        "[UNK]",
+        "CH EH1 K AW2 T S",
+        "T EH0 K N AA1 L AH0 JH IY0",
+        "K AH1 M IH0 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "S AH0 M T AY1 M Z",
+        "F IY1 L",
+        "L AY1 K",
+        "M AO1 R",
+        "T EH1 K",
+        "S AH0 P AO1 R T",
+        "K AE0 SH IH1 R",
+        "D UW1",
+        "EH2 N JH OY1",
+        "IH2 N T ER0 AE1 K SH AH0 N",
+        "K AH1 S T AH0 M ER0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W AH1 N",
+        "TH IH1 NG",
+        "M IH1 S",
+        "AH0 B AW1 T",
+        "B IY1 IH0 NG",
+        "AO1 F AH0 S",
+        "AO1 L",
+        "D EY1",
+        "T R AY1",
+        "M EY0 N T EY1 N",
+        "G UH1 D",
+        "T IY1 M",
+        "S P IH1 R AH0 T",
+        "AO1 L",
+        "P EY1 P ER0 W ER2 K",
+        "M IY1 T IH0 NG Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "N AY1 S",
+        "W EH1 L",
+        "L IY1 S T",
+        "B OW1 TH",
+        "JH AA1 B Z",
+        "K IY1 P",
+        "AH1 S",
+        "T OW1 Z",
+        "L AY1 K",
+        "N UW1",
+        "IH1 NG G L AH0 N D",
+        "W EH1 DH ER0",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "W AH1 N",
+        "W EY1",
+        "P UH1 T",
+        "[UNK]",
+        "Y EH1 S",
+        "EH1 V ER0 IY0",
+        "D EY1",
+        "B R IH1 NG Z",
+        "S AH1 M TH IH0 NG",
+        "N UW1",
+        "M EY1 K S",
+        "IH1 N T AH0 R EH2 S T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AH0 G R IY1",
+        "M AO1 R",
+        "EH1 N IY0 W EY2",
+        "B EH1 T ER0",
+        "G OW1 IH0 NG",
+        "S UW1 P ER0 M AA2 R K IH0 T",
+        "W OW1 N T",
+        "R AH1 N",
+        "IH2 T S EH1 L F"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AO1 R S",
+        "G UH1 D",
+        "D EY1",
+        "W ER1 K",
+        "K AE1 CH",
+        "AH1 P",
+        "AH0 G EH1 N",
+        "S UW1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "L EH1 T S",
+        "D UW1",
+        "[UNK]",
+        "G R EY1 T",
+        "D EY1",
+        "T UW1"
+      ]
+    }
+  ]
+}

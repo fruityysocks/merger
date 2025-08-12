@@ -1,0 +1,261 @@
+{
+  "speaker1": 1240,
+  "speaker2": 1214,
+  "original_conversation": "Speaker 1: Hi there! Beautiful day, isn't it?\nSpeaker 2: Oh, absolutely! I love the spring weather around here. \nSpeaker 1: You're right. The cherry blossoms are really putting on a show this season. \nSpeaker 2: They always do. It's one of my favorite times of the year. But there's always a lot of cleaning to do afterwards. \nSpeaker 1: True, it's a bit of a hassle. It reminds me of my work, actually. \nSpeaker 2: Oh, how's that?\nSpeaker 1: Well, I work in IT, so it's a lot of problem-solving and cleaning up digital messes. \nSpeaker 2: Ah, I see. That sounds quite challenging.\nSpeaker 1: It can be, but it's also rewarding. I enjoy the process. How about you? How do you find your job?\nSpeaker 2: Well, being a cocktail waitress isn't easy. You deal with all sorts of people, and it can be quite physically demanding at times.\nSpeaker 1: I can imagine. But I bet it also has its fun moments, right?\nSpeaker 2: It does! I mean, there are some really interesting characters who come into the bar, and I do love mixing drinks.\nSpeaker 1: I've always admired that skill. It's kind of like coding in a way, getting the right mix of ingredients for the desired outcome.\nSpeaker 2: That's a nice way to put it! But instead of codes, I deal with cocktails! \nSpeaker 1: Exactly! And instead of servers, you deal with customers. Quite an interesting contrast, isn't it?\nSpeaker 2: It sure is! But at the end of the day, we both provide a service. \nSpeaker 1: You're right. And despite the challenges, it's the satisfaction of helping people that makes it worthwhile. \nSpeaker 2: Couldn't agree more! It's always about making someone's day a bit better.",
+  "cleaned_conversation": "Speaker 1: hi ! beautiful day, isn't ?\nSpeaker 2: , absolutely! love spring weather around here.\nSpeaker 1: 're right. cherry blossoms really putting show this season.\nSpeaker 2: always do. one favorite times year. 's always lot cleaning do afterwards.\nSpeaker 1: true, bit hassle. reminds me work, actually.\nSpeaker 2: , 's ?\nSpeaker 1: well, work , lot problem-solving cleaning up digital messes.\nSpeaker 2: , see. sounds quite challenging.\nSpeaker 1: can be, also rewarding. enjoy process. about ? do find your job?\nSpeaker 2: well, being cocktail waitress isn't easy. deal all sorts people, can be quite physically demanding times.\nSpeaker 1: can imagine. bet also fun moments, right?\nSpeaker 2: does! mean, some really interesting characters who come into bar, do love mixing drinks.\nSpeaker 1: always admired skill. kind like coding way, getting right mix ingredients desired outcome.\nSpeaker 2: nice way put ! instead codes, deal cocktails!\nSpeaker 1: exactly! instead servers, deal customers. quite interesting contrast, isn't ?\nSpeaker 2: sure ! end day, both provide service.\nSpeaker 1: 're right. despite challenges, satisfaction helping people makes worthwhile.\nSpeaker 2: agree more! always about making someone's day bit better.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AY1",
+        "[UNK]",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "AE2 B S AH0 L UW1 T L IY0",
+        "L AH1 V",
+        "S P R IH1 NG",
+        "W EH1 DH ER0",
+        "ER0 AW1 N D",
+        "HH IY1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "R AY1 T",
+        "CH EH1 R IY0",
+        "B L AA1 S AH0 M Z",
+        "R IH1 L IY0",
+        "P AH1 T IH0 NG",
+        "SH OW1",
+        "DH IH1 S",
+        "S IY1 Z AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AO1 L W EY2 Z",
+        "D UW1",
+        "W AH1 N",
+        "F EY1 V ER0 IH0 T",
+        "T AY1 M Z",
+        "Y IH1 R",
+        "EH1 S",
+        "AO1 L W EY2 Z",
+        "L AA1 T",
+        "K L IY1 N IH0 NG",
+        "D UW1",
+        "AE1 F T ER0 W ER0 D Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "B IH1 T",
+        "HH AE1 S AH0 L",
+        "R IY0 M AY1 N D Z",
+        "M IY1",
+        "W ER1 K",
+        "AE1 K CH UW2 AH0 L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "EH1 S",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "W ER1 K",
+        "[UNK]",
+        "L AA1 T",
+        "[UNK]",
+        "K L IY1 N IH0 NG",
+        "AH1 P",
+        "D IH1 JH AH0 T AH0 L",
+        "M EH1 S IH0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "S IY1",
+        "S AW1 N D Z",
+        "K W AY1 T",
+        "CH AE1 L AH0 N JH IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "B IY1",
+        "AO1 L S OW0",
+        "R IH0 W AO1 R D IH0 NG",
+        "EH2 N JH OY1",
+        "P R AA1 S EH2 S",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "D UW1",
+        "F AY1 N D",
+        "Y AO1 R",
+        "JH AA1 B"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "B IY1 IH0 NG",
+        "K AA1 K T EY2 L",
+        "W EY1 T R AH0 S",
+        "[UNK]",
+        "IY1 Z IY0",
+        "D IY1 L",
+        "AO1 L",
+        "S AO1 R T S",
+        "P IY1 P AH0 L",
+        "K AE1 N",
+        "B IY1",
+        "K W AY1 T",
+        "F IH1 Z IH0 K AH0 L IY0",
+        "D IH0 M AE1 N D IH0 NG",
+        "T AY1 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "B EH1 T",
+        "AO1 L S OW0",
+        "F AH1 N",
+        "M OW1 M AH0 N T S",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D AH1 Z",
+        "M IY1 N",
+        "S AH1 M",
+        "R IH1 L IY0",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "K AE1 R IH0 K T ER0 Z",
+        "HH UW1",
+        "K AH1 M",
+        "IH1 N T UW0",
+        "B AA1 R",
+        "D UW1",
+        "L AH1 V",
+        "M IH1 K S IH0 NG",
+        "D R IH1 NG K S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AO1 L W EY2 Z",
+        "AH0 D M AY1 ER0 D",
+        "S K IH1 L",
+        "K AY1 N D",
+        "L AY1 K",
+        "K OW1 D IH0 NG",
+        "W EY1",
+        "G EH1 T IH0 NG",
+        "R AY1 T",
+        "M IH1 K S",
+        "IH2 N G R IY1 D IY0 AH0 N T S",
+        "D IH0 Z AY1 ER0 D",
+        "AW1 T K AH2 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "N AY1 S",
+        "W EY1",
+        "P UH1 T",
+        "[UNK]",
+        "IH2 N S T EH1 D",
+        "K OW1 D Z",
+        "D IY1 L",
+        "K AA1 K T EY2 L Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "IH2 N S T EH1 D",
+        "S ER1 V ER0 Z",
+        "D IY1 L",
+        "K AH1 S T AH0 M ER0 Z",
+        "K W AY1 T",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "K AA1 N T R AE0 S T",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "SH UH1 R",
+        "[UNK]",
+        "EH1 N D",
+        "D EY1",
+        "B OW1 TH",
+        "P R AH0 V AY1 D",
+        "S ER1 V AH0 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "R AY1 T",
+        "D IH0 S P AY1 T",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "S AE2 T AH0 S F AE1 K SH AH0 N",
+        "HH EH1 L P IH0 NG",
+        "P IY1 P AH0 L",
+        "M EY1 K S",
+        "W ER1 TH W AY1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AH0 G R IY1",
+        "M AO1 R",
+        "AO1 L W EY2 Z",
+        "AH0 B AW1 T",
+        "M EY1 K IH0 NG",
+        "[UNK]",
+        "D EY1",
+        "B IH1 T",
+        "B EH1 T ER0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "speaker1": 1238,
+  "speaker2": 1211,
+  "original_conversation": "Speaker 1: Good afternoon! Beautiful day, isn't it?\n\nSpeaker 2: Absolutely! The weather has been really pleasant lately. How've you been?\n\nSpeaker 1: Not too bad, thanks for asking. Been pretty busy with work. You doing alright?\n\nSpeaker 2: Yeah, I've been good. Just trying to keep up with my classes. It's been a hectic semester.\n\nSpeaker 1: I can only imagine. What are you studying again?\n\nSpeaker 2: I'm doing my major in Psychology. It's a lot of reading and understanding how the mind works.\n\nSpeaker 1: Ah, Psychology. That must be fascinating. You know, my job as a claims adjuster often involves understanding people too.\n\nSpeaker 2: Really? How so?\n\nSpeaker 1: Well, you see, when there's a claim, I have to investigate the details, talk to the people involved. You won't believe the stories I hear. \n\nSpeaker 2: That does sound interesting. I never thought about it that way.\n\nSpeaker 1: Yeah, it's not just about crunching numbers. It's about people, their situations. It can be quite challenging sometimes.\n\nSpeaker 2: I can relate to that. Dealing with people and their emotions is a big part of my study too.\n\nSpeaker 1: Exactly, so you understand. It's a bit similar, just in a different context.\n\nSpeaker 2: Yeah, it's fascinating how our professions overlap. \n\nSpeaker 1: Indeed, it is. You never know where you'll find connections.\n\nSpeaker 2: I agree. It's all about understanding people at the end of the day, isn't it?\n\nSpeaker 1: Couldn't have said it better myself. Anyway, it was nice catching up. We should do this more often.\n\nSpeaker 2: Definitely! It's always nice to have a chat with a neighbor. Have a good day!\n\nSpeaker 1: You too, take care!",
+  "cleaned_conversation": "Speaker 1: good afternoon! beautiful day, isn't ?\nSpeaker 2: absolutely! weather really pleasant lately. 've ?\nSpeaker 1: too bad, thanks asking. pretty busy work. doing alright?\nSpeaker 2: , good. trying keep up classes. hectic semester.\nSpeaker 1: can only imagine. studying again?\nSpeaker 2: doing major psychology. lot reading understanding mind works.\nSpeaker 1: , psychology. must be fascinating. know, job claims adjuster often involves understanding people too.\nSpeaker 2: really? ?\nSpeaker 1: well, see, 's claim, investigate details, talk people involved. won't believe stories hear.\nSpeaker 2: does sound interesting. never thought about way.\nSpeaker 1: , about crunching numbers. about people, situations. can be quite challenging sometimes.\nSpeaker 2: can relate . dealing people emotions big part study too.\nSpeaker 1: exactly, understand. bit similar, different context.\nSpeaker 2: , fascinating professions overlap.\nSpeaker 1: indeed, . never know find connections.\nSpeaker 2: agree. all about understanding people end day, isn't ?\nSpeaker 1: said better myself. anyway, nice catching up. do this more often.\nSpeaker 2: definitely! always nice chat neighbor. good day!\nSpeaker 1: too, take care!",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "AE2 F T ER0 N UW1 N",
+        "B Y UW1 T AH0 F AH0 L",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "W EH1 DH ER0",
+        "R IH1 L IY0",
+        "P L EH1 Z AH0 N T",
+        "L EY1 T L IY0",
+        "V IY1",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T UW1",
+        "B AE1 D",
+        "TH AE1 NG K S",
+        "AE1 S K IH0 NG",
+        "P R IH1 T IY0",
+        "B IH1 Z IY0",
+        "W ER1 K",
+        "D UW1 IH0 NG",
+        "AO2 L R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "G UH1 D",
+        "T R AY1 IH0 NG",
+        "K IY1 P",
+        "AH1 P",
+        "K L AE1 S AH0 Z",
+        "HH EH1 K T IH0 K",
+        "S AH0 M EH1 S T ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "S T AH1 D IY0 IH0 NG",
+        "AH0 G EH1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D UW1 IH0 NG",
+        "M EY1 JH ER0",
+        "S AY0 K AA1 L AH0 JH IY0",
+        "L AA1 T",
+        "R IY1 D IH0 NG",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "M AY1 N D",
+        "W ER1 K S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "S AY0 K AA1 L AH0 JH IY0",
+        "M AH1 S T",
+        "B IY1",
+        "F AE1 S AH0 N EY2 T IH0 NG",
+        "N OW1",
+        "JH AA1 B",
+        "K L EY1 M Z",
+        "AH0 JH AH1 S T ER0",
+        "AO1 F T AH0 N",
+        "IH2 N V AA1 L V Z",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "P IY1 P AH0 L",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "R IH1 L IY0",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "S IY1",
+        "EH1 S",
+        "K L EY1 M",
+        "IH2 N V EH1 S T AH0 G EY2 T",
+        "D IH0 T EY1 L Z",
+        "T AO1 K",
+        "P IY1 P AH0 L",
+        "IH2 N V AA1 L V D",
+        "W OW1 N T",
+        "B IH0 L IY1 V",
+        "S T AO1 R IY0 Z",
+        "HH IY1 R"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D AH1 Z",
+        "S AW1 N D",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "N EH1 V ER0",
+        "TH AO1 T",
+        "AH0 B AW1 T",
+        "W EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "AH0 B AW1 T",
+        "K R AH1 N CH IH0 NG",
+        "N AH1 M B ER0 Z",
+        "AH0 B AW1 T",
+        "P IY1 P AH0 L",
+        "S IH2 CH UW0 EY1 SH AH0 N Z",
+        "K AE1 N",
+        "B IY1",
+        "K W AY1 T",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "S AH0 M T AY1 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "R IH0 L EY1 T",
+        "[UNK]",
+        "D IY1 L IH0 NG",
+        "P IY1 P AH0 L",
+        "IH0 M OW1 SH AH0 N Z",
+        "B IH1 G",
+        "P AA1 R T",
+        "S T AH1 D IY0",
+        "T UW1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH0 G Z AE1 K T L IY0",
+        "AH2 N D ER0 S T AE1 N D",
+        "B IH1 T",
+        "S IH1 M AH0 L ER0",
+        "D IH1 F ER0 AH0 N T",
+        "K AA1 N T EH0 K S T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "F AE1 S AH0 N EY2 T IH0 NG",
+        "P R AH0 F EH1 SH AH0 N Z",
+        "OW1 V ER0 L AE2 P"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 N D IY1 D",
+        "[UNK]",
+        "N EH1 V ER0",
+        "N OW1",
+        "F AY1 N D",
+        "K AH0 N EH1 K SH AH0 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AH0 G R IY1",
+        "AO1 L",
+        "AH0 B AW1 T",
+        "AH2 N D ER0 S T AE1 N D IH0 NG",
+        "P IY1 P AH0 L",
+        "EH1 N D",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S EH1 D",
+        "B EH1 T ER0",
+        "M AY2 S EH1 L F",
+        "EH1 N IY0 W EY2",
+        "N AY1 S",
+        "K AE1 CH IH0 NG",
+        "AH1 P",
+        "D UW1",
+        "DH IH1 S",
+        "M AO1 R",
+        "AO1 F T AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "D EH1 F AH0 N AH0 T L IY0",
+        "AO1 L W EY2 Z",
+        "N AY1 S",
+        "CH AE1 T",
+        "N EY1 B ER0",
+        "G UH1 D",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T UW1",
+        "T EY1 K",
+        "K EH1 R"
+      ]
+    }
+  ]
+}

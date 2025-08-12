@@ -18,7 +18,7 @@ def strip_trailing_punctuation(df, column_name):
     return df
 
 
-df = pd.read_csv("data/day3Vowels.csv")
+df = pd.read_csv("data/exp1/csvs/day10Vowels.csv")
 print(df.columns.tolist()) 
 
 print("Before:")
@@ -29,10 +29,10 @@ df_clean = strip_trailing_punctuation(df, 'word')
 print("\nAfter:")
 print(df_clean)
 
-output = 'data/day3VowelsClean.csv'
+output = 'data/exp1/csvs/day10VowelsClean.csv'
 df_clean.to_csv(output, index=False)
 
-df = pd.read_csv("data/day3VowelsClean.csv")
+df = pd.read_csv("data/exp1/csvs/day10VowelsClean.csv")
 df_sorted = df.sort_values(by=['speaker1_id', 'speaker', 'vowel'])
-output = 'data/day3VowelsClean.csv'
+output = 'data/exp1/csvs/day10VowelsClean.csv'
 df_sorted.to_csv(output, index=False)

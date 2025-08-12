@@ -1,0 +1,270 @@
+{
+  "speaker1": 1207,
+  "speaker2": 1208,
+  "original_conversation": "Speaker 1: Hi there, lovely day, isn't it? \nSpeaker 2: Oh, it sure is! Almost makes up for all the rain we've had lately.\nSpeaker 1: No doubt, my garden is practically underwater. You've got a garden too, right?\nSpeaker 2: Yeah, I do. It's been a bit of a struggle keeping it afloat. I've been trying to find plants that can handle all this water. \nSpeaker 1: Same here. It's almost like a part-time job, isn't it?\nSpeaker 2: You can say that again! Speaking of jobs, how's your business going? \nSpeaker 1: Oh, it\u2019s been keeping me busy! Being self-employed is a double-edged sword, you know. I love the freedom but the responsibility is immense.\nSpeaker 2: I can only imagine. It must be hard making all the decisions yourself.\nSpeaker 1: Yes, it has its moments. But it's rewarding too. How about you? How's marketing treating you?\nSpeaker 2: Well, it has its ups and downs. It's a fast-paced world, so you can never really get too comfortable. \nSpeaker 1: Oh, I can imagine. You must have to keep up with all the new trends and technologies. \nSpeaker 2: Absolutely, it's a continuous learning process. But that\u2019s part of why I love it. Keeps things interesting.\nSpeaker 1: That\u2019s a great way to look at it! I guess we both have jobs that keep us on our toes.\nSpeaker 2: Seems like it, doesn\u2019t it? Maybe that's what makes us good at dealing with our flood-like gardens.\nSpeaker 1: Haha, perhaps! Well, I better get back to my work. Got a client project to finish. \nSpeaker 2: Sounds good. I've got a campaign to plan myself. It was nice catching up! Let's do it again soon. \nSpeaker 1: Absolutely, I'd love that. Have a great day!\nSpeaker 2: You too! Take care.",
+  "cleaned_conversation": "Speaker 1: hi , lovely day, isn't ?\nSpeaker 2: , sure ! almost makes up all rain lately.\nSpeaker 1: no doubt, garden practically underwater. garden too, right?\nSpeaker 2: , do. bit struggle keeping afloat. trying find plants can handle all this water.\nSpeaker 1: same here. almost like part-time job, isn't ?\nSpeaker 2: can say again! speaking jobs, 's your business going?\nSpeaker 1: , \u2019s keeping me busy! being self-employed double-edged sword, know. love freedom responsibility immense.\nSpeaker 2: can only imagine. must be hard making all decisions yourself.\nSpeaker 1: yes, moments. rewarding too. about ? 's marketing treating ?\nSpeaker 2: well, ups downs. fast-paced world, can never really too comfortable.\nSpeaker 1: , can imagine. must keep up all new trends technologies.\nSpeaker 2: absolutely, continuous learning process. \u2019s part why love . keeps things interesting.\nSpeaker 1: \u2019s great way look ! guess both jobs keep us toes.\nSpeaker 2: seems like , doesn\u2019t ? maybe makes us good dealing flood-like gardens.\nSpeaker 1: haha, perhaps! well, better back work. client project finish.\nSpeaker 2: sounds good. campaign plan myself. nice catching up! let's do again soon.\nSpeaker 1: absolutely, love . great day!\nSpeaker 2: too! take care.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AY1",
+        "[UNK]",
+        "L AH1 V L IY0",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "SH UH1 R",
+        "[UNK]",
+        "AO1 L M OW2 S T",
+        "M EY1 K S",
+        "AH1 P",
+        "AO1 L",
+        "R EY1 N",
+        "L EY1 T L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "N OW1",
+        "D AW1 T",
+        "G AA1 R D AH0 N",
+        "P R AE1 K T IH0 K AH0 L IY0",
+        "AH1 N D ER0 W AO2 T ER0",
+        "G AA1 R D AH0 N",
+        "T UW1",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "D UW1",
+        "B IH1 T",
+        "S T R AH1 G AH0 L",
+        "K IY1 P IH0 NG",
+        "AH0 F L OW1 T",
+        "T R AY1 IH0 NG",
+        "F AY1 N D",
+        "P L AE1 N T S",
+        "K AE1 N",
+        "HH AE1 N D AH0 L",
+        "AO1 L",
+        "DH IH1 S",
+        "W AO1 T ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "S EY1 M",
+        "HH IY1 R",
+        "AO1 L M OW2 S T",
+        "L AY1 K",
+        "P AA1 R T T AY2 M",
+        "JH AA1 B",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "S EY1",
+        "AH0 G EH1 N",
+        "S P IY1 K IH0 NG",
+        "JH AA1 B Z",
+        "EH1 S",
+        "Y AO1 R",
+        "B IH1 Z N AH0 S",
+        "G OW1 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "EH1 S",
+        "K IY1 P IH0 NG",
+        "M IY1",
+        "B IH1 Z IY0",
+        "B IY1 IH0 NG",
+        "[UNK]",
+        "[UNK]",
+        "S AO1 R D",
+        "N OW1",
+        "L AH1 V",
+        "F R IY1 D AH0 M",
+        "R IY0 S P AA2 N S AH0 B IH1 L AH0 T IY0",
+        "IH2 M EH1 N S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "B IY1",
+        "HH AA1 R D",
+        "M EY1 K IH0 NG",
+        "AO1 L",
+        "D IH0 S IH1 ZH AH0 N Z",
+        "Y ER0 S EH1 L F"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "M OW1 M AH0 N T S",
+        "R IH0 W AO1 R D IH0 NG",
+        "T UW1",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "EH1 S",
+        "M AA1 R K AH0 T IH0 NG",
+        "T R IY1 T IH0 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "AH1 P S",
+        "D AW1 N Z",
+        "[UNK]",
+        "W ER1 L D",
+        "K AE1 N",
+        "N EH1 V ER0",
+        "R IH1 L IY0",
+        "T UW1",
+        "K AH1 M F ER0 T AH0 B AH0 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "K AE1 N",
+        "IH2 M AE1 JH AH0 N",
+        "M AH1 S T",
+        "K IY1 P",
+        "AH1 P",
+        "AO1 L",
+        "N UW1",
+        "T R EH1 N D Z",
+        "T EH0 K N AA1 L AH0 JH IY0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "K AH0 N T IH1 N Y UW0 AH0 S",
+        "L ER1 N IH0 NG",
+        "P R AA1 S EH2 S",
+        "EH1 S",
+        "P AA1 R T",
+        "W AY1",
+        "L AH1 V",
+        "[UNK]",
+        "K IY1 P S",
+        "TH IH1 NG Z",
+        "IH1 N T AH0 R EH2 S T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "EH1 S",
+        "G R EY1 T",
+        "W EY1",
+        "L UH1 K",
+        "[UNK]",
+        "G EH1 S",
+        "B OW1 TH",
+        "JH AA1 B Z",
+        "K IY1 P",
+        "AH1 S",
+        "T OW1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S IY1 M Z",
+        "L AY1 K",
+        "[UNK]",
+        "[UNK]",
+        "[UNK]",
+        "M EY1 B IY0",
+        "M EY1 K S",
+        "AH1 S",
+        "G UH1 D",
+        "D IY1 L IH0 NG",
+        "[UNK]",
+        "G AA1 R D AH0 N Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "P ER0 HH AE1 P S",
+        "W EH1 L",
+        "B EH1 T ER0",
+        "B AE1 K",
+        "W ER1 K",
+        "K L AY1 AH0 N T",
+        "P R AA1 JH EH0 K T",
+        "F IH1 N IH0 SH"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "G UH1 D",
+        "K AE0 M P EY1 N",
+        "P L AE1 N",
+        "M AY2 S EH1 L F",
+        "N AY1 S",
+        "K AE1 CH IH0 NG",
+        "AH1 P",
+        "L EH1 T S",
+        "D UW1",
+        "AH0 G EH1 N",
+        "S UW1 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "L AH1 V",
+        "[UNK]",
+        "G R EY1 T",
+        "D EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T UW1",
+        "T EY1 K",
+        "K EH1 R"
+      ]
+    }
+  ]
+}

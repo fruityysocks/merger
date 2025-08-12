@@ -3783,3 +3783,670 @@ UW,1,D,,"do,",D UW1,2,1665.0,1281.0,1665.0_and_1281.0.json
 EY,1,S,M,same,S EY1 M,2,1665.0,1281.0,1665.0_and_1281.0.json
 EY,1,T,K,take,T EY1 K,2,1665.0,1281.0,1665.0_and_1281.0.json
 EH,1,K,R,care.,K EH1 R,2,1665.0,1281.0,1665.0_and_1281.0.json
+AY,1,HH,,hi,HH AY1,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,N,S,nice,N AY1 S,1,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,D,,day,D EY1,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,HH,V,"having,",HH AE1 V IH0 NG,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,Y,S,"yes,",Y EH1 S,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,2,,N,indeed!,IH2 N D IY1 D,2,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,,S,ask,AE1 S K,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,B,T,better,B EH1 T ER0,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,W,DH,weather.,W EH1 DH ER0,2,1296.0,1946.0,1296.0_and_1946.0.json
+AW,1,,T,out,AW1 T,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,HH,R,here,HH IY1 R,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,T,N,tending,T EH1 N D IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,R,Z,roses,R OW1 Z IH0 Z,2,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,,L,all,AO1 L,2,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,M,R,morning.,M AO1 R N IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,R,,'re,R EY1,1,1296.0,1946.0,1296.0_and_1946.0.json
+UH,1,L,K,looking,L UH1 K IH0 NG,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,F,N,"fantastic,",F AE0 N T AE1 S T IH0 K,1,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,M,S,must,M AH1 S T,1,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,S,,say.,S EY1,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,R,IH0,trying,T R AY1 IH0 NG,1,1296.0,1946.0,1296.0_and_1946.0.json
+UW,1,L,M,bloom,B L UW1 M,1,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,N,,no,N OW1,1,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,L,K,luck,L AH1 K,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,Y,T,yet.,Y EH1 T,1,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,S,M,same,S EY1 M,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,R,B,problem,P R AA1 B L AH0 M,2,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,L,S,last,L AE1 S T,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,Y,R,year.,Y IH1 R,2,1296.0,1946.0,1296.0_and_1946.0.json
+AW,1,F,N,found,F AW1 N D,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,R,L,really,R IH1 L IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,N,D,need,N IY1 D,2,1296.0,1946.0,1296.0_and_1946.0.json
+UH,1,G,D,good,G UH1 D,2,1296.0,1946.0,1296.0_and_1946.0.json
+OY,1,S,L,soil,S OY1 L,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,L,T,lots,L AA1 T S,2,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,W,T,water.,W AO1 T ER0,2,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,M,B,maybe,M EY1 B IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,R,,try,T R AY1,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,M,N,amending,AH0 M EH1 N D IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+OY,1,S,L,soil,S OY1 L,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,B,T,bit?,B IH1 T,2,1296.0,1946.0,1296.0_and_1946.0.json
+UH,1,G,D,good,G UH1 D,1,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,D,AH0,idea.,AY0 D IY1 AH0,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,R,,try,T R AY1,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,TH,NG,thanks!,TH AE1 NG K S,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,N,anytime.,EH1 N IY0 T AY2 M,2,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,G,IH0,going,G OW1 IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,B,L,billing,B IH1 L IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,P,R,department?,D IH0 P AA1 R T M AH0 N T,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,S,'s,EH1 S,1,1296.0,1946.0,1296.0_and_1946.0.json
+UW,1,Y,ZH,usual.,Y UW1 ZH AH0 W AH0 L,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,,N,"invoices,",IH1 N V OY0 S IH0 Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,P,M,"payments,",P EY1 M AH0 N T S,1,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,K,ZH,occasional,AO0 K EY1 ZH AH0 N AH0 L,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,R,P,discrepancies.,D IH0 S K R EH1 P AH0 N S IY0 Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,T,M,sometimes,S AH0 M T AY1 M Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,F,L,feels,F IY1 L Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,L,K,like,L AY1 K,1,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,S,L,solving,S AA1 L V IH0 NG,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,JH,G,jigsaw,JH IH1 G S AO2,1,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,P,Z,puzzle.,P AH1 Z AH0 L,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,K,N,can,K AE1 N,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,2,,M,imagine.,IH2 M AE1 JH AH0 N,2,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,M,S,must,M AH1 S T,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,B,,be,B IY1,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,V,R,very,V EH1 R IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,Y,S,"yes,",Y EH1 S,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,K,N,can't,K AE1 N T,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,M,S,miss,M IH1 S,1,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,B,T,beat.,B IY1 T,1,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,G,IH0,going,G OW1 IH0 NG,1,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,F,R,pharmacy?,F AA1 R M AH0 S IY0,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,S,'s,EH1 S,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,B,Z,busy.,B IH1 Z IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,L,T,lot,L AA1 T,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,P,P,people,P IY1 P AH0 L,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,G,T,getting,G EH1 T IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+UW,1,L,,flu,F L UW1,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,SH,T,"shots,",SH AA1 T S,2,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,K,L,cold,K OW1 L D,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,S,Z,season,S IY1 Z AH0 N,2,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,K,M,coming,K AH1 M IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,,P,"up,",AH1 P,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,T,K,stocking,S T AA1 K IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,,P,up,AH1 P,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,2,M,D,medications.,M EH2 D AH0 K EY1 SH AH0 N Z,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,B,T,bet.,B EH1 T,1,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,M,S,must,M AH1 S T,1,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,T,,stay,S T EY1,1,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,T,P,top,T AA1 P,1,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,,L,all,AO1 L,1,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,L,T,latest,L EY1 T AH0 S T,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,2,M,D,medications,M EH2 D AH0 K EY1 SH AH0 N Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,2,,N,interactions.,IH2 N T ER0 AE1 K SH AH0 N Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,2,,B,absolutely.,AE2 B S AH0 L UW1 T L IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,S,'s,EH1 S,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,K,N,constant,K AA1 N S T AH0 N T,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,R,S,process.,P R AA1 S EH2 S,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,S,'s,EH1 S,2,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,W,R,rewarding,R IH0 W AO1 R D IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,K,N,can,K AE1 N,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,HH,L,help,HH EH1 L P,2,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,S,M,someone,S AH1 M W AH2 N,2,1296.0,1946.0,1296.0_and_1946.0.json
+AH,2,,N,understand,AH2 N D ER0 S T AE1 N D,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,2,M,D,medication,M EH2 D AH0 K EY1 SH AH0 N,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,B,T,better.,B EH1 T ER0,2,1296.0,1946.0,1296.0_and_1946.0.json
+AW,1,S,N,sounds,S AW1 N D Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,F,L,fulfilling,F UH0 L F IH1 L IH0 NG,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,2,,N,indeed.,IH2 N D IY1 D,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,W,SH,wish,W IH1 SH,1,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,JH,B,job,JH AA1 B,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,B,T,bit,B IH1 T,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,T,M,sometimes.,S AH0 M T AY1 M Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,W,L,"well,",W EH1 L,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,V,every,EH1 V ER0 IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,JH,B,job,JH AA1 B,2,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,R,Z,pros,P R OW1 Z,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,K,N,cons.,K AA1 N Z,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,N,end,EH1 N D,2,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,D,,"day,",D EY1,2,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,,L,all,AO1 L,2,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,R,IH0,trying,T R AY1 IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,HH,L,help,HH EH1 L P,2,1296.0,1946.0,1296.0_and_1946.0.json
+AW,1,,T,out,AW1 T,2,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,,N,own,OW1 N,2,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,W,Z,ways.,W EY1 Z,2,1296.0,1946.0,1296.0_and_1946.0.json
+UW,1,R,,true.,T R UW1,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,G,S,guess,G EH1 S,1,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,S,M,someone,S AH1 M W AH2 N,1,1296.0,1946.0,1296.0_and_1946.0.json
+UH,1,SH,R,ensure,EH0 N SH UH1 R,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,V,everyone,EH1 V R IY0 W AH2 N,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,G,T,gets,G EH1 T S,1,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,B,L,bills,B IH1 L Z,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,ER0,K,correct.,K ER0 EH1 K T,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,Z,K,exactly.,IH0 G Z AE1 K T L IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,W,L,"well,",W EH1 L,2,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,N,S,nice,N AY1 S,2,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,K,CH,catching,K AE1 CH IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+AH,1,,P,"up,",AH1 P,2,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,B,K,back,B AE1 K,2,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,R,Z,roses,R OW1 Z IH0 Z,2,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,F,R,before,B IH0 F AO1 R,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,T,R,start,S T AA1 R T,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,W,L,wilting,W IH1 L T IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,DH,S,this,DH IH1 S,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,HH,T,heat.,HH IY1 T,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,L,T,completely,K AH0 M P L IY1 T L IY0,1,1296.0,1946.0,1296.0_and_1946.0.json
+AH,2,,N,understand.,AH2 N D ER0 S T AE1 N D,1,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,R,B,probably,P R AA1 B AH0 B L IY2,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,B,K,back,B AE1 K,1,1296.0,1946.0,1296.0_and_1946.0.json
+AE,1,TH,NG,thanks,TH AE1 NG K S,1,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,G,N,again,AH0 G EH1 N,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,V,S,advice.,AE0 D V AY1 S,1,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,K,R,"course,",K AO1 R S,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,N,anytime.,EH1 N IY0 T AY2 M,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,L,T,let,L EH1 T,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,M,,me,M IY1,2,1296.0,1946.0,1296.0_and_1946.0.json
+OW,1,N,,know,N OW1,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,,F,if,IH1 F,2,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,N,D,need,N IY1 D,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,,N,any,EH1 N IY0,2,1296.0,1946.0,1296.0_and_1946.0.json
+AO,1,M,R,more,M AO1 R,2,1296.0,1946.0,1296.0_and_1946.0.json
+AA,1,G,R,gardening,G AA1 R D AH0 N IH0 NG,2,1296.0,1946.0,1296.0_and_1946.0.json
+IH,1,T,P,tips.,T IH1 P S,2,1296.0,1946.0,1296.0_and_1946.0.json
+UH,1,G,D,good,G UH1 D,2,1296.0,1946.0,1296.0_and_1946.0.json
+EY,1,D,,day!,D EY1,2,1296.0,1946.0,1296.0_and_1946.0.json
+EH,1,W,L,well!,W EH1 L,1,1296.0,1946.0,1296.0_and_1946.0.json
+IY,1,S,,see,S IY1,1,1296.0,1946.0,1296.0_and_1946.0.json
+AW,1,ER0,N,around.,ER0 AW1 N D,1,1296.0,1946.0,1296.0_and_1946.0.json
+AY,1,HH,,hi,HH AY1,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,S,CH,such,S AH1 CH,1,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,Y,T,beautiful,B Y UW1 T AH0 F AH0 L,1,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,D,,day,D EY1,1,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,D,,"today,",T AH0 D EY1,1,1369.0,1549.0,1369.0_and_1549.0.json
+UH,1,SH,R,sure,SH UH1 R,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,F,N,finally,F AY1 N AH0 L IY0,2,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,T,R,starting,S T AA1 R T IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,F,L,feel,F IY1 L,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,L,K,like,L AY1 K,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,R,NG,spring.,S P R IH1 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,V,everything,EH1 V R IY0 TH IH2 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+OW,1,G,IH0,going,G OW1 IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,TH,NG,things,TH IH1 NG Z,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,R,DH,rather,R AE1 DH ER0,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,B,Z,busy,B IH1 Z IY0,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,L,N,clinic,K L IH1 N IH0 K,1,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,,DH,"otherwise,",AH1 DH ER0 W AY2 Z,1,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,,L,all,AO1 L,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,W,L,well.,W EH1 L,1,1369.0,1549.0,1369.0_and_1549.0.json
+AW,1,B,T,about,AH0 B AW1 T,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,HH,K,hectic,HH EH1 K T IH0 K,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,W,K,week,W IY1 K,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,T,,too.,T UW1,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,W,N,between,B IH0 T W IY1 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,R,D,grading,G R EY1 D IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,P,P,papers,P EY1 P ER0 Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,K,N,conducting,K AH0 N D AH1 K T IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,,N,online,AO1 N L AY2 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,L,S,"classes,",K L AE1 S AH0 Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,B,R,barely,B EH1 R L IY0,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,T,M,time,T AY1 M,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,2,M,S,myself.,M AY2 S EH1 L F,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,K,N,can,K AE1 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,2,,M,imagine.,IH2 M AE1 JH AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,DH,S,this,DH IH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,D,M,pandemic,P AE0 N D EH1 M IH0 K,1,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,T,K,taken,T EY1 K AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+OW,1,T,L,toll,T OW1 L,1,1369.0,1549.0,1369.0_and_1549.0.json
+OW,1,B,TH,both,B OW1 TH,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,F,SH,professions.,P R AH0 F EH1 SH AH0 N Z,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,2,,B,"absolutely,",AE2 B S AH0 L UW1 T L IY0,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,T,CH,"teacher,",T IY1 CH ER0,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,CH,L,challenging,CH AE1 L AH0 N JH IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,K,P,keep,K IY1 P,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,T,D,students,S T UW1 D AH0 N T S,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,G,JH,engaged,IH0 N G EY1 JH D,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,R,,through,TH R UW1,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,R,N,screen.,S K R IY1 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,K,N,can,K AE1 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,L,T,relate.,R IH0 L EY1 T,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,Z,SH,physician,F AH0 Z IH1 SH AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,S,S,"assistant,",AH0 S IH1 S T AH0 N T,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,Z,SH,transition,T R AE0 N Z IH1 SH AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,2,T,L,telemedicine,T EH2 L IH0 M EH1 D IH0 S AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,T,P,steep,S T IY1 P,1,1369.0,1549.0,1369.0_and_1549.0.json
+UH,1,SH,R,sure,SH UH1 R,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,W,T,quite,K W AY1 T,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,D,F,different.,D IH1 F ER0 AH0 N T,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,D,,do,D UW1,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,M,S,miss,M IH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,2,,N,interactions?,IH2 N T ER0 AE1 K SH AH0 N Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,D,F,"definitely,",D EH1 F AH0 N AH0 T L IY0,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,S,IH0,seeing,S IY1 IH0 NG,1,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,P,SH,patients,P EY1 SH AH0 N T S,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,HH,L,helps,HH EH1 L P S,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,B,L,build,B IH1 L D,1,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,P,R,rapport.,R AE0 P AO1 R,1,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,L,S,"plus,",P L AH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,F,Z,physical,F IH1 Z IH0 K AH0 L,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,2,Z,M,examination,IH0 G Z AE2 M AH0 N EY1 SH AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,K,,key,K IY1,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,,S,aspect,AE1 S P EH2 K T,1,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,JH,B,job.,JH AA1 B,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,F,L,feel,F IY1 L,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,S,M,same,S EY1 M,2,1369.0,1549.0,1369.0_and_1549.0.json
+AW,1,B,T,about,AH0 B AW1 T,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,T,CH,teaching.,T IY1 CH IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,HH,R,hard,HH AA1 R D,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,G,JH,gauge,G EY1 JH,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,T,D,student,S T UW1 D AH0 N T,2,1369.0,1549.0,1369.0_and_1549.0.json
+AH,2,,N,understanding,AH2 N D ER0 S T AE1 N D IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,V,D,provide,P R AH0 V AY1 D,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,2,,M,immediate,IH2 M IY1 D IY2 AH0 T,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,F,D,feedback,F IY1 D B AE2 K,2,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,,N,online.,AO1 N L AY2 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,S,M,assume,AH0 S UW1 M,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,,L,also,AO1 L S OW0,1,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,T,F,tough,T AH1 F,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,M,N,manage,M AE1 N AH0 JH,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,L,S,class,K L AE1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,D,S,discipline?,D IH1 S AH0 P L AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,L,V,believe,B IH0 L IY1 V,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,T,M,"sometimes,",S AH0 M T AY1 M Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,F,L,feel,F IY1 L,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,L,K,like,L AY1 K,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,P,N,spending,S P EH1 N D IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,M,R,more,M AO1 R,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,T,M,time,T AY1 M,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,D,S,discipline,D IH1 S AH0 P L AH0 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,,K,actual,AE1 K CH AH0 W AH0 L,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,T,CH,teaching.,T IY1 CH IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,K,N,can,K AE1 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,S,,see,S IY1,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,B,,be,B IY1,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,D,F,difficult.,D IH1 F AH0 K AH0 L T,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,M,D,"medicine,",M EH1 D AH0 S AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,D,L,dealing,D IY1 L IH0 NG,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,D,F,different,D IH1 F ER0 AH0 N T,1,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,K,N,kind,K AY1 N D,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,D,S,discipline,D IH1 S AH0 P L AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,HH,R,adhering,AH0 D HH IH1 R IH0 NG,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,R,T,treatment,T R IY1 T M AH0 N T,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,L,N,plans,P L AE1 N Z,1,1369.0,1549.0,1369.0_and_1549.0.json
+AW,1,S,N,sounds,S AW1 N D Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,CH,L,challenging,CH AE1 L AH0 N JH IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,T,,too.,T UW1,2,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,M,S,must,M AH1 S T,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,B,,be,B IY1,2,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,HH,R,hard,HH AA1 R D,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,P,SH,patients,P EY1 SH AH0 N T S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,F,L,follow,F AA1 L OW0,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,R,,through.,TH R UW1,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,K,N,can,K AE1 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,B,,"be,",B IY1,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,P,R,part,P AA1 R T,1,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,JH,B,job.,JH AA1 B,1,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,L,K,like,L AY1 K,1,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,D,,do,D UW1,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,B,S,best,B EH1 S T,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,JH,educate,EH1 JH AH0 K EY2 T,1,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,G,D,guide,G AY1 D,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,2,,B,"absolutely,",AE2 B S AH0 L UW1 T L IY0,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,2,,JH,education,EH2 JH AH0 K EY1 SH AH0 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,K,,key,K IY1,2,1369.0,1549.0,1369.0_and_1549.0.json
+OW,1,B,TH,both,B OW1 TH,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,F,SH,professions.,P R AH0 F EH1 SH AH0 N Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,Y,S,"yes,",Y EH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,W,DH,whether,W EH1 DH ER0,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+AW,1,B,T,about,AH0 B AW1 T,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,HH,L,health,HH EH1 L TH,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,2,,K,"academics,",AE2 K AH0 D EH1 M IH0 K S,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,1,1369.0,1549.0,1369.0_and_1549.0.json
+AW,1,B,T,about,AH0 B AW1 T,1,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,V,D,providing,P R AH0 V AY1 D IH0 NG,1,1369.0,1549.0,1369.0_and_1549.0.json
+AA,1,N,L,knowledge,N AA1 L AH0 JH,1,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,P,R,support.,S AH0 P AO1 R T,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,Z,K,"exactly,",IH0 G Z AE1 K T L IY0,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,P,T,despite,D IH0 S P AY1 T,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,CH,L,"challenges,",CH AE1 L AH0 N JH IH0 Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,W,R,rewarding,R IH0 W AO1 R D IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,M,K,make,M EY1 K,2,1369.0,1549.0,1369.0_and_1549.0.json
+IH,1,D,F,"difference,",D IH1 F ER0 AH0 N S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,2,,B,absolutely.,AE2 B S AH0 L UW1 T L IY0,1,1369.0,1549.0,1369.0_and_1549.0.json
+AE,2,S,T,satisfaction,S AE2 T AH0 S F AE1 K SH AH0 N,1,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,HH,L,helping,HH EH1 L P IH0 NG,1,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,,DH,others,AH1 DH ER0 Z,1,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,M,K,makes,M EY1 K S,1,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,,L,all,AO1 L,1,1369.0,1549.0,1369.0_and_1549.0.json
+IY,1,R,,agree,AH0 G R IY1,2,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,M,R,more.,M AO1 R,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,,S,'s,EH1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AO,1,,L,always,AO1 L W EY2 Z,2,1369.0,1549.0,1369.0_and_1549.0.json
+AY,1,N,S,nice,N AY1 S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,CH,T,chatting,CH AE1 T IH0 NG,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,L,T,let's,L EH1 T S,2,1369.0,1549.0,1369.0_and_1549.0.json
+AE,1,K,CH,catch,K AE1 CH,2,1369.0,1549.0,1369.0_and_1549.0.json
+AH,1,,P,up,AH1 P,2,1369.0,1549.0,1369.0_and_1549.0.json
+EH,1,G,N,again,AH0 G EH1 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+UW,1,S,N,soon.,S UW1 N,2,1369.0,1549.0,1369.0_and_1549.0.json
+EY,1,HH,,hey,HH EY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,G,D,good,G UH1 D,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,S,,see,S IY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,Y,R,your,Y AO1 R,1,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,D,,day,D EY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,G,IH0,going?,G OW1 IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,HH,,hi!,HH AY1,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,S,'s,EH1 S,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,B,Z,busy,B IH1 Z IY0,2,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,D,,day.,D EY1,2,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,B,K,back,B AE1 K,2,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,S,T,site,S AY1 T,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,V,Z,visit.,V IH1 Z IH0 T,2,1592.0,1450.0,1592.0_and_1450.0.json
+AW,1,B,T,about,AH0 B AW1 T,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,R,T,pretty,P R IH1 T IY0,1,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,M,CH,much,M AH1 CH,1,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,S,M,same.,S EY1 M,1,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,L,S,classes,K L AE1 S AH0 Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,K,P,keeping,K IY1 P IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,M,,me,M IY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,T,Z,toes.,T OW1 Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,Y,R,your,Y AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,M,S,semester,S AH0 M EH1 S T ER0,2,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,G,IH0,going?,G OW1 IH0 NG,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,M,S,must,M AH1 S T,2,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,B,,be,B IY1,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,T,F,tough,T AH1 F,2,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,B,L,balancing,B AE1 L AH0 N S IH0 NG,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,V,everything.,EH1 V R IY0 TH IH2 NG,2,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,K,N,can,K AE1 N,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,B,,be,B IY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,B,T,bit,B IH1 T,1,1592.0,1450.0,1592.0_and_1450.0.json
+OW,2,,V,"overwhelming,",OW2 V ER0 W EH1 L M IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,M,N,managing.,M AE1 N AH0 JH IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,L,T,let's,L EH1 T S,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,S,,see,S IY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,F,N,finals,F AY1 N AH0 L Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,G,,go.,G OW1,1,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,SH,R,sure,SH UH1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+UW,1,D,,do,D UW1,2,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,R,T,great.,G R EY1 T,2,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,,F,after,AE1 F T ER0,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,,L,"all,",AO1 L,2,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,R,,'re,R EY1,2,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,N,B,neighborhood,N EY1 B ER0 HH UH2 D,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,W,Z,whiz,W IH1 Z,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,K,D,kid!,K IH1 D,2,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,TH,NG,thanks,TH AE1 NG K S,1,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,V,T,vote,V OW1 T,1,1592.0,1450.0,1592.0_and_1450.0.json
+AA,1,K,N,confidence.,K AA1 N F AH0 D EH0 N S,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,S,,see,S IY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,Y,R,your,Y AO1 R,1,1592.0,1450.0,1592.0_and_1450.0.json
+AW,1,HH,S,house,HH AW1 S,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,2,R,N,renovation,R EH2 N AH0 V EY1 SH AH0 N,1,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,K,M,coming,K AH1 M IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,L,NG,along,AH0 L AO1 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,N,S,nicely.,N AY1 S L IY0,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,Y,S,"yes,",Y EH1 S,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,S,'s,EH1 S,2,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,SH,P,shaping,SH EY1 P IH0 NG,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,,P,up,AH1 P,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,W,L,well.,W EH1 L,2,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,R,IH0,trying,T R AY1 IH0 NG,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,2,,N,incorporate,IH2 N K AO1 R P ER0 EY2 T,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,S,M,some,S AH1 M,2,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,Z,N,designs.,D IH0 Z AY1 N Z,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,,N,"interesting,",IH1 N T AH0 R EH2 S T IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,M,S,semester,S AH0 M EH1 S T ER0,1,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,F,K,focus,F OW1 K AH0 S,1,1592.0,1450.0,1592.0_and_1450.0.json
+AY,2,V,R,environmental,IH0 N V AY2 R AH0 N M EH1 N T AH0 L,1,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,T,D,studies.,S T AH1 D IY0 Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,R,L,really?,R IH1 L IY0,2,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,M,B,maybe,M EY1 B IY0,2,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,K,N,can,K AE1 N,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,G,V,give,G IH1 V,2,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,M,,me,M IY1,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,S,M,some,S AH1 M,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,T,P,tips,T IH1 P S,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,DH,N,then?,DH EH1 N,2,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,SH,R,"sure,",SH UH1 R,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,D,,'d,D IY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,L,V,love,L AH1 V,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,S,V,several,S EH1 V ER0 AH0 L,1,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,W,Z,ways,W EY1 Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+UW,1,D,S,reduce,R IH0 D UW1 S,1,1592.0,1450.0,1592.0_and_1450.0.json
+AA,1,K,R,carbon,K AA1 R B AH0 N,1,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,F,T,footprint,F UH1 T P R IH2 N T,1,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,B,L,buildings.,B IH1 L D IH0 NG Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,,L,all,AO1 L,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,,R,ears.,IH1 R Z,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,F,R,before,B IH0 F AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,T,L,tell,T EH1 L,2,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,M,,me,M IY1,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,M,R,more,M AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+AW,1,B,T,about,AH0 B AW1 T,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,Y,R,your,Y AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,T,D,studies.,S T AH1 D IY0 Z,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,S,'s,EH1 S,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,Y,R,your,Y AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,M,JH,major?,M EY1 JH ER0,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,W,L,"well,",W EH1 L,1,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,M,JH,majoring,M EY1 JH ER0 IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+AY,2,V,R,environmental,IH0 N V AY2 R AH0 N M EH1 N T AH0 L,1,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,S,AH0,science.,S AY1 AH0 N S,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,S,'s,EH1 S,1,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,F,S,fascinating,F AE1 S AH0 N EY2 T IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,F,L,field.,F IY1 L D,1,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,K,N,can,K AE1 N,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,2,,M,imagine.,IH2 M AE1 JH AH0 N,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,S,'s,EH1 S,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,K,M,becoming,B IH0 K AH1 M IH0 NG,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,M,R,more,M AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,M,R,more,M AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,2,,M,important,IH2 M P AO1 R T AH0 N T,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,F,SH,profession,P R AH0 F EH1 SH AH0 N,2,1592.0,1450.0,1592.0_and_1450.0.json
+UW,1,T,,too.,T UW1,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,D,F,definitely.,D EH1 F AH0 N AH0 T L IY0,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,M,N,"mean,",M IY1 N,1,1592.0,1450.0,1592.0_and_1450.0.json
+UW,1,T,D,"student,",S T UW1 D AH0 N T,1,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,K,N,can,K AE1 N,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,S,,see,S IY1,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,S,essential,EH0 S EH1 N SH AH0 L,1,1592.0,1450.0,1592.0_and_1450.0.json
+AA,1,,R,architecture.,AA1 R K AH0 T EH2 K CH ER0,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,Y,S,"yes,",Y EH1 S,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,2,,N,indeed.,IH2 N D IY1 D,2,1592.0,1450.0,1592.0_and_1450.0.json
+AW,1,N,,"now,",N AW1,2,1592.0,1450.0,1592.0_and_1450.0.json
+AW,1,B,T,about,AH0 B AW1 T,2,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,DH,Z,those,DH OW1 Z,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,T,P,tips...,T IH1 P S,2,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,R,T,"right,",R AY1 T,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,W,L,"well,",W EH1 L,1,1592.0,1450.0,1592.0_and_1450.0.json
+UW,1,Y,Z,using,Y UW1 Z IH0 NG,1,1592.0,1450.0,1592.0_and_1450.0.json
+OW,1,L,K,locally,L OW1 K AH0 L IY0,1,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,T,R,materials,M AH0 T IH1 R IY0 AH0 L Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,K,N,can,K AE1 N,1,1592.0,1450.0,1592.0_and_1450.0.json
+UW,1,D,S,reduce,R IH0 D UW1 S,1,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,P,R,transport,T R AE0 N S P AO1 R T,1,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,,M,emissions...,IH0 M IH1 SH AH0 N Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,G,D,good,G UH1 D,2,1592.0,1450.0,1592.0_and_1450.0.json
+OY,1,P,N,point.,P OY1 N T,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,D,F,definitely,D EH1 F AH0 N AH0 T L IY0,2,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,L,K,look,L UH1 K,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,,N,into,IH1 N T UW0,2,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,TH,NG,thanks!,TH AE1 NG K S,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,L,ZH,pleasure.,P L EH1 ZH ER0,1,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,,S,'s,EH1 S,1,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,,L,always,AO1 L W EY2 Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+EY,1,R,T,great,G R EY1 T,1,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,DH,Z,these,DH IY1 Z,1,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,,N,insightful,IH1 N S AY2 T F AH0 L,1,1592.0,1450.0,1592.0_and_1450.0.json
+AE,1,CH,T,chats,CH AE1 T S,1,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,L,K,likewise.,L AY1 K W AY2 Z,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,L,T,let's,L EH1 T S,2,1592.0,1450.0,1592.0_and_1450.0.json
+IY,1,K,P,keep,K IY1 P,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,SH,R,sharing,SH EH1 R IH0 NG,2,1592.0,1450.0,1592.0_and_1450.0.json
+EH,1,F,SH,professional,P R AH0 F EH1 SH AH0 N AH0 L,2,1592.0,1450.0,1592.0_and_1450.0.json
+IH,1,,N,insights.,IH1 N S AY2 T S,2,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,G,D,good,G UH1 D,2,1592.0,1450.0,1592.0_and_1450.0.json
+AH,1,L,K,luck,L AH1 K,2,1592.0,1450.0,1592.0_and_1450.0.json
+AO,1,Y,R,your,Y AO1 R,2,1592.0,1450.0,1592.0_and_1450.0.json
+AY,1,F,N,finals!,F AY1 N AH0 L Z,2,1592.0,1450.0,1592.0_and_1450.0.json
+UH,1,G,D,good,G UH1 D,1,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,M,R,morning!,M AO1 R N IH0 NG,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,S,'s,EH1 S,1,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,W,T,quite,K W AY1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,Y,T,beautiful,B Y UW1 T AH0 F AH0 L,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,,day,D EY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,,"today,",T AH0 D EY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,Y,S,"yes,",Y EH1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,S,'s,EH1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+AE,2,,B,absolutely,AE2 B S AH0 L UW1 T L IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+AH,1,L,V,lovely.,L AH1 V L IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,R,NG,spring,S P R IH1 NG,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,N,T,connecticut,K AH0 N EH1 T AH0 K AH0 T,2,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,,L,always,AO1 L W EY2 Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,R,T,treat.,T R IY1 T,2,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,R,,agree,AH0 G R IY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,M,R,more.,M AO1 R,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,N,B,neighborhood,N EY1 B ER0 HH UH2 D,1,1559.0,1282.0,1559.0_and_1282.0.json
+UH,1,L,K,looks,L UH1 K S,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,P,SH,especially,AH0 S P EH1 SH L IY0,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,CH,R,charming,CH AA1 R M IH0 NG,1,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,,L,all,AO1 L,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,DH,Z,these,DH IY1 Z,1,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,L,M,blooming,B L UW1 M IH0 NG,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,R,Z,trees.,T R IY1 Z,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,Y,S,"yes,",Y EH1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+AH,1,D,Z,does.,D AH1 Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,CH,R,cherry,CH EH1 R IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,L,S,blossoms,B L AA1 S AH0 M Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,R,S,across,AH0 K R AO1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,R,T,street,S T R IY1 T,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,F,V,favorite.,F EY1 V ER0 IH0 T,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,R,,'re,R EY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,M,N,mine,M AY1 N,1,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,T,,too.,T UW1,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,P,K,speaking,S P IY1 K IH0 NG,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,F,V,"favorites,",F EY1 V ER0 IH0 T S,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,V,ever,EH1 V ER0,1,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,Y,N,community,K AH0 M Y UW1 N AH0 T IY0,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,G,R,garden?,G AA1 R D AH0 N,1,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,P,S,pass,P AE1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,B,,by,B AY1,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,V,every,EH1 V ER0 IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,,day,D EY1,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,W,,way,W EY1,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,S,'s,EH1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+AH,1,W,N,wonderful,W AH1 N D ER0 F AH0 L,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,R,JH,project.,P R AA1 JH EH0 K T,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,R,L,really,R IH1 L IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,T,S,participated,P AA0 R T IH1 S AH0 P EY2 T AH0 D,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,S,'s,EH1 S,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,R,T,great,G R EY1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,L,S,place,P L EY1 S,1,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,L,K,relax,R IH0 L AE1 K S,1,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,,F,after,AE1 F T ER0,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,HH,K,hectic,HH EH1 K T IH0 K,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,,day.,D EY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,Y,ZH,usually,Y UW1 ZH AH0 W AH0 L IY0,1,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,G,,go,G OW1,1,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,W,N,unwind,AH0 N W AY1 N D,1,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,,F,after,AE1 F T ER0,1,1559.0,1282.0,1559.0_and_1282.0.json
+AW,1,S,N,sounds,S AW1 N D Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+AH,1,L,V,lovely.,L AH1 V L IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,M,B,maybe,M EY1 B IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,T,R,start,S T AA1 R T,2,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,D,IH0,doing,D UW1 IH0 NG,2,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,T,,too.,T UW1,2,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,B,,by,B AY1,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,W,,"way,",W EY1,2,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,D,,do,D UW1,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,T,K,tech,T EH1 K,1,1559.0,1282.0,1559.0_and_1282.0.json
+AH,1,K,M,company,K AH1 M P AH0 N IY2,1,1559.0,1282.0,1559.0_and_1282.0.json
+AW,1,D,N,downtown,D AW1 N T AW1 N,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,R,S,prospect.,P R AA1 S P EH0 K T,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,S,N,senior,S IY1 N Y ER0,1,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,S,S,assistant,AH0 S IH1 S T AH0 N T,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,ER0,K,director,D ER0 EH1 K T ER0,1,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,S,S,systems.,S IH1 S T AH0 M Z,1,1559.0,1282.0,1559.0_and_1282.0.json
+AW,1,S,N,sounds,S AW1 N D Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,,N,interesting!,IH1 N T AH0 R EH2 S T IH0 NG,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,M,S,macy's,M EY1 S IY0 Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,M,R,meriden,M EH1 R IH0 D AH0 N,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,S,L,sales,S EY1 L Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,S,S,associate.,AH0 S OW1 S IY0 AH0 T,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,R,T,great!,G R EY1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,B,T,bet,B EH1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,M,T,meet,M IY1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,L,T,lot,L AA1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,,N,interesting,IH1 N T AH0 R EH2 S T IH0 NG,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,P,P,people,P IY1 P AH0 L,1,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,Y,R,your,Y AO1 R,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,JH,B,job.,JH AA1 B,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,D,F,definitely!,D EH1 F AH0 N AH0 T L IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,S,'s,EH1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,N,V,never,N EH1 V ER0,2,1559.0,1282.0,1559.0_and_1282.0.json
+AH,1,D,L,dull,D AH1 L,2,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,M,M,moment.,M OW1 M AH0 N T,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,V,every,EH1 V ER0 IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,,day,D EY1,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,D,F,different,D IH1 F ER0 AH0 N T,2,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,N,K,unique.,Y UW0 N IY1 K,2,1559.0,1282.0,1559.0_and_1282.0.json
+AW,1,B,T,about,AH0 B AW1 T,2,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,Y,R,your,Y AO1 R,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,JH,B,job?,JH AA1 B,2,1559.0,1282.0,1559.0_and_1282.0.json
+AH,1,D,Z,does,D AH1 Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,S,N,senior,S IY1 N Y ER0,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,S,S,assistant,AH0 S IH1 S T AH0 N T,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,ER0,K,director,D ER0 EH1 K T ER0,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,S,S,systems,S IH1 S T AH0 M Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,D,,do?,D UW1,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,W,L,"well,",W EH1 L,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,B,S,basically,B EY1 S IH0 K L IY0,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,P,N,responsible,R IY0 S P AA1 N S AH0 B AH0 L,1,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,,V,overseeing,OW1 V ER0 S IY2 IH0 NG,1,1559.0,1282.0,1559.0_and_1282.0.json
+IH,2,,N,information,IH2 N F AO2 R M EY1 SH AH0 N,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,N,L,technology,T EH0 K N AA1 L AH0 JH IY0,1,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,S,S,systems.,S IH1 S T AH0 M Z,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,,S,'s,EH1 S,1,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,W,T,quite,K W AY1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,CH,L,challenging,CH AE1 L AH0 N JH IH0 NG,1,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,R,L,"role,",R OW1 L,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,2,,N,enjoy,EH2 N JH OY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+AW,1,S,N,sounds,S AW1 N D Z,2,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,L,K,like,L AY1 K,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,L,T,lot,L AA1 T,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,2,P,N,responsibility.,R IY0 S P AA2 N S AH0 B IH1 L AH0 T IY0,2,1559.0,1282.0,1559.0_and_1282.0.json
+UH,1,SH,R,sure,SH UH1 R,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,P,R,part,P AA1 R T,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,M,K,makes,M EY1 K S,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,1,,N,interesting.,IH1 N T AH0 R EH2 S T IH0 NG,2,1559.0,1282.0,1559.0_and_1282.0.json
+AE,2,,B,absolutely!,AE2 B S AH0 L UW1 T L IY0,1,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,L,K,like,L AY1 K,1,1559.0,1282.0,1559.0_and_1282.0.json
+AO,1,Y,R,your,Y AO1 R,1,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,JH,B,"job,",JH AA1 B,1,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,N,,no,N OW1,1,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,T,,two,T UW1,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,Z,days,D EY1 Z,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,S,M,same.,S EY1 M,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,K,P,keeps,K IY1 P S,1,1559.0,1282.0,1559.0_and_1282.0.json
+IY,1,M,,me,M IY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,T,Z,toes.,T OW1 Z,1,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,K,N,can,K AE1 N,2,1559.0,1282.0,1559.0_and_1282.0.json
+IH,2,,M,imagine!,IH2 M AE1 JH AH0 N,2,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,W,L,"well,",W EH1 L,2,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,N,S,nice,N AY1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,CH,T,chatting,CH AE1 T IH0 NG,2,1559.0,1282.0,1559.0_and_1282.0.json
+AA,1,R,B,probably,P R AA1 B AH0 B L IY2,2,1559.0,1282.0,1559.0_and_1282.0.json
+OW,1,G,IH0,going.,G OW1 IH0 NG,2,1559.0,1282.0,1559.0_and_1282.0.json
+AY,1,N,S,nice,N AY1 S,2,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,,day!,D EY1,2,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,T,,"too,",T UW1,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,R,T,great,G R EY1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+EY,1,D,,day!,D EY1,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,L,T,let's,L EH1 T S,1,1559.0,1282.0,1559.0_and_1282.0.json
+AE,1,CH,T,chat,CH AE1 T,1,1559.0,1282.0,1559.0_and_1282.0.json
+EH,1,G,N,again,AH0 G EH1 N,1,1559.0,1282.0,1559.0_and_1282.0.json
+UW,1,S,N,soon.,S UW1 N,1,1559.0,1282.0,1559.0_and_1282.0.json

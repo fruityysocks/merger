@@ -1,0 +1,223 @@
+{
+  "speaker1": 1290,
+  "speaker2": 1239,
+  "original_conversation": "Speaker 1: Hey there, how have you been?\nSpeaker 2: Not too bad, thanks. Just trying to keep up with the yard work. How about you?\nSpeaker 1: Pretty much the same. It seems like the leaves are falling faster than I can rake them up.\nSpeaker 2: Yeah, it's a never ending battle this time of year. You got any tricks for keeping up with it all?\nSpeaker 1: Well, I've actually been using this leaf blower that my brother recommended. It cuts the time in half. \nSpeaker 2: Ah, maybe I should look into getting one of those. I've been doing it the old-fashioned way with just a rake.\nSpeaker 1: You know, it's funny how we complain about these chores, but I find them kind of therapeutic after a long day of dealing with people.\nSpeaker 2: Oh, tell me about it! The quiet is nice after a day in the warehouse. What's the biggest challenge you face as a behavioral specialist?\nSpeaker 1: Well, every case is unique, which is both challenging and rewarding. But I suppose one of the biggest challenges is getting people to open up and trust you. How about you? What\u2019s the biggest challenge in your line of work?\nSpeaker 2: Organization is key. Keeping track of inventory and making sure everything runs smoothly can be a headache sometimes. But I guess like you, there's also the reward when everything works out. \nSpeaker 1: Yes, exactly! It feels so good when you see progress, doesn't it?\nSpeaker 2: Absolutely! The satisfaction of a well-run warehouse or seeing a client make progress, it's pretty similar I guess.",
+  "cleaned_conversation": "Speaker 1: hey , ?\nSpeaker 2: too bad, thanks. trying keep up yard work. about ?\nSpeaker 1: pretty much same. seems like leaves falling faster can rake up.\nSpeaker 2: , never ending battle this time year. any tricks keeping up all?\nSpeaker 1: well, actually using this leaf blower brother recommended. cuts time half.\nSpeaker 2: , maybe look into getting one those. doing old-fashioned way rake.\nSpeaker 1: know, funny complain about these chores, find kind therapeutic after long day dealing people.\nSpeaker 2: , tell me about ! quiet nice after day warehouse. 's biggest challenge face behavioral specialist?\nSpeaker 1: well, every case unique, both challenging rewarding. suppose one biggest challenges getting people open up trust . about ? \u2019s biggest challenge your line work?\nSpeaker 2: organization key. keeping track inventory making sure everything runs smoothly can be headache sometimes. guess like , 's also reward everything works out.\nSpeaker 1: yes, exactly! feels good see progress, doesn't ?\nSpeaker 2: absolutely! satisfaction well-run warehouse seeing client make progress, pretty similar guess.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "T UW1",
+        "B AE1 D",
+        "TH AE1 NG K S",
+        "T R AY1 IH0 NG",
+        "K IY1 P",
+        "AH1 P",
+        "Y AA1 R D",
+        "W ER1 K",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "P R IH1 T IY0",
+        "M AH1 CH",
+        "S EY1 M",
+        "S IY1 M Z",
+        "L AY1 K",
+        "L IY1 V Z",
+        "F AA1 L IH0 NG",
+        "F AE1 S T ER0",
+        "K AE1 N",
+        "R EY1 K",
+        "AH1 P"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "N EH1 V ER0",
+        "EH1 N D IH0 NG",
+        "B AE1 T AH0 L",
+        "DH IH1 S",
+        "T AY1 M",
+        "Y IH1 R",
+        "EH1 N IY0",
+        "T R IH1 K S",
+        "K IY1 P IH0 NG",
+        "AH1 P",
+        "AO1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "AE1 K CH UW2 AH0 L IY0",
+        "Y UW1 Z IH0 NG",
+        "DH IH1 S",
+        "L IY1 F",
+        "B L OW1 ER0",
+        "B R AH1 DH ER0",
+        "R EH2 K AH0 M EH1 N D AH0 D",
+        "K AH1 T S",
+        "T AY1 M",
+        "HH AE1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "M EY1 B IY0",
+        "L UH1 K",
+        "IH1 N T UW0",
+        "G EH1 T IH0 NG",
+        "W AH1 N",
+        "DH OW1 Z",
+        "D UW1 IH0 NG",
+        "OW2 L D F AE1 SH AH0 N D",
+        "W EY1",
+        "R EY1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "N OW1",
+        "F AH1 N IY0",
+        "K AH0 M P L EY1 N",
+        "AH0 B AW1 T",
+        "DH IY1 Z",
+        "CH AO1 R Z",
+        "F AY1 N D",
+        "K AY1 N D",
+        "TH EH2 R AH0 P Y UW1 T IH0 K",
+        "AE1 F T ER0",
+        "L AO1 NG",
+        "D EY1",
+        "D IY1 L IH0 NG",
+        "P IY1 P AH0 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "T EH1 L",
+        "M IY1",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "K W AY1 AH0 T",
+        "N AY1 S",
+        "AE1 F T ER0",
+        "D EY1",
+        "W EH1 R HH AW2 S",
+        "EH1 S",
+        "B IH1 G AH0 S T",
+        "CH AE1 L AH0 N JH",
+        "F EY1 S",
+        "B IH0 HH EY1 V Y ER0 AH0 L",
+        "S P EH1 SH AH0 L IH0 S T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "EH1 V ER0 IY0",
+        "K EY1 S",
+        "Y UW0 N IY1 K",
+        "B OW1 TH",
+        "CH AE1 L AH0 N JH IH0 NG",
+        "R IH0 W AO1 R D IH0 NG",
+        "S AH0 P OW1 Z",
+        "W AH1 N",
+        "B IH1 G AH0 S T",
+        "CH AE1 L AH0 N JH IH0 Z",
+        "G EH1 T IH0 NG",
+        "P IY1 P AH0 L",
+        "OW1 P AH0 N",
+        "AH1 P",
+        "T R AH1 S T",
+        "[UNK]",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "EH1 S",
+        "B IH1 G AH0 S T",
+        "CH AE1 L AH0 N JH",
+        "Y AO1 R",
+        "L AY1 N",
+        "W ER1 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AO2 R G AH0 N AH0 Z EY1 SH AH0 N",
+        "K IY1",
+        "K IY1 P IH0 NG",
+        "T R AE1 K",
+        "IH2 N V AH0 N T AO1 R IY0",
+        "M EY1 K IH0 NG",
+        "SH UH1 R",
+        "EH1 V R IY0 TH IH2 NG",
+        "R AH1 N Z",
+        "S M UW1 DH L IY0",
+        "K AE1 N",
+        "B IY1",
+        "HH EH1 D EY2 K",
+        "S AH0 M T AY1 M Z",
+        "G EH1 S",
+        "L AY1 K",
+        "[UNK]",
+        "EH1 S",
+        "AO1 L S OW0",
+        "R IH0 W AO1 R D",
+        "EH1 V R IY0 TH IH2 NG",
+        "W ER1 K S",
+        "AW1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "IH0 G Z AE1 K T L IY0",
+        "F IY1 L Z",
+        "G UH1 D",
+        "S IY1",
+        "P R AA1 G R EH2 S",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "S AE2 T AH0 S F AE1 K SH AH0 N",
+        "[UNK]",
+        "W EH1 R HH AW2 S",
+        "S IY1 IH0 NG",
+        "K L AY1 AH0 N T",
+        "M EY1 K",
+        "P R AA1 G R EH2 S",
+        "P R IH1 T IY0",
+        "S IH1 M AH0 L ER0",
+        "G EH1 S"
+      ]
+    }
+  ]
+}

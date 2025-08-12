@@ -1,0 +1,256 @@
+{
+  "speaker1": 1234,
+  "speaker2": 1210,
+  "original_conversation": "Speaker 1: Good morning! What a nice day, isn't it?\nSpeaker 2: Yeah, it is. The sun's out and everything.\nSpeaker 1: It's just perfect for a walk. By the way, I don't think we've met. I'm Nancy, from the house next to the maple tree.\nSpeaker 2: Oh, hi Nancy! I've seen you around. I'm Tom. I live in the red house across the street.\nSpeaker 1: Ah, that's a nice place you got there, Tom. I always loved the color.\nSpeaker 2: Thanks, Nancy. I think your house is beautiful too. The maple tree adds a nice touch.\nSpeaker 1: Thank you, Tom. So what keeps you busy these days?\nSpeaker 2: Well, I'm a student. I go to university in Boston. How about you, Nancy?\nSpeaker 1: Oh, that's interesting. I work as an administrative assistant at a nearby company.\nSpeaker 2: That sounds like a responsible job. What exactly does that entail?\nSpeaker 1: Well, it can be a lot. I have to manage schedules, organize meetings, handle correspondence, you know. But it's rewarding.\nSpeaker 2: Sounds like you're good at multitasking. I could never keep track of all that stuff. I'm more into books and studies.\nSpeaker 1: Well, everyone has their strengths, Tom. What are you studying?\nSpeaker 2: I'm majoring in Computer Science actually. I'm really into coding and stuff.\nSpeaker 1: That's impressive! I can barely keep up with my smartphone sometimes.\nSpeaker 2: Well, it's not for everyone. But it's what I enjoy. Just like you enjoy managing and organizing things, I guess.\nSpeaker 1: That's a good point, Tom. It's important to enjoy what you do. And, who knows, maybe you can help me with my phone sometime.\nSpeaker 2: Absolutely, Nancy. I'd be happy to help.",
+  "cleaned_conversation": "Speaker 1: good morning! nice day, isn't ?\nSpeaker 2: , . sun's out everything.\nSpeaker 1: perfect walk. by way, don't think met. nancy, house next maple tree.\nSpeaker 2: , hi nancy! seen around. tom. live red house across street.\nSpeaker 1: , nice place , tom. always loved color.\nSpeaker 2: thanks, nancy. think your house beautiful too. maple tree adds nice touch.\nSpeaker 1: thank , tom. keeps busy these days?\nSpeaker 2: well, student. go university boston. about , nancy?\nSpeaker 1: , interesting. work administrative assistant nearby company.\nSpeaker 2: sounds like responsible job. exactly does entail?\nSpeaker 1: well, can be lot. manage schedules, organize meetings, handle correspondence, know. rewarding.\nSpeaker 2: sounds like 're good multitasking. never keep track all stuff. more into books studies.\nSpeaker 1: well, everyone strengths, tom. studying?\nSpeaker 2: majoring computer science actually. really into coding stuff.\nSpeaker 1: impressive! can barely keep up smartphone sometimes.\nSpeaker 2: well, everyone. enjoy. like enjoy managing organizing things, guess.\nSpeaker 1: good point, tom. important enjoy do. , who knows, maybe can help me phone sometime.\nSpeaker 2: absolutely, nancy. be happy help.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "M AO1 R N IH0 NG",
+        "N AY1 S",
+        "D EY1",
+        "[UNK]",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "[UNK]",
+        "S AH1 N Z",
+        "AW1 T",
+        "EH1 V R IY0 TH IH2 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "P ER0 F EH1 K T",
+        "W AO1 K",
+        "B AY1",
+        "W EY1",
+        "[UNK]",
+        "TH IH1 NG K",
+        "M EH1 T",
+        "N AE1 N S IY0",
+        "HH AW1 S",
+        "N EH1 K S T",
+        "M EY1 P AH0 L",
+        "T R IY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "HH AY1",
+        "N AE1 N S IY0",
+        "S IY1 N",
+        "ER0 AW1 N D",
+        "T AA1 M",
+        "L AY1 V",
+        "R EH1 D",
+        "HH AW1 S",
+        "AH0 K R AO1 S",
+        "S T R IY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "N AY1 S",
+        "P L EY1 S",
+        "[UNK]",
+        "T AA1 M",
+        "AO1 L W EY2 Z",
+        "L AH1 V D",
+        "K AH1 L ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH AE1 NG K S",
+        "N AE1 N S IY0",
+        "TH IH1 NG K",
+        "Y AO1 R",
+        "HH AW1 S",
+        "B Y UW1 T AH0 F AH0 L",
+        "T UW1",
+        "M EY1 P AH0 L",
+        "T R IY1",
+        "AE1 D Z",
+        "N AY1 S",
+        "T AH1 CH"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "TH AE1 NG K",
+        "[UNK]",
+        "T AA1 M",
+        "K IY1 P S",
+        "B IH1 Z IY0",
+        "DH IY1 Z",
+        "D EY1 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "S T UW1 D AH0 N T",
+        "G OW1",
+        "Y UW2 N AH0 V ER1 S AH0 T IY0",
+        "B AA1 S T AH0 N",
+        "AH0 B AW1 T",
+        "[UNK]",
+        "N AE1 N S IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "IH1 N T AH0 R EH2 S T IH0 NG",
+        "W ER1 K",
+        "AH0 D M IH1 N IH0 S T R EY2 T IH0 V",
+        "AH0 S IH1 S T AH0 N T",
+        "N IH1 R B AY1",
+        "K AH1 M P AH0 N IY2"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AY1 K",
+        "R IY0 S P AA1 N S AH0 B AH0 L",
+        "JH AA1 B",
+        "IH0 G Z AE1 K T L IY0",
+        "D AH1 Z",
+        "EH0 N T EY1 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "K AE1 N",
+        "B IY1",
+        "L AA1 T",
+        "M AE1 N AH0 JH",
+        "S K EH1 JH UH0 L Z",
+        "AO1 R G AH0 N AY2 Z",
+        "M IY1 T IH0 NG Z",
+        "HH AE1 N D AH0 L",
+        "K AO2 R AH0 S P AA1 N D AH0 N S",
+        "N OW1",
+        "R IH0 W AO1 R D IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AY1 K",
+        "R EY1",
+        "G UH1 D",
+        "M AH1 L T IY0 T AE2 S K IH0 NG",
+        "N EH1 V ER0",
+        "K IY1 P",
+        "T R AE1 K",
+        "AO1 L",
+        "S T AH1 F",
+        "M AO1 R",
+        "IH1 N T UW0",
+        "B UH1 K S",
+        "S T AH1 D IY0 Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "W EH1 L",
+        "EH1 V R IY0 W AH2 N",
+        "S T R EH1 NG K TH S",
+        "T AA1 M",
+        "S T AH1 D IY0 IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "M EY1 JH ER0 IH0 NG",
+        "K AH0 M P Y UW1 T ER0",
+        "S AY1 AH0 N S",
+        "AE1 K CH UW2 AH0 L IY0",
+        "R IH1 L IY0",
+        "IH1 N T UW0",
+        "K OW1 D IH0 NG",
+        "S T AH1 F"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "IH2 M P R EH1 S IH0 V",
+        "K AE1 N",
+        "B EH1 R L IY0",
+        "K IY1 P",
+        "AH1 P",
+        "[UNK]",
+        "S AH0 M T AY1 M Z"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "W EH1 L",
+        "EH1 V R IY0 W AH2 N",
+        "EH2 N JH OY1",
+        "L AY1 K",
+        "EH2 N JH OY1",
+        "M AE1 N AH0 JH IH0 NG",
+        "AO1 R G AH0 N AY2 Z IH0 NG",
+        "TH IH1 NG Z",
+        "G EH1 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "G UH1 D",
+        "P OY1 N T",
+        "T AA1 M",
+        "IH2 M P AO1 R T AH0 N T",
+        "EH2 N JH OY1",
+        "D UW1",
+        "[UNK]",
+        "HH UW1",
+        "N OW1 Z",
+        "M EY1 B IY0",
+        "K AE1 N",
+        "HH EH1 L P",
+        "M IY1",
+        "F OW1 N",
+        "S AH1 M T AY2 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AE2 B S AH0 L UW1 T L IY0",
+        "N AE1 N S IY0",
+        "B IY1",
+        "HH AE1 P IY0",
+        "HH EH1 L P"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "speaker1": 1228,
+  "speaker2": 1208,
+  "original_conversation": "Speaker 1: Hi there, how's everything in Roslindale?\nSpeaker 2: Hey! It's going pretty well. The weather's been nice. How about in Hamden?\nSpeaker 1: Oh, it's been pretty chilly here lately. I guess that's Connecticut for you, right?\nSpeaker 2: Haha, true that. I remember when I lived in Connecticut, the winters were brutal!\nSpeaker 1: Yes, they can be. But the snow is quite beautiful, I must say.\nSpeaker 2: I agree, it's pretty, but not when you have to shovel it every morning!\nSpeaker 1: Haha, that's true! It's a workout I didn't sign up for.\nSpeaker 2: So, how's your job going? Still managing the team at the office?\nSpeaker 1: Yes, still managing. It's been quite a ride with everyone working from home.\nSpeaker 2: I can only imagine. Marketing from home hasn't been a walk in the park either. \nSpeaker 1: I bet. It must be tough to coordinate everything remotely.\nSpeaker 2: It is. But on the bright side, I've become a pro at multitasking.\nSpeaker 1: Haha, I know what you mean. I've learned to juggle conference calls, emails, and my kids' online school, all at once.\nSpeaker 2: Oh, the joys of remote work. Have you guys thought about going back to the office?\nSpeaker 1: We're considering it, but it's all dependent on how the situation evolves. It's a bit of a waiting game at this point.\nSpeaker 2: Yeah, same here. It's all so uncertain.\nSpeaker 1: True. But we'll adapt, as we always do. Anyway, enough about work. How's your garden coming along?\nSpeaker 2: It's thriving! I've been enjoying the homegrown tomatoes. What about your painting?\nSpeaker 1: Oh, I've been experimenting with watercolors lately. It's quite therapeutic.\nSpeaker 2: That sounds lovely! We should swap hobbies for a day, I could use some painting in my life.",
+  "cleaned_conversation": "Speaker 1: hi , 's everything roslindale?\nSpeaker 2: hey! going pretty well. weather's nice. about hamden?\nSpeaker 1: , pretty chilly here lately. guess connecticut , right?\nSpeaker 2: haha, true . remember lived connecticut, winters brutal!\nSpeaker 1: yes, can be. snow quite beautiful, must say.\nSpeaker 2: agree, pretty, shovel every morning!\nSpeaker 1: haha, true! workout didn't sign up .\nSpeaker 2: , 's your job going? still managing team office?\nSpeaker 1: yes, still managing. quite ride everyone working home.\nSpeaker 2: can only imagine. marketing home hasn't walk park either.\nSpeaker 1: bet. must be tough coordinate everything remotely.\nSpeaker 2: . bright side, become pro multitasking.\nSpeaker 1: haha, know mean. learned juggle conference calls, emails, kids' online school, all once.\nSpeaker 2: , joys remote work. guys thought about going back office?\nSpeaker 1: 're considering , all dependent situation evolves. bit waiting game this point.\nSpeaker 2: , same here. all uncertain.\nSpeaker 1: true. 'll adapt, always do. anyway, enough about work. 's your garden coming along?\nSpeaker 2: thriving! enjoying homegrown tomatoes. about your painting?\nSpeaker 1: , experimenting watercolors lately. quite therapeutic.\nSpeaker 2: sounds lovely! swap hobbies day, use some painting life.",
+  "phonetic_transcription": [
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "HH AY1",
+        "[UNK]",
+        "EH1 S",
+        "EH1 V R IY0 TH IH2 NG",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "HH EY1",
+        "G OW1 IH0 NG",
+        "P R IH1 T IY0",
+        "W EH1 L",
+        "W EH1 DH ER0 Z",
+        "N AY1 S",
+        "AH0 B AW1 T",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "P R IH1 T IY0",
+        "CH IH1 L IY0",
+        "HH IY1 R",
+        "L EY1 T L IY0",
+        "G EH1 S",
+        "K AH0 N EH1 T AH0 K AH0 T",
+        "[UNK]",
+        "R AY1 T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "T R UW1",
+        "[UNK]",
+        "R IH0 M EH1 M B ER0",
+        "L IH1 V D",
+        "K AH0 N EH1 T AH0 K AH0 T",
+        "W IH1 N T ER0 Z",
+        "B R UW1 T AH0 L"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "K AE1 N",
+        "B IY1",
+        "S N OW1",
+        "K W AY1 T",
+        "B Y UW1 T AH0 F AH0 L",
+        "M AH1 S T",
+        "S EY1"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "AH0 G R IY1",
+        "P R IH1 T IY0",
+        "SH AH1 V AH0 L",
+        "EH1 V ER0 IY0",
+        "M AO1 R N IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "T R UW1",
+        "W ER1 K AW2 T",
+        "[UNK]",
+        "S AY1 N",
+        "AH1 P",
+        "[UNK]"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "EH1 S",
+        "Y AO1 R",
+        "JH AA1 B",
+        "G OW1 IH0 NG",
+        "S T IH1 L",
+        "M AE1 N AH0 JH IH0 NG",
+        "T IY1 M",
+        "AO1 F AH0 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "Y EH1 S",
+        "S T IH1 L",
+        "M AE1 N AH0 JH IH0 NG",
+        "K W AY1 T",
+        "R AY1 D",
+        "EH1 V R IY0 W AH2 N",
+        "W ER1 K IH0 NG",
+        "HH OW1 M"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "K AE1 N",
+        "OW1 N L IY0",
+        "IH2 M AE1 JH AH0 N",
+        "M AA1 R K AH0 T IH0 NG",
+        "HH OW1 M",
+        "[UNK]",
+        "W AO1 K",
+        "P AA1 R K",
+        "IY1 DH ER0"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "B EH1 T",
+        "M AH1 S T",
+        "B IY1",
+        "T AH1 F",
+        "K OW0 AO1 R D AH0 N AH0 T",
+        "EH1 V R IY0 TH IH2 NG",
+        "R IY0 M OW1 T L IY0"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "B R AY1 T",
+        "S AY1 D",
+        "B IH0 K AH1 M",
+        "P R OW1",
+        "M AH1 L T IY0 T AE2 S K IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "N OW1",
+        "M IY1 N",
+        "L ER1 N D",
+        "JH AH1 G AH0 L",
+        "K AA1 N F ER0 AH0 N S",
+        "K AO1 L Z",
+        "IY0 M EY1 L Z",
+        "K IH1 D Z",
+        "AO1 N L AY2 N",
+        "S K UW1 L",
+        "AO1 L",
+        "W AH1 N S"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "JH OY1 Z",
+        "R IH0 M OW1 T",
+        "W ER1 K",
+        "G AY1 Z",
+        "TH AO1 T",
+        "AH0 B AW1 T",
+        "G OW1 IH0 NG",
+        "B AE1 K",
+        "AO1 F AH0 S"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "R EY1",
+        "K AH0 N S IH1 D ER0 IH0 NG",
+        "[UNK]",
+        "AO1 L",
+        "D IH0 P EH1 N D AH0 N T",
+        "S IH2 CH UW0 EY1 SH AH0 N",
+        "IH0 V AA1 L V Z",
+        "B IH1 T",
+        "W EY1 T IH0 NG",
+        "G EY1 M",
+        "DH IH1 S",
+        "P OY1 N T"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "[UNK]",
+        "S EY1 M",
+        "HH IY1 R",
+        "AO1 L",
+        "AH0 N S ER1 T AH0 N"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "T R UW1",
+        "[UNK]",
+        "AH0 D AE1 P T",
+        "AO1 L W EY2 Z",
+        "D UW1",
+        "EH1 N IY0 W EY2",
+        "IH0 N AH1 F",
+        "AH0 B AW1 T",
+        "W ER1 K",
+        "EH1 S",
+        "Y AO1 R",
+        "G AA1 R D AH0 N",
+        "K AH1 M IH0 NG",
+        "AH0 L AO1 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "TH R AY1 V IH0 NG",
+        "EH2 N JH OY1 IH0 NG",
+        "HH OW1 M G R OW1 N",
+        "T AH0 M EY1 T OW0 Z",
+        "AH0 B AW1 T",
+        "Y AO1 R",
+        "P EY1 N T IH0 NG"
+      ]
+    },
+    {
+      "speaker": "Speaker 1:",
+      "phonemes": [
+        "[UNK]",
+        "EH0 K S P EH1 R AH0 M EH2 N T IH0 NG",
+        "W AO1 T ER0 K AH2 L ER0 Z",
+        "L EY1 T L IY0",
+        "K W AY1 T",
+        "TH EH2 R AH0 P Y UW1 T IH0 K"
+      ]
+    },
+    {
+      "speaker": "Speaker 2:",
+      "phonemes": [
+        "S AW1 N D Z",
+        "L AH1 V L IY0",
+        "S W AA1 P",
+        "HH AA1 B IY0 Z",
+        "D EY1",
+        "Y UW1 S",
+        "S AH1 M",
+        "P EY1 N T IH0 NG",
+        "L AY1 F"
+      ]
+    }
+  ]
+}
